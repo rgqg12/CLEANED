@@ -1,0 +1,2621 @@
+GID_1,GID_0,COUNTRY,NAME_1,ENGTYPE_1,un_subregion,area_km2
+AFG.10_1,AFG,Afghanistan,Ghor,Province,Southern Asia,36470.2
+AFG.11_1,AFG,Afghanistan,Hilmand,Province,Southern Asia,58513.6
+AFG.12_1,AFG,Afghanistan,Hirat,Province,Southern Asia,54732.8
+AFG.13_1,AFG,Afghanistan,Jawzjan,Province,Southern Asia,11802.4
+AFG.14_1,AFG,Afghanistan,Kabul,Province,Southern Asia,4463.9
+AFG.15_1,AFG,Afghanistan,Kandahar,Province,Southern Asia,53508.4
+AFG.16_1,AFG,Afghanistan,Kapisa,Province,Southern Asia,1907.3
+AFG.17_1,AFG,Afghanistan,Khost,Province,Southern Asia,4019.8
+AFG.18_1,AFG,Afghanistan,Kunar,Province,Southern Asia,4889.3
+AFG.19_1,AFG,Afghanistan,Kunduz,Province,Southern Asia,8041.9
+AFG.1_1,AFG,Afghanistan,Badakhshan,Province,Southern Asia,43688.6
+AFG.20_1,AFG,Afghanistan,Laghman,Province,Southern Asia,3841.3
+AFG.21_1,AFG,Afghanistan,Logar,Province,Southern Asia,3870.0
+AFG.22_1,AFG,Afghanistan,Nangarhar,Province,Southern Asia,7469.6
+AFG.23_1,AFG,Afghanistan,Nimroz,Province,Southern Asia,40964.2
+AFG.24_1,AFG,Afghanistan,Nuristan,Province,Southern Asia,9226.1
+AFG.25_1,AFG,Afghanistan,Paktika,Province,Southern Asia,19061.9
+AFG.26_1,AFG,Afghanistan,Paktya,Province,Southern Asia,6429.5
+AFG.27_1,AFG,Afghanistan,Panjshir,Province,Southern Asia,3635.6
+AFG.28_1,AFG,Afghanistan,Parwan,Province,Southern Asia,5888.8
+AFG.29_1,AFG,Afghanistan,Samangan,Province,Southern Asia,11263.2
+AFG.2_1,AFG,Afghanistan,Badghis,Province,Southern Asia,20585.6
+AFG.30_1,AFG,Afghanistan,SariPul,Province,Southern Asia,15999.5
+AFG.31_1,AFG,Afghanistan,Takhar,Province,Southern Asia,12336.7
+AFG.32_1,AFG,Afghanistan,Uruzgan,Province,Southern Asia,12863.9
+AFG.33_1,AFG,Afghanistan,Wardak,Province,Southern Asia,8923.1
+AFG.34_1,AFG,Afghanistan,Zabul,Province,Southern Asia,17324.3
+AFG.3_1,AFG,Afghanistan,Baghlan,Province,Southern Asia,21120.8
+AFG.4_1,AFG,Afghanistan,Balkh,Province,Southern Asia,17254.7
+AFG.5_1,AFG,Afghanistan,Bamyan,Province,Southern Asia,14172.7
+AFG.6_1,AFG,Afghanistan,Daykundi,Province,Southern Asia,17907.4
+AFG.7_1,AFG,Afghanistan,Farah,Province,Southern Asia,48441.9
+AFG.8_1,AFG,Afghanistan,Faryab,Province,Southern Asia,20295.7
+AFG.9_1,AFG,Afghanistan,Ghazni,Province,Southern Asia,22918.8
+AGO.10_1,AGO,Angola,Huíla,Province,Middle Africa,78683.4
+AGO.11_1,AGO,Angola,Luanda,Province,Middle Africa,2441.0
+AGO.12_1,AGO,Angola,LundaNorte,Province,Middle Africa,107797.8
+AGO.13_1,AGO,Angola,LundaSul,Province,Middle Africa,77902.4
+AGO.14_1,AGO,Angola,Malanje,Province,Middle Africa,82160.4
+AGO.15_1,AGO,Angola,Moxico,Province,Middle Africa,199411.6
+AGO.16_1,AGO,Angola,Namibe,Province,Middle Africa,57905.4
+AGO.17_1,AGO,Angola,Uíge,Province,Middle Africa,62019.5
+AGO.18_1,AGO,Angola,Zaire,Province,Middle Africa,36581.4
+AGO.1_1,AGO,Angola,Bengo,Province,Middle Africa,34366.1
+AGO.2_1,AGO,Angola,Benguela,Province,Middle Africa,39508.1
+AGO.3_1,AGO,Angola,Bié,Province,Middle Africa,72049.5
+AGO.4_1,AGO,Angola,Cabinda,Province,Middle Africa,7046.5
+AGO.5_1,AGO,Angola,CuandoCubango,Province,Middle Africa,199555.4
+AGO.6_1,AGO,Angola,CuanzaNorte,Province,Middle Africa,23820.1
+AGO.7_1,AGO,Angola,CuanzaSul,Province,Middle Africa,55259.1
+AGO.8_1,AGO,Angola,Cunene,Province,Middle Africa,77253.1
+AGO.9_1,AGO,Angola,Huambo,Province,Middle Africa,33135.5
+AIA.10_1,AIA,Anguilla,StoneyGround,District,Caribbean,7.4
+AIA.11_1,AIA,Anguilla,TheFarrington,District,Caribbean,5.1
+AIA.12_1,AIA,Anguilla,TheQuarter,District,Caribbean,3.4
+AIA.13_1,AIA,Anguilla,TheValley,District,Caribbean,2.6
+AIA.14_1,AIA,Anguilla,WestEnd,District,Caribbean,8.0
+AIA.15_1,AIA,Anguilla,DogIsland,Island,Caribbean,1.9
+AIA.16_1,AIA,Anguilla,PriclyPearCays,Island,Caribbean,0.1
+AIA.17_1,AIA,Anguilla,ScrubIsland,Island,Caribbean,3.9
+AIA.18_1,AIA,Anguilla,SombreroIsland,Island,Caribbean,0.1
+AIA.1_1,AIA,Anguilla,BlowingPoint,District,Caribbean,5.0
+AIA.2_1,AIA,Anguilla,EastEnd,District,Caribbean,4.9
+AIA.3_1,AIA,Anguilla,GeorgeHill,District,Caribbean,6.5
+AIA.4_1,AIA,Anguilla,IslandHarbour,District,Caribbean,6.0
+AIA.5_1,AIA,Anguilla,NorthHill,District,Caribbean,1.0
+AIA.6_1,AIA,Anguilla,NorthSide,District,Caribbean,8.8
+AIA.7_1,AIA,Anguilla,SandyGround,District,Caribbean,0.9
+AIA.8_1,AIA,Anguilla,SandyHill,District,Caribbean,7.0
+AIA.9_1,AIA,Anguilla,SouthHill,District,Caribbean,7.0
+ARE.1_1,ARE,UnitedArabEmirates,AbuDhabi,Emirate,Western Asia,59509.0
+ARE.2_1,ARE,UnitedArabEmirates,Ajman,Emirate,Western Asia,233.5
+ARE.3_1,ARE,UnitedArabEmirates,Dubai,Emirate,Western Asia,4083.2
+ARE.4_1,ARE,UnitedArabEmirates,Fujairah,Emirate,Western Asia,1586.4
+ARE.5_1,ARE,UnitedArabEmirates,RasAl-Khaimah,Emirate,Western Asia,2431.9
+ARE.6_1,ARE,UnitedArabEmirates,Sharjah,Emirate,Western Asia,2518.4
+ARE.7_1,ARE,UnitedArabEmirates,Ummal-Qaywayn,Emirate,Western Asia,742.6
+ARG.10_1,ARG,Argentina,Jujuy,Province,South America,53131.6
+ARG.11_1,ARG,Argentina,LaPampa,Province,South America,142951.0
+ARG.12_1,ARG,Argentina,LaRioja,Province,South America,91101.8
+ARG.13_1,ARG,Argentina,Mendoza,Province,South America,148769.0
+ARG.14_1,ARG,Argentina,Misiones,Province,South America,29978.2
+ARG.15_1,ARG,Argentina,Neuquén,Province,South America,94508.2
+ARG.16_1,ARG,Argentina,RíoNegro,Province,South America,202516.8
+ARG.17_1,ARG,Argentina,Salta,Province,South America,155191.0
+ARG.18_1,ARG,Argentina,SanJuan,Province,South America,88819.5
+ARG.19_1,ARG,Argentina,SanLuis,Province,South America,75845.1
+ARG.1_1,ARG,Argentina,BuenosAires,Province,South America,307010.4
+ARG.20_1,ARG,Argentina,SantaCruz,Province,South America,242899.7
+ARG.21_1,ARG,Argentina,SantaFe,Province,South America,133104.2
+ARG.22_1,ARG,Argentina,SantiagodelEstero,Province,South America,136909.0
+ARG.23_1,ARG,Argentina,TierradelFuego,Province,South America,20885.7
+ARG.24_1,ARG,Argentina,Tucumán,Province,South America,22538.8
+ARG.2_1,ARG,Argentina,Catamarca,Province,South America,101323.2
+ARG.3_1,ARG,Argentina,Chaco,Province,South America,99769.9
+ARG.4_1,ARG,Argentina,Chubut,Province,South America,224368.8
+ARG.5_1,ARG,Argentina,CiudaddeBuenosAires,FederalDistrict,South America,211.2
+ARG.6_1,ARG,Argentina,Córdoba,Province,South America,164660.3
+ARG.7_1,ARG,Argentina,Corrientes,Province,South America,88959.0
+ARG.8_1,ARG,Argentina,EntreRíos,Province,South America,78007.6
+ARG.9_1,ARG,Argentina,Formosa,Province,South America,75588.8
+ARM.10_1,ARM,Armenia,Tavush,Province,Western Asia,2518.7
+ARM.11_1,ARM,Armenia,VayotsDzor,Province,Western Asia,2312.7
+ARM.1_1,ARM,Armenia,Aragatsotn,Province,Western Asia,2881.0
+ARM.2_1,ARM,Armenia,Ararat,Province,Western Asia,2224.5
+ARM.3_1,ARM,Armenia,Armavir,Province,Western Asia,1303.3
+ARM.4_1,ARM,Armenia,Erevan,City,Western Asia,282.3
+ARM.5_1,ARM,Armenia,Gegharkunik,Province,Western Asia,5133.0
+ARM.6_1,ARM,Armenia,Kotayk,Province,Western Asia,1971.2
+ARM.7_1,ARM,Armenia,Lori,Province,Western Asia,3582.1
+ARM.8_1,ARM,Armenia,Shirak,Province,Western Asia,2984.0
+ARM.9_1,ARM,Armenia,Syunik,Province,Western Asia,4497.9
+ASM.1_1,ASM,AmericanSamoa,Eastern,District,Polynesia,68.9
+ASM.2_1,ASM,AmericanSamoa,Manu'a,District,Polynesia,58.6
+ASM.3_1,ASM,AmericanSamoa,Unorganized,District,Polynesia,3.4
+ASM.4_1,ASM,AmericanSamoa,Western,District,Polynesia,73.1
+ATF.1_1,ATF,FrenchSouthernTerritories,ÎlesCrozet,District,Eastern Africa,371.9
+ATF.2_1,ATF,FrenchSouthernTerritories,ÎlesÉparses,District,Eastern Africa,43.6
+ATF.3_1,ATF,FrenchSouthernTerritories,ÎlesSaintPauletAmsterdam,District,Eastern Africa,64.2
+ATF.4_1,ATF,FrenchSouthernTerritories,Kerguelen,District,Eastern Africa,7379.1
+ATG.1_1,ATG,AntiguaandBarbuda,Barbuda,Dependency,Caribbean,151.5
+ATG.2_1,ATG,AntiguaandBarbuda,Redonda,Dependency,Caribbean,0.9
+ATG.3_1,ATG,AntiguaandBarbuda,SaintGeorge,Parish,Caribbean,26.0
+ATG.4_1,ATG,AntiguaandBarbuda,SaintJohn,Parish,Caribbean,70.8
+ATG.5_1,ATG,AntiguaandBarbuda,SaintMary,Parish,Caribbean,61.7
+ATG.6_1,ATG,AntiguaandBarbuda,SaintPaul,Parish,Caribbean,46.3
+ATG.7_1,ATG,AntiguaandBarbuda,SaintPeter,Parish,Caribbean,34.4
+ATG.8_1,ATG,AntiguaandBarbuda,SaintPhilip,Parish,Caribbean,43.8
+AZE.10_1,AZE,Azerbaijan,Yukhari-Karabakh,Region,Western Asia,7397.5
+AZE.1_1,AZE,Azerbaijan,Absheron,Region,Western Asia,6140.8
+AZE.2_1,AZE,Azerbaijan,Aran,Region,Western Asia,21888.2
+AZE.3_1,AZE,Azerbaijan,Daglig-Shirvan,Region,Western Asia,5983.1
+AZE.4_1,AZE,Azerbaijan,Ganja-Qazakh,Region,Western Asia,12032.5
+AZE.5_1,AZE,Azerbaijan,Kalbajar-Lachin,Region,Western Asia,5763.0
+AZE.6_1,AZE,Azerbaijan,Lankaran,Region,Western Asia,5584.1
+AZE.7_1,AZE,Azerbaijan,Nakhchivan,Region,Western Asia,5392.5
+AZE.8_1,AZE,Azerbaijan,Quba-Khachmaz,Region,Western Asia,7332.9
+AZE.9_1,AZE,Azerbaijan,Shaki-Zaqatala,Region,Western Asia,8721.1
+BDI.10_1,BDI,Burundi,Kirundo,Province,Eastern Africa,1767.9
+BDI.11_1,BDI,Burundi,Makamba,Province,Eastern Africa,2554.3
+BDI.12_1,BDI,Burundi,Muramvya,Province,Eastern Africa,666.4
+BDI.13_1,BDI,Burundi,Muyinga,Province,Eastern Africa,1790.2
+BDI.14_1,BDI,Burundi,Mwaro,Province,Eastern Africa,820.3
+BDI.15_1,BDI,Burundi,Ngozi,Province,Eastern Africa,1405.7
+BDI.16_1,BDI,Burundi,Rutana,Province,Eastern Africa,1848.3
+BDI.17_1,BDI,Burundi,Ruyigi,Province,Eastern Africa,2249.8
+BDI.1_1,BDI,Burundi,Bubanza,Province,Eastern Africa,1052.0
+BDI.2_1,BDI,Burundi,BujumburaMairie,Province,Eastern Africa,201.9
+BDI.3_1,BDI,Burundi,BujumburaRural,Province,Eastern Africa,1558.4
+BDI.4_1,BDI,Burundi,Bururi,Province,Eastern Africa,3086.7
+BDI.5_1,BDI,Burundi,Cankuzo,Province,Eastern Africa,1886.9
+BDI.6_1,BDI,Burundi,Cibitoke,Province,Eastern Africa,1558.1
+BDI.7_1,BDI,Burundi,Gitega,Province,Eastern Africa,1898.1
+BDI.8_1,BDI,Burundi,Karuzi,Province,Eastern Africa,1410.3
+BDI.9_1,BDI,Burundi,Kayanza,Province,Eastern Africa,1180.3
+BEN.10_1,BEN,Benin,Ouémé,Department,Western Africa,1285.6
+BEN.11_1,BEN,Benin,Plateau,Department,Western Africa,3318.9
+BEN.12_1,BEN,Benin,Zou,Department,Western Africa,5234.9
+BEN.1_1,BEN,Benin,Alibori,Department,Western Africa,26859.5
+BEN.2_1,BEN,Benin,Atakora,Department,Western Africa,20517.0
+BEN.3_1,BEN,Benin,Atlantique,Department,Western Africa,3181.9
+BEN.4_1,BEN,Benin,Borgou,Department,Western Africa,25649.9
+BEN.5_1,BEN,Benin,Collines,Department,Western Africa,14023.8
+BEN.6_1,BEN,Benin,Donga,Department,Western Africa,11138.5
+BEN.7_1,BEN,Benin,Kouffo,Department,Western Africa,2421.3
+BEN.8_1,BEN,Benin,Littoral,Department,Western Africa,74.9
+BEN.9_1,BEN,Benin,Mono,Department,Western Africa,1577.6
+BES.1_1,BES,"Bonaire,SintEustatiusandSaba",Bonaire,Municipality,Caribbean,285.7
+BES.2_1,BES,"Bonaire,SintEustatiusandSaba",Saba,Municipality,Caribbean,14.2
+BES.3_1,BES,"Bonaire,SintEustatiusandSaba",SintEustatius,Municipality,Caribbean,23.5
+BFA.10_1,BFA,BurkinaFaso,Nord,Region,Western Africa,16414.6
+BFA.11_1,BFA,BurkinaFaso,Plateau-Central,Region,Western Africa,8602.1
+BFA.12_1,BFA,BurkinaFaso,Sahel,Region,Western Africa,36154.1
+BFA.13_1,BFA,BurkinaFaso,Sud-Ouest,Region,Western Africa,16419.1
+BFA.1_1,BFA,BurkinaFaso,BoucleduMouhoun,Region,Western Africa,34547.4
+BFA.2_1,BFA,BurkinaFaso,Cascades,Region,Western Africa,18573.1
+BFA.3_1,BFA,BurkinaFaso,Centre-Est,Region,Western Africa,14646.4
+BFA.4_1,BFA,BurkinaFaso,Centre-Nord,Region,Western Africa,19670.0
+BFA.5_1,BFA,BurkinaFaso,Centre-Ouest,Region,Western Africa,21390.1
+BFA.6_1,BFA,BurkinaFaso,Centre-Sud,Region,Western Africa,11475.0
+BFA.7_1,BFA,BurkinaFaso,Centre,Region,Western Africa,2869.2
+BFA.8_1,BFA,BurkinaFaso,Est,Region,Western Africa,46566.7
+BFA.9_1,BFA,BurkinaFaso,Haut-Bassins,Region,Western Africa,25621.0
+BGD.1_1,BGD,Bangladesh,Barisal,Division,Southern Asia,9817.6
+BGD.2_1,BGD,Bangladesh,Chittagong,Division,Southern Asia,31032.7
+BGD.3_1,BGD,Bangladesh,Dhaka,Division,Southern Asia,20435.9
+BGD.4_1,BGD,Bangladesh,Khulna,Division,Southern Asia,20776.9
+BGD.5_1,BGD,Bangladesh,Rajshahi,Division,Southern Asia,18210.7
+BGD.6_1,BGD,Bangladesh,Rangpur,Division,Southern Asia,16212.0
+BGD.7_1,BGD,Bangladesh,Sylhet,Division,Southern Asia,12349.8
+BGD.8_1,BGD,Bangladesh,Mymensingh,Division,Southern Asia,10534.5
+BHR.1_1,BHR,Bahrain,Capital,Governorate,Western Asia,63.2
+BHR.3_1,BHR,Bahrain,Muharraq,Governorate,Western Asia,34.5
+BHR.4_1,BHR,Bahrain,Northern,Governorate,Western Asia,162.4
+BHR.5_1,BHR,Bahrain,Southern,Governorate,Western Asia,454.6
+BHS.10_1,BHS,Bahamas,CrookedIsland,District,Caribbean,332.1
+BHS.11_1,BHS,Bahamas,EastGrandBahama,District,Caribbean,577.5
+BHS.12_1,BHS,Bahamas,Exuma,District,Caribbean,346.0
+BHS.13_1,BHS,Bahamas,GrandCay,District,Caribbean,5.8
+BHS.14_1,BHS,Bahamas,HarbourIsland,District,Caribbean,4.5
+BHS.15_1,BHS,Bahamas,HopeTown,District,Caribbean,41.4
+BHS.16_1,BHS,Bahamas,Inagua,District,Caribbean,1679.6
+BHS.17_1,BHS,Bahamas,LongIsland,District,Caribbean,479.1
+BHS.18_1,BHS,Bahamas,MangroveCay,District,Caribbean,486.6
+BHS.19_1,BHS,Bahamas,Mayaguana,District,Caribbean,289.1
+BHS.1_1,BHS,Bahamas,Acklins,District,Caribbean,493.5
+BHS.20_1,BHS,Bahamas,Moore'sIsland,District,Caribbean,20.9
+BHS.21_1,BHS,Bahamas,NewProvidence,District,Caribbean,229.8
+BHS.22_1,BHS,Bahamas,NorthAbaco,District,Caribbean,218.1
+BHS.23_1,BHS,Bahamas,NorthAndros,District,Caribbean,2863.5
+BHS.24_1,BHS,Bahamas,NorthEleuthera,District,Caribbean,181.8
+BHS.25_1,BHS,Bahamas,RaggedIsland,District,Caribbean,41.6
+BHS.26_1,BHS,Bahamas,RumCay,District,Caribbean,90.6
+BHS.27_1,BHS,Bahamas,SanSalvador,District,Caribbean,155.3
+BHS.28_1,BHS,Bahamas,SouthAbaco,District,Caribbean,431.7
+BHS.29_1,BHS,Bahamas,SouthAndros,District,Caribbean,1094.2
+BHS.2_1,BHS,Bahamas,BerryIslands,District,Caribbean,61.1
+BHS.30_1,BHS,Bahamas,SouthEleuthera,District,Caribbean,212.8
+BHS.31_1,BHS,Bahamas,SpanishWells,District,Caribbean,3.7
+BHS.32_1,BHS,Bahamas,WestGrandBahama,District,Caribbean,573.8
+BHS.3_1,BHS,Bahamas,Biminis,District,Caribbean,33.8
+BHS.4_1,BHS,Bahamas,BlackPoint,District,Caribbean,44.9
+BHS.5_1,BHS,Bahamas,CatIsland,District,Caribbean,369.7
+BHS.6_1,BHS,Bahamas,CentralAbaco,District,Caribbean,708.6
+BHS.7_1,BHS,Bahamas,CentralAndros,District,Caribbean,1210.9
+BHS.8_1,BHS,Bahamas,CentralEleuthera,District,Caribbean,69.6
+BHS.9_1,BHS,Bahamas,CityofFreeport,District,Caribbean,25.4
+BLM.1_1,BLM,Saint-Barthélemy,AuVent,Parish,Caribbean,12.8
+BLM.2_1,BLM,Saint-Barthélemy,SousleVent,Parish,Caribbean,7.9
+BLZ.1_1,BLZ,Belize,Belize,District,Central America,3353.1
+BLZ.2_1,BLZ,Belize,Cayo,District,Central America,5292.5
+BLZ.3_1,BLZ,Belize,Corozal,District,Central America,2001.4
+BLZ.4_1,BLZ,Belize,OrangeWalk,District,Central America,4665.2
+BLZ.5_1,BLZ,Belize,StannCreek,District,Central America,2322.2
+BLZ.6_1,BLZ,Belize,Toledo,District,Central America,4406.8
+BOL.1_1,BOL,Bolivia,Chuquisaca,Department,South America,50944.0
+BOL.2_1,BOL,Bolivia,Cochabamba,Department,South America,54448.4
+BOL.3_1,BOL,Bolivia,Beni,Department,South America,206778.5
+BOL.4_1,BOL,Bolivia,LaPaz,Department,South America,131217.1
+BOL.5_1,BOL,Bolivia,Oruro,Department,South America,52194.2
+BOL.6_1,BOL,Bolivia,Pando,Department,South America,63640.5
+BOL.7_1,BOL,Bolivia,Potosí,Department,South America,119204.2
+BOL.8_1,BOL,Bolivia,SantaCruz,Department,South America,368675.4
+BOL.9_1,BOL,Bolivia,Tarija,Department,South America,37251.0
+BRA.10_1,BRA,Brazil,Maranhão,State,South America,329649.6
+BRA.11_1,BRA,Brazil,MatoGrossodoSul,State,South America,357041.6
+BRA.12_1,BRA,Brazil,MatoGrosso,State,South America,902986.5
+BRA.13_1,BRA,Brazil,MinasGerais,State,South America,586517.4
+BRA.14_1,BRA,Brazil,Pará,State,South America,1245793.4
+BRA.15_1,BRA,Brazil,Paraíba,State,South America,56469.5
+BRA.16_1,BRA,Brazil,Paraná,State,South America,199321.1
+BRA.17_1,BRA,Brazil,Pernambuco,State,South America,98072.3
+BRA.18_1,BRA,Brazil,Piauí,State,South America,251757.0
+BRA.19_1,BRA,Brazil,RiodeJaneiro,State,South America,43751.6
+BRA.1_1,BRA,Brazil,Acre,State,South America,164292.7
+BRA.20_1,BRA,Brazil,RioGrandedoNorte,State,South America,52816.4
+BRA.21_1,BRA,Brazil,RioGrandedoSul,State,South America,281725.7
+BRA.22_1,BRA,Brazil,Rondônia,State,South America,237445.0
+BRA.23_1,BRA,Brazil,Roraima,State,South America,224350.8
+BRA.24_1,BRA,Brazil,SantaCatarina,State,South America,95657.5
+BRA.25_1,BRA,Brazil,SãoPaulo,State,South America,248224.4
+BRA.26_1,BRA,Brazil,Sergipe,State,South America,21941.4
+BRA.27_1,BRA,Brazil,Tocantins,State,South America,277419.9
+BRA.2_1,BRA,Brazil,Alagoas,State,South America,27832.5
+BRA.3_1,BRA,Brazil,Amapá,State,South America,142151.3
+BRA.4_1,BRA,Brazil,Amazonas,State,South America,1558148.8
+BRA.5_1,BRA,Brazil,Bahia,State,South America,564770.9
+BRA.6_1,BRA,Brazil,Ceará,State,South America,148897.3
+BRA.7_1,BRA,Brazil,DistritoFederal,FederalDistrict,South America,5761.6
+BRA.8_1,BRA,Brazil,EspíritoSanto,State,South America,46079.5
+BRA.9_1,BRA,Brazil,Goiás,State,South America,340238.6
+BRB.10_1,BRB,Barbados,SaintPhilip,Parish,Caribbean,62.6
+BRB.11_1,BRB,Barbados,SaintThomas,Parish,Caribbean,33.5
+BRB.1_1,BRB,Barbados,ChristChurch,Parish,Caribbean,59.7
+BRB.2_1,BRB,Barbados,SaintAndrew,Parish,Caribbean,34.2
+BRB.3_1,BRB,Barbados,SaintGeorge,Parish,Caribbean,43.3
+BRB.4_1,BRB,Barbados,SaintJames,Parish,Caribbean,32.8
+BRB.5_1,BRB,Barbados,SaintJohn,Parish,Caribbean,35.3
+BRB.6_1,BRB,Barbados,SaintJoseph,Parish,Caribbean,23.9
+BRB.7_1,BRB,Barbados,SaintLucy,Parish,Caribbean,34.3
+BRB.8_1,BRB,Barbados,SaintMichael,Parish,Caribbean,40.8
+BRB.9_1,BRB,Barbados,SaintPeter,Parish,Caribbean,34.2
+BRN.1_1,BRN,Brunei,Belait,District,South-eastern Asia,2844.3
+BRN.2_1,BRN,Brunei,BruneiandMuara,District,South-eastern Asia,529.3
+BRN.3_1,BRN,Brunei,Temburong,District,South-eastern Asia,1275.0
+BRN.4_1,BRN,Brunei,Tutong,District,South-eastern Asia,1128.1
+BTN.10_1,BTN,Bhutan,Punakha,District,Southern Asia,1109.4
+BTN.11_1,BTN,Bhutan,SamdrupJongkhar,District,Southern Asia,1876.0
+BTN.12_1,BTN,Bhutan,Samtse,District,Southern Asia,1303.6
+BTN.13_1,BTN,Bhutan,Sarpang,District,Southern Asia,1655.2
+BTN.14_1,BTN,Bhutan,Thimphu,District,Southern Asia,1795.3
+BTN.15_1,BTN,Bhutan,Trashigang,District,Southern Asia,2202.4
+BTN.16_1,BTN,Bhutan,Trongsa,District,Southern Asia,1813.8
+BTN.17_1,BTN,Bhutan,Tsirang,District,Southern Asia,637.8
+BTN.18_1,BTN,Bhutan,WangduePhodrang,District,Southern Asia,4035.9
+BTN.19_1,BTN,Bhutan,TrashiYangtse,District,Southern Asia,1448.7
+BTN.1_1,BTN,Bhutan,Bumthang,District,Southern Asia,2716.3
+BTN.20_1,BTN,Bhutan,Zhemgang,District,Southern Asia,2416.9
+BTN.2_1,BTN,Bhutan,Chhukha,District,Southern Asia,1878.9
+BTN.3_1,BTN,Bhutan,Dagana,District,Southern Asia,1723.9
+BTN.4_1,BTN,Bhutan,Gasa,District,Southern Asia,3133.8
+BTN.5_1,BTN,Bhutan,Haa,District,Southern Asia,1903.9
+BTN.6_1,BTN,Bhutan,Lhuentse,District,Southern Asia,2858.3
+BTN.7_1,BTN,Bhutan,Monggar,District,Southern Asia,1943.3
+BTN.8_1,BTN,Bhutan,Paro,District,Southern Asia,1288.2
+BTN.9_1,BTN,Bhutan,PemaGatshel,District,Southern Asia,1021.9
+BWA.10_1,BWA,Botswana,Lobatse,Town,Southern Africa,23.8
+BWA.11_1,BWA,Botswana,North-East,District,Southern Africa,5249.3
+BWA.12_1,BWA,Botswana,North-West,District,Southern Africa,111321.0
+BWA.13_1,BWA,Botswana,SelibePhikwe,Town,Southern Africa,46.1
+BWA.14_1,BWA,Botswana,South-East,District,Southern Africa,1687.8
+BWA.15_1,BWA,Botswana,Southern,District,Southern Africa,27331.4
+BWA.16_1,BWA,Botswana,Sowa,Town,Southern Africa,4.5
+BWA.1_1,BWA,Botswana,Central,District,Southern Africa,146574.1
+BWA.2_1,BWA,Botswana,Chobe,District,Southern Africa,20965.8
+BWA.3_1,BWA,Botswana,Francistown,City,Southern Africa,93.0
+BWA.4_1,BWA,Botswana,Gaborone,City,Southern Africa,281.5
+BWA.5_1,BWA,Botswana,Ghanzi,District,Southern Africa,114417.7
+BWA.6_1,BWA,Botswana,Jwaneng,Town,Southern Africa,14.1
+BWA.7_1,BWA,Botswana,Kgalagadi,District,Southern Africa,105124.7
+BWA.8_1,BWA,Botswana,Kgatleng,District,Southern Africa,7787.3
+BWA.9_1,BWA,Botswana,Kweneng,District,Southern Africa,36936.1
+CAF.10_1,CAF,CentralAfricanRepublic,Nana-Grébizi,EconomicPrefecture,Middle Africa,19667.2
+CAF.11_1,CAF,CentralAfricanRepublic,Nana-Mambéré,Prefecture,Middle Africa,27107.1
+CAF.12_1,CAF,CentralAfricanRepublic,Ombella-M'Poko,Prefecture,Middle Africa,31786.1
+CAF.13_1,CAF,CentralAfricanRepublic,Ouaka,Prefecture,Middle Africa,49209.0
+CAF.14_1,CAF,CentralAfricanRepublic,Ouham-Pendé,Prefecture,Middle Africa,31751.0
+CAF.15_1,CAF,CentralAfricanRepublic,Ouham,Prefecture,Middle Africa,52967.2
+CAF.16_1,CAF,CentralAfricanRepublic,Sangha-Mbaéré,EconomicPrefecture,Middle Africa,18491.2
+CAF.17_1,CAF,CentralAfricanRepublic,Vakaga,Prefecture,Middle Africa,46695.9
+CAF.1_1,CAF,CentralAfricanRepublic,Bamingui-Bangoran,Prefecture,Middle Africa,58467.0
+CAF.2_1,CAF,CentralAfricanRepublic,Bangui,AutonomousCommune,Middle Africa,91.9
+CAF.3_1,CAF,CentralAfricanRepublic,Basse-Kotto,Prefecture,Middle Africa,16818.3
+CAF.4_1,CAF,CentralAfricanRepublic,Haut-Mbomou,Prefecture,Middle Africa,56356.4
+CAF.5_1,CAF,CentralAfricanRepublic,Haute-Kotto,Prefecture,Middle Africa,86049.8
+CAF.6_1,CAF,CentralAfricanRepublic,Kémo,Prefecture,Middle Africa,16503.9
+CAF.7_1,CAF,CentralAfricanRepublic,Lobaye,Prefecture,Middle Africa,18484.0
+CAF.8_1,CAF,CentralAfricanRepublic,Mambéré-Kadéï,Prefecture,Middle Africa,29636.2
+CAF.9_1,CAF,CentralAfricanRepublic,Mbomou,Prefecture,Middle Africa,60118.0
+CHL.10_1,CHL,Chile,LosRíos,Region,South America,18217.3
+CHL.11_1,CHL,Chile,MagallanesyAntárticaChilena,Region,South America,132951.5
+CHL.12_1,CHL,Chile,Maule,Region,South America,30307.9
+CHL.13_1,CHL,Chile,Ñuble,Region,South America,13091.0
+CHL.14_1,CHL,Chile,SantiagoMetropolitan,MetropolianRegion,South America,15394.8
+CHL.15_1,CHL,Chile,Tarapacá,Region,South America,40001.5
+CHL.16_1,CHL,Chile,Valparaíso,Region,South America,16238.2
+CHL.1_1,CHL,Chile,AyséndelGeneralIbañezdelCam,Region,South America,106509.2
+CHL.2_1,CHL,Chile,Antofagasta,Region,South America,126099.8
+CHL.3_1,CHL,Chile,Araucanía,Region,South America,31796.7
+CHL.4_1,CHL,Chile,AricayParinacota,Region,South America,16840.0
+CHL.5_1,CHL,Chile,Atacama,Region,South America,75700.8
+CHL.6_1,CHL,Chile,Bío-Bío,Region,South America,23990.1
+CHL.7_1,CHL,Chile,Coquimbo,Region,South America,40579.0
+CHL.8_1,CHL,Chile,LibertadorGeneralBernardoO'Hi,Region,South America,16348.9
+CHL.9_1,CHL,Chile,LosLagos,Region,South America,48309.7
+CHN.10_1,CHN,China,Hebei,Province,Eastern Asia,187580.4
+CHN.11_1,CHN,China,Heilongjiang,Province,Eastern Asia,454830.5
+CHN.12_1,CHN,China,Henan,Province,Eastern Asia,165536.5
+CHN.13_1,CHN,China,Hubei,Province,Eastern Asia,186016.7
+CHN.14_1,CHN,China,Hunan,Province,Eastern Asia,212078.0
+CHN.15_1,CHN,China,Jiangsu,Province,Eastern Asia,101698.5
+CHN.16_1,CHN,China,Jiangxi,Province,Eastern Asia,167001.1
+CHN.17_1,CHN,China,Jilin,Province,Eastern Asia,191008.1
+CHN.18_1,CHN,China,Liaoning,Province,Eastern Asia,145809.1
+CHN.19_1,CHN,China,NeiMongol,AutonomousRegion,Eastern Asia,1146483.9
+CHN.1_1,CHN,China,Anhui,Province,Eastern Asia,140306.5
+CHN.20_1,CHN,China,NingxiaHui,AutonomousRegion,Eastern Asia,51859.8
+CHN.21_1,CHN,China,Qinghai,Province,Eastern Asia,715707.8
+CHN.22_1,CHN,China,Shaanxi,Province,Eastern Asia,205898.4
+CHN.23_1,CHN,China,Shandong,Province,Eastern Asia,155509.5
+CHN.24_1,CHN,China,Shanghai,Municipality,Eastern Asia,6883.0
+CHN.25_1,CHN,China,Shanxi,Province,Eastern Asia,156466.4
+CHN.26_1,CHN,China,Sichuan,Province,Eastern Asia,483834.4
+CHN.27_1,CHN,China,Tianjin,Municipality,Eastern Asia,11699.4
+CHN.28_1,CHN,China,XinjiangUygur,AutonomousRegion,Eastern Asia,1599335.7
+CHN.29_1,CHN,China,Xizang,AutonomousRegion,Eastern Asia,1125952.2
+CHN.2_1,CHN,China,Beijing,Municipality,Eastern Asia,16405.8
+CHN.30_1,CHN,China,Yunnan,Province,Eastern Asia,383070.2
+CHN.31_1,CHN,China,Zhejiang,Province,Eastern Asia,102775.3
+CHN.3_1,CHN,China,Chongqing,Municipality,Eastern Asia,82437.8
+CHN.4_1,CHN,China,Fujian,Province,Eastern Asia,122112.1
+CHN.5_1,CHN,China,Gansu,Province,Eastern Asia,405171.7
+CHN.6_1,CHN,China,Guangdong,Province,Eastern Asia,177890.2
+CHN.7_1,CHN,China,Guangxi,AutonomousRegion,Eastern Asia,236561.6
+CHN.8_1,CHN,China,Guizhou,Province,Eastern Asia,175980.6
+CHN.9_1,CHN,China,Hainan,Province,Eastern Asia,34062.7
+CHN.HKG,CHN,China,HongKong,SpecialAdministrativeRegion,Eastern Asia,1128.6
+CHN.MAC,CHN,China,Macau,SpecialAdministrativeRegion,Eastern Asia,33.6
+CIV.10_1,CIV,Côted'Ivoire,Savanes,District,Western Africa,40298.9
+CIV.11_1,CIV,Côted'Ivoire,ValléeduBandama,District,Western Africa,27587.6
+CIV.12_1,CIV,Côted'Ivoire,Woroba,District,Western Africa,31516.7
+CIV.13_1,CIV,Côted'Ivoire,Yamoussoukro,Autonomousdistrict,Western Africa,2053.4
+CIV.14_1,CIV,Côted'Ivoire,Zanzan,District,Western Africa,37870.7
+CIV.1_1,CIV,Côted'Ivoire,Abidjan,Autonomousdistrict,Western Africa,2107.4
+CIV.2_1,CIV,Côted'Ivoire,Bas-Sassandra,District,Western Africa,27783.4
+CIV.3_1,CIV,Côted'Ivoire,Comoé,District,Western Africa,14581.4
+CIV.4_1,CIV,Côted'Ivoire,Denguélé,District,Western Africa,21195.3
+CIV.5_1,CIV,Côted'Ivoire,Gôh-Djiboua,District,Western Africa,15727.8
+CIV.6_1,CIV,Côted'Ivoire,Lacs,District,Western Africa,26167.3
+CIV.7_1,CIV,Côted'Ivoire,Lagunes,District,Western Africa,19962.5
+CIV.8_1,CIV,Côted'Ivoire,Montagnes,District,Western Africa,30400.8
+CIV.9_1,CIV,Côted'Ivoire,Sassandra-Marahoué,District,Western Africa,24291.8
+CMR.10_1,CMR,Cameroon,Sud,Region,Middle Africa,47271.2
+CMR.1_1,CMR,Cameroon,Adamaoua,Region,Middle Africa,63980.3
+CMR.2_1,CMR,Cameroon,Centre,Region,Middle Africa,68801.8
+CMR.3_1,CMR,Cameroon,Est,Region,Middle Africa,108932.0
+CMR.4_1,CMR,Cameroon,Extrême-Nord,Region,Middle Africa,34295.1
+CMR.5_1,CMR,Cameroon,Littoral,Region,Middle Africa,20129.3
+CMR.6_1,CMR,Cameroon,Nord-Ouest,Region,Middle Africa,17456.0
+CMR.7_1,CMR,Cameroon,Nord,Region,Middle Africa,66356.0
+CMR.8_1,CMR,Cameroon,Ouest,Region,Middle Africa,13891.7
+CMR.9_1,CMR,Cameroon,Sud-Ouest,Region,Middle Africa,24919.9
+COD.10_1,COD,DemocraticRepublicoftheCongo,Kinshasa,Province,Middle Africa,10795.6
+COD.11_1,COD,DemocraticRepublicoftheCongo,Kongo-Central,Province,Middle Africa,53854.4
+COD.12_1,COD,DemocraticRepublicoftheCongo,Kwango,Province,Middle Africa,89994.0
+COD.13_1,COD,DemocraticRepublicoftheCongo,Kwilu,Province,Middle Africa,79184.0
+COD.14_1,COD,DemocraticRepublicoftheCongo,Lomami,Province,Middle Africa,53967.2
+COD.15_1,COD,DemocraticRepublicoftheCongo,Lualaba,Province,Middle Africa,121768.9
+COD.16_1,COD,DemocraticRepublicoftheCongo,Mai-Ndombe,Province,Middle Africa,128455.6
+COD.17_1,COD,DemocraticRepublicoftheCongo,Maniema,Province,Middle Africa,127597.5
+COD.18_1,COD,DemocraticRepublicoftheCongo,Mongala,Province,Middle Africa,56171.5
+COD.19_1,COD,DemocraticRepublicoftheCongo,Nord-Kivu,Province,Middle Africa,58698.6
+COD.1_1,COD,DemocraticRepublicoftheCongo,Bas-Uele,Province,Middle Africa,148599.7
+COD.20_1,COD,DemocraticRepublicoftheCongo,Nord-Ubangi,Province,Middle Africa,54179.7
+COD.21_1,COD,DemocraticRepublicoftheCongo,Sankuru,Province,Middle Africa,108241.3
+COD.22_1,COD,DemocraticRepublicoftheCongo,Sud-Kivu,Province,Middle Africa,64151.3
+COD.23_1,COD,DemocraticRepublicoftheCongo,Sud-Ubangi,Province,Middle Africa,52038.0
+COD.24_1,COD,DemocraticRepublicoftheCongo,Tanganyika,Province,Middle Africa,132444.2
+COD.25_1,COD,DemocraticRepublicoftheCongo,Tshopo,Province,Middle Africa,200484.1
+COD.26_1,COD,DemocraticRepublicoftheCongo,Tshuapa,Province,Middle Africa,132921.6
+COD.2_1,COD,DemocraticRepublicoftheCongo,Équateur,Province,Middle Africa,102008.7
+COD.3_1,COD,DemocraticRepublicoftheCongo,Haut-Katanga,Province,Middle Africa,124253.3
+COD.4_1,COD,DemocraticRepublicoftheCongo,Haut-Lomami,Province,Middle Africa,109076.2
+COD.5_1,COD,DemocraticRepublicoftheCongo,Haut-Uele,Province,Middle Africa,91192.2
+COD.6_1,COD,DemocraticRepublicoftheCongo,Ituri,Province,Middle Africa,64940.4
+COD.7_1,COD,DemocraticRepublicoftheCongo,Kasaï-Central,Province,Middle Africa,57075.4
+COD.8_1,COD,DemocraticRepublicoftheCongo,Kasaï-Oriental,Province,Middle Africa,10199.3
+COD.9_1,COD,DemocraticRepublicoftheCongo,Kasaï,Province,Middle Africa,96585.3
+COG.10_1,COG,RepublicoftheCongo,PointeNoire,Region,Middle Africa,49.3
+COG.11_1,COG,RepublicoftheCongo,Pool,Region,Middle Africa,35152.2
+COG.12_1,COG,RepublicoftheCongo,Sangha,Region,Middle Africa,57700.5
+COG.1_1,COG,RepublicoftheCongo,Bouenza,Region,Middle Africa,12518.1
+COG.2_1,COG,RepublicoftheCongo,Brazzaville,Region,Middle Africa,102.0
+COG.3_1,COG,RepublicoftheCongo,Cuvette-Ouest,Region,Middle Africa,24606.6
+COG.4_1,COG,RepublicoftheCongo,Cuvette,Region,Middle Africa,44859.4
+COG.5_1,COG,RepublicoftheCongo,Kouilou,Region,Middle Africa,13496.6
+COG.6_1,COG,RepublicoftheCongo,Lékoumou,Region,Middle Africa,21137.5
+COG.7_1,COG,RepublicoftheCongo,Likouala,Region,Middle Africa,66721.5
+COG.8_1,COG,RepublicoftheCongo,Niari,Region,Middle Africa,25535.1
+COG.9_1,COG,RepublicoftheCongo,Plateaux,Region,Middle Africa,39855.6
+COK.10_1,COK,CookIslands,Rakahanga,IslandCouncil,Polynesia,4.8
+COK.11_1,COK,CookIslands,Rarotonga,IslandCouncil,Polynesia,69.2
+COK.1_1,COK,CookIslands,Aitutaki,IslandCouncil,Polynesia,27.4
+COK.2_1,COK,CookIslands,Atiu,IslandCouncil,Polynesia,30.5
+COK.3_1,COK,CookIslands,Mangaia,IslandCouncil,Polynesia,48.5
+COK.4_1,COK,CookIslands,Manihiki,IslandCouncil,Polynesia,7.7
+COK.5_1,COK,CookIslands,Mauke,IslandCouncil,Polynesia,20.3
+COK.6_1,COK,CookIslands,Mitiaro,IslandCouncil,Polynesia,24.5
+COK.7_1,COK,CookIslands,Palmerston,IslandCouncil,Polynesia,23.7
+COK.8_1,COK,CookIslands,Penhryn,IslandCouncil,Polynesia,17.4
+COK.9_1,COK,CookIslands,Pukapuka,IslandCouncil,Polynesia,6.3
+COL.10_2,COL,Colombia,Casanare,Intendancy,South America,44381.3
+COL.11_2,COL,Colombia,Cauca,Department,South America,30517.5
+COL.12_2,COL,Colombia,Cesar,Department,South America,22372.6
+COL.13_2,COL,Colombia,Chocó,Department,South America,47548.3
+COL.14_2,COL,Colombia,Córdoba,Department,South America,25128.7
+COL.15_2,COL,Colombia,Cundinamarca,Department,South America,22359.0
+COL.16_2,COL,Colombia,Guainía,Commissiary,South America,71033.6
+COL.17_2,COL,Colombia,Guaviare,Commissiary,South America,55428.1
+COL.18_2,COL,Colombia,Huila,Department,South America,18705.3
+COL.19_2,COL,Colombia,LaGuajira,Department,South America,20453.2
+COL.1_2,COL,Colombia,Amazonas,Commissiary,South America,109167.1
+COL.20_2,COL,Colombia,Magdalena,Department,South America,22768.1
+COL.21_2,COL,Colombia,Meta,Department,South America,85375.6
+COL.22_2,COL,Colombia,Nariño,Department,South America,31335.4
+COL.23_2,COL,Colombia,NortedeSantander,Department,South America,21934.6
+COL.24_2,COL,Colombia,Putumayo,Intendancy,South America,25889.0
+COL.25_2,COL,Colombia,Quindío,Department,South America,1934.0
+COL.26_2,COL,Colombia,Risaralda,Department,South America,3538.4
+COL.27_1,COL,Colombia,SanAndrésyProvidencia,Department,South America,52.2
+COL.28_2,COL,Colombia,Santander,Department,South America,30587.8
+COL.29_2,COL,Colombia,Sucre,Department,South America,10718.6
+COL.2_2,COL,Colombia,Antioquia,Department,South America,62925.8
+COL.30_2,COL,Colombia,Tolima,Department,South America,23970.9
+COL.31_2,COL,Colombia,ValledelCauca,Department,South America,20894.7
+COL.32_2,COL,Colombia,Vaupés,Commissiary,South America,53188.1
+COL.33_2,COL,Colombia,Vichada,Commissiary,South America,99353.3
+COL.3_2,COL,Colombia,Arauca,Intendancy,South America,23732.2
+COL.4_2,COL,Colombia,Atlántico,Department,South America,3314.7
+COL.5_2,COL,Colombia,BogotáD.C.,CapitalDistrict,South America,1634.7
+COL.6_2,COL,Colombia,Bolívar,Department,South America,26619.1
+COL.7_2,COL,Colombia,Boyacá,Department,South America,23082.8
+COL.8_2,COL,Colombia,Caldas,Department,South America,7405.3
+COL.9_2,COL,Colombia,Caquetá,Intendancy,South America,89884.2
+COM.1_1,COM,Comoros,Nzwani,AutonomousIsland,Eastern Africa,433.1
+COM.2_1,COM,Comoros,Njazídja,AutonomousIsland,Eastern Africa,1022.2
+COM.3_1,COM,Comoros,Mwali,AutonomousIsland,Eastern Africa,218.7
+CPV.10_1,CPV,CaboVerde,RibeiraGrandedeSantiago,County,Western Africa,141.3
+CPV.11_1,CPV,CaboVerde,Sal,County,Western Africa,223.4
+CPV.12_1,CPV,CaboVerde,SantaCatarina,County,Western Africa,226.9
+CPV.13_1,CPV,CaboVerde,SantaCatarinadoFogo,County,Western Africa,54.9
+CPV.14_1,CPV,CaboVerde,SantaCruz,County,Western Africa,114.9
+CPV.15_1,CPV,CaboVerde,SãoDomingos,County,Western Africa,157.9
+CPV.16_1,CPV,CaboVerde,SãoFilipe,County,Western Africa,338.3
+CPV.17_1,CPV,CaboVerde,SãoLourençodosÓrgãos,County,Western Africa,36.1
+CPV.18_1,CPV,CaboVerde,SãoMiguel,County,Western Africa,80.3
+CPV.19_1,CPV,CaboVerde,SãoSalvadordoMundo,County,Western Africa,30.7
+CPV.1_1,CPV,CaboVerde,BoaVista,County,Western Africa,629.7
+CPV.20_1,CPV,CaboVerde,SãoVicente,County,Western Africa,269.8
+CPV.21_1,CPV,CaboVerde,Tarrafal,County,Western Africa,119.4
+CPV.22_1,CPV,CaboVerde,TarrafaldeSãoNicolau,County,Western Africa,114.3
+CPV.2_1,CPV,CaboVerde,Brava,County,Western Africa,69.3
+CPV.3_1,CPV,CaboVerde,Maio,County,Western Africa,272.7
+CPV.4_1,CPV,CaboVerde,Mosteiros,County,Western Africa,81.3
+CPV.5_1,CPV,CaboVerde,Paúl,County,Western Africa,47.8
+CPV.6_1,CPV,CaboVerde,PortoNovo,County,Western Africa,577.7
+CPV.7_1,CPV,CaboVerde,Praia,County,Western Africa,102.0
+CPV.8_1,CPV,CaboVerde,RibeiraBrava,County,Western Africa,235.8
+CPV.9_1,CPV,CaboVerde,RibeiraGrande,County,Western Africa,166.9
+CRI.1_1,CRI,CostaRica,Alajuela,Province,Central America,9772.9
+CRI.2_1,CRI,CostaRica,Cartago,Province,Central America,3093.2
+CRI.3_1,CRI,CostaRica,Guanacaste,Province,Central America,10185.9
+CRI.4_1,CRI,CostaRica,Heredia,Province,Central America,2663.6
+CRI.5_1,CRI,CostaRica,Limón,Province,Central America,9202.8
+CRI.6_1,CRI,CostaRica,Puntarenas,Province,Central America,11298.8
+CRI.7_1,CRI,CostaRica,SanJosé,Province,Central America,4968.5
+CUB.10_1,CUB,Cuba,LasTunas,Province,Caribbean,6550.6
+CUB.11_1,CUB,Cuba,Matanzas,Province,Caribbean,11685.8
+CUB.12_1,CUB,Cuba,Mayabeque,Province,Caribbean,3675.0
+CUB.13_1,CUB,Cuba,PinardelRío,Province,Caribbean,11026.5
+CUB.14_1,CUB,Cuba,SanctiSpíritus,Province,Caribbean,6370.3
+CUB.15_1,CUB,Cuba,SantiagodeCuba,Province,Caribbean,6408.5
+CUB.16_1,CUB,Cuba,VillaClara,Province,Caribbean,9117.2
+CUB.1_1,CUB,Cuba,Camagüey,Province,Caribbean,15737.7
+CUB.2_1,CUB,Cuba,CiegodeÁvila,Province,Caribbean,7357.7
+CUB.3_1,CUB,Cuba,Cienfuegos,Province,Caribbean,4000.0
+CUB.4_1,CUB,Cuba,CiudaddelaHabana,Province,Caribbean,818.5
+CUB.5_1,CUB,Cuba,Granma,Province,Caribbean,8655.6
+CUB.6_1,CUB,Cuba,Guantánamo,Province,Caribbean,6155.0
+CUB.7_1,CUB,Cuba,Holguín,Province,Caribbean,8694.2
+CUB.8_1,CUB,Cuba,IsladelaJuventud,Province,Caribbean,2506.6
+CUB.9_1,CUB,Cuba,LaHabana,Province,Caribbean,1954.5
+CYM.1_1,CYM,CaymanIslands,BoddenTown,District,Caribbean,8.1
+CYM.3_1,CYM,CaymanIslands,EastEnd,District,Caribbean,55.4
+CYM.4_1,CYM,CaymanIslands,GeorgeTown,District,Caribbean,29.0
+CYM.6_1,CYM,CaymanIslands,NorthSide,District,Caribbean,89.2
+CYM.7_1,CYM,CaymanIslands,WestBay,District,Caribbean,21.3
+CYM.8_1,CYM,CaymanIslands,SisterIslands,District,Caribbean,77.8
+DJI.1_2,DJI,Djibouti,AliSabieh,Region,Eastern Africa,2329.0
+DJI.2_1,DJI,Djibouti,Dikhil,Region,Eastern Africa,6690.4
+DJI.3_1,DJI,Djibouti,Djiboutii,Region,Eastern Africa,194.6
+DJI.4_1,DJI,Djibouti,Obock,Region,Eastern Africa,4340.3
+DJI.5_1,DJI,Djibouti,Tadjoura,Region,Eastern Africa,6657.3
+DJI.6_1,DJI,Djibouti,Arta,Region,Eastern Africa,2159.6
+DMA.10_1,DMA,Dominica,SaintPeter,Parish,Caribbean,33.7
+DMA.1_1,DMA,Dominica,SaintAndrew,Parish,Caribbean,182.6
+DMA.2_1,DMA,Dominica,SaintDavid,Parish,Caribbean,125.2
+DMA.3_1,DMA,Dominica,SaintGeorge,Parish,Caribbean,55.8
+DMA.4_1,DMA,Dominica,SaintJohn,Parish,Caribbean,59.7
+DMA.5_1,DMA,Dominica,SaintJoseph,Parish,Caribbean,122.7
+DMA.6_1,DMA,Dominica,SaintLuke,Parish,Caribbean,8.2
+DMA.7_1,DMA,Dominica,SaintMark,Parish,Caribbean,11.0
+DMA.8_1,DMA,Dominica,SaintPatrick,Parish,Caribbean,87.6
+DMA.9_1,DMA,Dominica,SaintPaul,Parish,Caribbean,67.8
+DOM.10_1,DOM,DominicanRepublic,Independencia,Province,Caribbean,1986.2
+DOM.11_1,DOM,DominicanRepublic,LaAltagracia,Province,Caribbean,3102.0
+DOM.12_1,DOM,DominicanRepublic,LaEstrelleta,Province,Caribbean,1424.4
+DOM.13_1,DOM,DominicanRepublic,LaRomana,Province,Caribbean,557.5
+DOM.14_1,DOM,DominicanRepublic,LaVega,Province,Caribbean,2245.4
+DOM.15_1,DOM,DominicanRepublic,MaríaTrinidadSánchez,Province,Caribbean,1231.4
+DOM.16_1,DOM,DominicanRepublic,MonseñorNouel,Province,Caribbean,971.8
+DOM.17_1,DOM,DominicanRepublic,MonteCristi,Province,Caribbean,1945.5
+DOM.18_1,DOM,DominicanRepublic,MontePlata,Province,Caribbean,2590.5
+DOM.19_1,DOM,DominicanRepublic,Pedernales,Province,Caribbean,2051.8
+DOM.1_1,DOM,DominicanRepublic,Azua,Province,Caribbean,2650.7
+DOM.20_1,DOM,DominicanRepublic,Peravia,Province,Caribbean,771.7
+DOM.21_1,DOM,DominicanRepublic,PuertoPlata,Province,Caribbean,1890.7
+DOM.22_1,DOM,DominicanRepublic,Salcedo,Province,Caribbean,423.5
+DOM.23_1,DOM,DominicanRepublic,Samaná,Province,Caribbean,859.9
+DOM.24_1,DOM,DominicanRepublic,SanCristóbal,Province,Caribbean,1210.1
+DOM.25_1,DOM,DominicanRepublic,SanJosédeOcoa,Province,Caribbean,848.3
+DOM.26_1,DOM,DominicanRepublic,SanJuan,Province,Caribbean,3329.7
+DOM.27_1,DOM,DominicanRepublic,SanPedrodeMacorís,Province,Caribbean,1262.8
+DOM.28_1,DOM,DominicanRepublic,SánchezRamírez,Province,Caribbean,1176.9
+DOM.29_1,DOM,DominicanRepublic,SantiagoRodríguez,Province,Caribbean,1143.6
+DOM.2_1,DOM,DominicanRepublic,Bahoruco,Province,Caribbean,1304.6
+DOM.30_1,DOM,DominicanRepublic,Santiago,Province,Caribbean,2771.6
+DOM.31_1,DOM,DominicanRepublic,SantoDomingo,Province,Caribbean,1298.4
+DOM.32_1,DOM,DominicanRepublic,Valverde,Province,Caribbean,794.5
+DOM.3_1,DOM,DominicanRepublic,Barahona,Province,Caribbean,1589.1
+DOM.4_1,DOM,DominicanRepublic,Dajabón,Province,Caribbean,1033.0
+DOM.5_1,DOM,DominicanRepublic,DistritoNacional,NationalDistrict,Caribbean,87.4
+DOM.6_1,DOM,DominicanRepublic,Duarte,Province,Caribbean,1623.5
+DOM.7_1,DOM,DominicanRepublic,ElSeybo,Province,Caribbean,1743.4
+DOM.8_1,DOM,DominicanRepublic,Espaillat,Province,Caribbean,857.6
+DOM.9_1,DOM,DominicanRepublic,HatoMayor,Province,Caribbean,1314.1
+DZA.10_1,DZA,Algeria,Blida,Province,Northern Africa,1480.7
+DZA.11_1,DZA,Algeria,BordjBouArréridj,Province,Northern Africa,3935.7
+DZA.12_1,DZA,Algeria,Bouira,Province,Northern Africa,4469.0
+DZA.13_1,DZA,Algeria,Boumerdès,Province,Northern Africa,1449.8
+DZA.14_1,DZA,Algeria,Chlef,Province,Northern Africa,4075.8
+DZA.15_1,DZA,Algeria,Constantine,Province,Northern Africa,2244.5
+DZA.16_1,DZA,Algeria,Djelfa,Province,Northern Africa,32356.3
+DZA.17_1,DZA,Algeria,ElBayadh,Province,Northern Africa,71680.1
+DZA.18_1,DZA,Algeria,ElOued,Province,Northern Africa,43806.9
+DZA.19_1,DZA,Algeria,ElTarf,Province,Northern Africa,2884.4
+DZA.1_1,DZA,Algeria,Adrar,Province,Northern Africa,431497.0
+DZA.20_1,DZA,Algeria,Ghardaïa,Province,Northern Africa,84469.2
+DZA.21_1,DZA,Algeria,Guelma,Province,Northern Africa,3684.2
+DZA.22_1,DZA,Algeria,Illizi,Province,Northern Africa,293522.7
+DZA.23_1,DZA,Algeria,Jijel,Province,Northern Africa,2397.3
+DZA.24_1,DZA,Algeria,Khenchela,Province,Northern Africa,9573.1
+DZA.25_1,DZA,Algeria,Laghouat,Province,Northern Africa,27551.0
+DZA.26_1,DZA,Algeria,M'Sila,Province,Northern Africa,17935.1
+DZA.27_1,DZA,Algeria,Mascara,Province,Northern Africa,5672.8
+DZA.28_1,DZA,Algeria,Médéa,Province,Northern Africa,8720.1
+DZA.29_1,DZA,Algeria,Mila,Province,Northern Africa,3503.3
+DZA.2_1,DZA,Algeria,AïnDefla,Province,Northern Africa,4547.3
+DZA.30_1,DZA,Algeria,Mostaganem,Province,Northern Africa,2210.7
+DZA.31_1,DZA,Algeria,Naâma,Province,Northern Africa,29777.5
+DZA.32_1,DZA,Algeria,Oran,Province,Northern Africa,2134.1
+DZA.33_1,DZA,Algeria,Ouargla,Province,Northern Africa,154248.8
+DZA.34_1,DZA,Algeria,OumelBouaghi,Province,Northern Africa,6257.3
+DZA.35_1,DZA,Algeria,Relizane,Province,Northern Africa,4871.6
+DZA.36_1,DZA,Algeria,Saïda,Province,Northern Africa,6759.7
+DZA.37_1,DZA,Algeria,Sétif,Province,Northern Africa,6662.8
+DZA.38_1,DZA,Algeria,SidiBelAbbès,Province,Northern Africa,9380.7
+DZA.39_1,DZA,Algeria,Skikda,Province,Northern Africa,4147.4
+DZA.3_1,DZA,Algeria,AïnTémouchent,Province,Northern Africa,2399.9
+DZA.40_1,DZA,Algeria,SoukAhras,Province,Northern Africa,4224.4
+DZA.41_1,DZA,Algeria,Tamanghasset,Province,Northern Africa,601522.0
+DZA.42_1,DZA,Algeria,Tébessa,Province,Northern Africa,13255.6
+DZA.43_1,DZA,Algeria,Tiaret,Province,Northern Africa,20113.2
+DZA.44_1,DZA,Algeria,Tindouf,Province,Northern Africa,161561.4
+DZA.45_1,DZA,Algeria,Tipaza,Province,Northern Africa,1733.0
+DZA.46_1,DZA,Algeria,Tissemsilt,Province,Northern Africa,3210.6
+DZA.47_1,DZA,Algeria,TiziOuzou,Province,Northern Africa,2969.5
+DZA.48_1,DZA,Algeria,Tlemcen,Province,Northern Africa,9062.6
+DZA.4_1,DZA,Algeria,Alger,Province,Northern Africa,767.6
+DZA.5_1,DZA,Algeria,Annaba,Province,Northern Africa,1410.5
+DZA.6_1,DZA,Algeria,Batna,Province,Northern Africa,12140.3
+DZA.7_1,DZA,Algeria,Béchar,Province,Northern Africa,160998.8
+DZA.8_1,DZA,Algeria,Béjaïa,Province,Northern Africa,3226.7
+DZA.9_1,DZA,Algeria,Biskra,Province,Northern Africa,21497.3
+ECU.10_1,ECU,Ecuador,Guayas,Province,South America,15829.3
+ECU.11_1,ECU,Ecuador,Imbabura,Province,South America,4779.6
+ECU.12_1,ECU,Ecuador,Loja,Province,South America,11054.2
+ECU.13_1,ECU,Ecuador,LosRios,Province,South America,7266.0
+ECU.14_1,ECU,Ecuador,Manabi,Province,South America,19519.3
+ECU.15_1,ECU,Ecuador,MoronaSantiago,Province,South America,23937.4
+ECU.16_1,ECU,Ecuador,Napo,Province,South America,12513.2
+ECU.17_1,ECU,Ecuador,Orellana,Province,South America,21592.3
+ECU.18_1,ECU,Ecuador,Pastaza,Province,South America,29472.5
+ECU.19_1,ECU,Ecuador,Pichincha,Province,South America,9448.1
+ECU.1_1,ECU,Ecuador,Azuay,Province,South America,8169.5
+ECU.20_1,ECU,Ecuador,SantaElena,Province,South America,3695.6
+ECU.21_1,ECU,Ecuador,SantoDomingodelosTsachilas,Province,South America,3777.1
+ECU.22_1,ECU,Ecuador,Sucumbios,Province,South America,17947.7
+ECU.23_1,ECU,Ecuador,Tungurahua,Province,South America,3381.8
+ECU.24_1,ECU,Ecuador,ZamoraChinchipe,Province,South America,10534.7
+ECU.2_1,ECU,Ecuador,Bolivar,Province,South America,3899.8
+ECU.3_1,ECU,Ecuador,Cañar,Province,South America,3320.6
+ECU.4_1,ECU,Ecuador,Carchi,Province,South America,3801.2
+ECU.5_1,ECU,Ecuador,Chimborazo,Province,South America,6566.7
+ECU.6_1,ECU,Ecuador,Cotopaxi,Province,South America,6172.7
+ECU.7_1,ECU,Ecuador,ElOro,Province,South America,5868.3
+ECU.8_1,ECU,Ecuador,Esmeraldas,Province,South America,15808.4
+ECU.9_1,ECU,Ecuador,Galápagos,Province,South America,7990.8
+EGY.10_1,EGY,Egypt,AlMinya,Governorate,Northern Africa,31389.7
+EGY.11_1,EGY,Egypt,AlQahirah,Governorate,Northern Africa,2895.8
+EGY.12_1,EGY,Egypt,AlQalyubiyah,Governorate,Northern Africa,1150.2
+EGY.13_1,EGY,Egypt,AlUqsur,Governorate,Northern Africa,617.8
+EGY.14_1,EGY,Egypt,AlWadialJadid,Governorate,Northern Africa,426471.3
+EGY.15_1,EGY,Egypt,AsSuways,Governorate,Northern Africa,9406.1
+EGY.16_1,EGY,Egypt,AshSharqiyah,Governorate,Northern Africa,5330.4
+EGY.17_1,EGY,Egypt,Aswan,Governorate,Northern Africa,61070.7
+EGY.18_1,EGY,Egypt,Asyut,Governorate,Northern Africa,16495.5
+EGY.19_1,EGY,Egypt,BaniSuwayf,Governorate,Northern Africa,10672.9
+EGY.1_1,EGY,Egypt,AdDaqahliyah,Governorate,Northern Africa,3705.1
+EGY.20_1,EGY,Egypt,BurSa`id,Governorate,Northern Africa,1460.2
+EGY.21_1,EGY,Egypt,Dumyat,Governorate,Northern Africa,935.0
+EGY.22_1,EGY,Egypt,JanubSina',Governorate,Northern Africa,29276.8
+EGY.23_1,EGY,Egypt,KafrashShaykh,Governorate,Northern Africa,3766.5
+EGY.24_1,EGY,Egypt,Matrouh,Governorate,Northern Africa,158559.6
+EGY.25_1,EGY,Egypt,Qina,Governorate,Northern Africa,13190.3
+EGY.26_1,EGY,Egypt,ShamalSina',Governorate,Northern Africa,26550.0
+EGY.27_1,EGY,Egypt,Suhaj,Governorate,Northern Africa,10082.1
+EGY.2_1,EGY,Egypt,AlBahralAhmar,Governorate,Northern Africa,104693.4
+EGY.3_1,EGY,Egypt,AlBuhayrah,Governorate,Northern Africa,11447.0
+EGY.4_1,EGY,Egypt,AlFayyum,Governorate,Northern Africa,5848.2
+EGY.5_1,EGY,Egypt,AlGharbiyah,Governorate,Northern Africa,1999.2
+EGY.6_1,EGY,Egypt,AlIskandariyah,Governorate,Northern Africa,2550.9
+EGY.7_1,EGY,Egypt,AlIsma`iliyah,Governorate,Northern Africa,5687.8
+EGY.8_1,EGY,Egypt,AlJizah,Governorate,Northern Africa,36353.1
+EGY.9_1,EGY,Egypt,AlMinufiyah,Governorate,Northern Africa,2166.7
+ERI.1_1,ERI,Eritrea,Maekel,Region,Eastern Africa,1220.2
+ERI.2_1,ERI,Eritrea,SemenawiKeyihBahri,Region,Eastern Africa,34015.3
+ERI.3_1,ERI,Eritrea,DebubawiKeyihBahri,Region,Eastern Africa,21802.6
+ERI.4_1,ERI,Eritrea,GashBarka,Region,Eastern Africa,32498.1
+ERI.5_1,ERI,Eritrea,Debub,Region,Eastern Africa,9430.7
+ERI.6_1,ERI,Eritrea,Anseba,Region,Eastern Africa,21485.2
+ESH.1_1,ESH,WesternSahara,Boujdour,Province,Northern Africa,43401.7
+ESH.2_1,ESH,WesternSahara,EsSemara,Province,Northern Africa,66943.6
+ESH.3_1,ESH,WesternSahara,Laayoune,Province,Northern Africa,30391.7
+ESH.4_1,ESH,WesternSahara,OuedelDahab,Province,Northern Africa,126590.7
+ETH.10_1,ETH,Ethiopia,"SouthernNations,Nationalities",State,Eastern Africa,108945.9
+ETH.11_1,ETH,Ethiopia,Tigray,State,Eastern Africa,52550.1
+ETH.1_1,ETH,Ethiopia,AddisAbeba,City,Eastern Africa,539.1
+ETH.2_1,ETH,Ethiopia,Afar,State,Eastern Africa,94465.4
+ETH.3_1,ETH,Ethiopia,Amhara,State,Eastern Africa,155348.9
+ETH.4_1,ETH,Ethiopia,Benshangul-Gumaz,State,Eastern Africa,50194.2
+ETH.5_1,ETH,Ethiopia,DireDawa,City,Eastern Africa,1053.2
+ETH.6_1,ETH,Ethiopia,GambelaPeoples,State,Eastern Africa,30627.6
+ETH.7_1,ETH,Ethiopia,HarariPeople,State,Eastern Africa,369.9
+ETH.8_1,ETH,Ethiopia,Oromia,State,Eastern Africa,323039.2
+ETH.9_1,ETH,Ethiopia,Somali,State,Eastern Africa,311884.0
+FJI.1_1,FJI,Fiji,Central,Division,Melanesia,4366.9
+FJI.2_1,FJI,Fiji,Eastern,Division,Melanesia,1463.2
+FJI.3_1,FJI,Fiji,Northern,Division,Melanesia,6465.1
+FJI.4_1,FJI,Fiji,Rotuma,Division,Melanesia,46.8
+FJI.5_1,FJI,Fiji,Western,Division,Melanesia,6610.1
+FSM.1_1,FSM,Micronesia,Chuuk,State,Micronesia,132.9
+FSM.2_1,FSM,Micronesia,Kosrae,State,Micronesia,113.3
+FSM.3_1,FSM,Micronesia,Pohnpei,State,Micronesia,399.5
+FSM.4_1,FSM,Micronesia,Yap,State,Micronesia,118.9
+GAB.1_1,GAB,Gabon,Estuaire,Province,Middle Africa,19890.3
+GAB.2_1,GAB,Gabon,Haut-Ogooué,Province,Middle Africa,33692.8
+GAB.3_1,GAB,Gabon,Moyen-Ogooué,Province,Middle Africa,17829.1
+GAB.4_1,GAB,Gabon,Ngounié,Province,Middle Africa,38387.9
+GAB.5_1,GAB,Gabon,Nyanga,Province,Middle Africa,21815.8
+GAB.6_1,GAB,Gabon,Ogooué-Ivindo,Province,Middle Africa,43486.9
+GAB.7_1,GAB,Gabon,Ogooué-Lolo,Province,Middle Africa,29034.6
+GAB.8_1,GAB,Gabon,Ogooué-Maritime,Province,Middle Africa,22898.5
+GAB.9_1,GAB,Gabon,Wouleu-Ntem,Province,Middle Africa,37516.2
+GEO.10_1,GEO,Georgia,Samtskhe-Javakheti,Region,Western Asia,6338.2
+GEO.11_1,GEO,Georgia,ShidaKartli,Region,Western Asia,5745.6
+GEO.12_1,GEO,Georgia,Tbilisi,IndependentCity,Western Asia,235.8
+GEO.1_1,GEO,Georgia,Abkhazia,AutonomousRepublic,Western Asia,8813.3
+GEO.2_1,GEO,Georgia,Ajaria,AutonomousRepublic,Western Asia,2843.9
+GEO.3_1,GEO,Georgia,Guria,Region,Western Asia,1927.5
+GEO.4_1,GEO,Georgia,Imereti,Region,Western Asia,6226.4
+GEO.5_1,GEO,Georgia,Kakheti,Region,Western Asia,11531.7
+GEO.6_1,GEO,Georgia,KvemoKartli,Region,Western Asia,6314.0
+GEO.7_1,GEO,Georgia,Mtskheta-Mtianeti,Region,Western Asia,7009.7
+GEO.8_1,GEO,Georgia,Racha-Lechkhumi-KvemoSvaneti,Region,Western Asia,5237.1
+GEO.9_1,GEO,Georgia,Samegrelo-ZemoSvaneti,Region,Western Asia,7622.3
+GHA10_2,GHA,Ghana,Oti,Region,Western Africa,11066.3
+GHA11_2,GHA,Ghana,Savannah,Region,Western Africa,35864.3
+GHA12_2,GHA,Ghana,UpperEast,Region,Western Africa,8623.5
+GHA13_2,GHA,Ghana,UpperWest,Region,Western Africa,19034.7
+GHA14_2,GHA,Ghana,Volta,Region,Western Africa,9822.5
+GHA15_2,GHA,Ghana,Western,Region,Western Africa,14259.4
+GHA16_2,GHA,Ghana,WesternNorth,Region,Western Africa,10072.7
+GHA1_2,GHA,Ghana,Ahafo,Region,Western Africa,5195.3
+GHA2_2,GHA,Ghana,Ashanti,Region,Western Africa,24380.2
+GHA3_2,GHA,Ghana,Bono,Region,Western Africa,11649.1
+GHA4_2,GHA,Ghana,BonoEast,Region,Western Africa,23253.7
+GHA5_2,GHA,Ghana,Central,Region,Western Africa,9664.6
+GHA6_2,GHA,Ghana,Eastern,Region,Western Africa,18965.1
+GHA7_2,GHA,Ghana,GreaterAccra,Region,Western Africa,3700.3
+GHA8_2,GHA,Ghana,NorthEast,Region,Western Africa,9071.6
+GHA9_2,GHA,Ghana,Northern,Region,Western Africa,24851.0
+GIN.1_1,GIN,Guinea,Boké,Region,Western Africa,34075.5
+GIN.2_1,GIN,Guinea,Conakry,Region,Western Africa,419.9
+GIN.3_1,GIN,Guinea,Faranah,Region,Western Africa,35763.6
+GIN.4_1,GIN,Guinea,Kankan,Region,Western Africa,71746.1
+GIN.5_1,GIN,Guinea,Kindia,Region,Western Africa,25654.5
+GIN.6_1,GIN,Guinea,Labé,Region,Western Africa,22818.0
+GIN.7_1,GIN,Guinea,Mamou,Region,Western Africa,17823.2
+GIN.8_1,GIN,Guinea,Nzérékoré,Region,Western Africa,36515.9
+GLP.1_1,GLP,Guadeloupe,Basse-Terre,District,Caribbean,867.3
+GLP.2_1,GLP,Guadeloupe,Pointe-à-Pitre,District,Caribbean,781.3
+GMB.1_1,GMB,Gambia,Banjul,IndependentCity,Western Africa,72.3
+GMB.2_1,GMB,Gambia,LowerRiver,Division,Western Africa,1494.6
+GMB.3_1,GMB,Gambia,MaccarthyIsland,Division,Western Africa,3025.2
+GMB.4_1,GMB,Gambia,NorthBank,Division,Western Africa,2263.4
+GMB.5_1,GMB,Gambia,UpperRiver,Division,Western Africa,2077.1
+GMB.6_1,GMB,Gambia,Western,Division,Western Africa,1732.9
+GNB.1_1,GNB,Guinea-Bissau,Bafatá,Region,Western Africa,5844.8
+GNB.2_1,GNB,Guinea-Bissau,Biombo,Region,Western Africa,756.8
+GNB.3_1,GNB,Guinea-Bissau,Bissau,AutonomousSector,Western Africa,82.7
+GNB.4_1,GNB,Guinea-Bissau,Bolama,Region,Western Africa,1540.3
+GNB.5_1,GNB,Guinea-Bissau,Cacheu,Region,Western Africa,4774.7
+GNB.6_1,GNB,Guinea-Bissau,Gabú,Region,Western Africa,9038.0
+GNB.7_1,GNB,Guinea-Bissau,Oio,Region,Western Africa,5467.4
+GNB.8_1,GNB,Guinea-Bissau,Quinara,Region,Western Africa,2954.8
+GNB.9_1,GNB,Guinea-Bissau,Tombali,Region,Western Africa,3418.6
+GNQ.1_1,GNQ,EquatorialGuinea,Annobón,Province,Middle Africa,21.0
+GNQ.2_1,GNQ,EquatorialGuinea,BiokoNorte,Province,Middle Africa,587.6
+GNQ.3_1,GNQ,EquatorialGuinea,BiokoSur,Province,Middle Africa,1363.8
+GNQ.4_1,GNQ,EquatorialGuinea,CentroSur,Province,Middle Africa,8412.3
+GNQ.5_1,GNQ,EquatorialGuinea,Kié-Ntem,Province,Middle Africa,3460.7
+GNQ.6_1,GNQ,EquatorialGuinea,Litoral,Province,Middle Africa,7218.4
+GNQ.7_1,GNQ,EquatorialGuinea,Wele-Nzas,Province,Middle Africa,5897.6
+GRD.1_1,GRD,Grenada,Carriacou,Dependency,Caribbean,36.2
+GRD.2_1,GRD,Grenada,SaintAndrew,Parish,Caribbean,95.0
+GRD.3_1,GRD,Grenada,SaintDavid,Parish,Caribbean,39.7
+GRD.4_1,GRD,Grenada,SaintGeorge,Parish,Caribbean,74.1
+GRD.5_1,GRD,Grenada,SaintJohn,Parish,Caribbean,37.2
+GRD.6_1,GRD,Grenada,SaintMark,Parish,Caribbean,24.4
+GRD.7_1,GRD,Grenada,SaintPatrick,Parish,Caribbean,53.0
+GTM.10_1,GTM,Guatemala,Jalapa,Department,Central America,1969.2
+GTM.11_1,GTM,Guatemala,Jutiapa,Department,Central America,3344.6
+GTM.12_1,GTM,Guatemala,Petén,Department,Central America,36153.4
+GTM.13_1,GTM,Guatemala,Quezaltenango,Department,Central America,2130.8
+GTM.14_1,GTM,Guatemala,Quiché,Department,Central America,7227.3
+GTM.15_1,GTM,Guatemala,Retalhuleu,Department,Central America,1921.6
+GTM.16_1,GTM,Guatemala,Sacatepéquez,Department,Central America,556.6
+GTM.17_1,GTM,Guatemala,SanMarcos,Department,Central America,3543.3
+GTM.18_1,GTM,Guatemala,SantaRosa,Department,Central America,3020.1
+GTM.19_1,GTM,Guatemala,Sololá,Department,Central America,1179.2
+GTM.1_1,GTM,Guatemala,AltaVerapaz,Department,Central America,10045.9
+GTM.20_1,GTM,Guatemala,Suchitepéquez,Department,Central America,2080.2
+GTM.21_1,GTM,Guatemala,Totonicapán,Department,Central America,1077.3
+GTM.22_1,GTM,Guatemala,Zacapa,Department,Central America,2719.7
+GTM.2_1,GTM,Guatemala,BajaVerapaz,Department,Central America,2818.0
+GTM.3_1,GTM,Guatemala,Chimaltenango,Department,Central America,1883.5
+GTM.4_1,GTM,Guatemala,Chiquimula,Department,Central America,2383.3
+GTM.5_1,GTM,Guatemala,ElProgreso,Department,Central America,1685.1
+GTM.6_1,GTM,Guatemala,Escuintla,Department,Central America,4775.1
+GTM.7_1,GTM,Guatemala,Guatemala,Department,Central America,2212.3
+GTM.8_1,GTM,Guatemala,Huehuetenango,Department,Central America,7648.4
+GTM.9_1,GTM,Guatemala,Izabal,Department,Central America,8773.9
+GUF.1_1,GUF,FrenchGuiana,Cayenne,Arrondissement,South America,42601.6
+GUF.2_1,GUF,FrenchGuiana,Saint-Laurent-du-Maroni,Arrondissement,South America,40698.3
+GUM.10_1,GUM,Guam,Merizo,Municipality,Micronesia,16.4
+GUM.11_1,GUM,Guam,Mongmong-Toto-Maite,Municipality,Micronesia,4.7
+GUM.12_1,GUM,Guam,Piti,Municipality,Micronesia,20.7
+GUM.13_1,GUM,Guam,SantaRita,Municipality,Micronesia,43.3
+GUM.14_1,GUM,Guam,Sinajana,Municipality,Micronesia,2.2
+GUM.15_1,GUM,Guam,Talofofo,Municipality,Micronesia,46.1
+GUM.16_1,GUM,Guam,Tamuning,Municipality,Micronesia,15.0
+GUM.17_1,GUM,Guam,Umatac,Municipality,Micronesia,16.7
+GUM.18_1,GUM,Guam,Yigo,Municipality,Micronesia,92.1
+GUM.19_1,GUM,Guam,Yona,Municipality,Micronesia,52.6
+GUM.1_1,GUM,Guam,AganaHeights,Municipality,Micronesia,2.6
+GUM.2_1,GUM,Guam,Agat,Municipality,Micronesia,27.1
+GUM.3_1,GUM,Guam,Asan,Municipality,Micronesia,14.6
+GUM.4_1,GUM,Guam,Barrigada,Municipality,Micronesia,22.1
+GUM.5_1,GUM,Guam,Chalan-Pago-Ordot,Municipality,Micronesia,14.7
+GUM.6_1,GUM,Guam,Dededo,Municipality,Micronesia,79.3
+GUM.7_1,GUM,Guam,Hagåtña,Municipality,Micronesia,2.3
+GUM.8_1,GUM,Guam,Inarajan,Municipality,Micronesia,50.0
+GUM.9_1,GUM,Guam,Mangilao,Municipality,Micronesia,27.4
+GUY.10_1,GUY,Guyana,UpperTakutu-UpperEssequibo,Region,South America,56537.4
+GUY.1_1,GUY,Guyana,Barima-Waini,Region,South America,19492.2
+GUY.2_1,GUY,Guyana,Cuyuni-Mazaruni,Region,South America,47223.7
+GUY.3_1,GUY,Guyana,Demerara-Mahaica,Region,South America,2114.7
+GUY.4_1,GUY,Guyana,EastBerbice-Corentyne,Region,South America,35196.7
+GUY.5_1,GUY,Guyana,EssequiboIslands-WestDemerara,Region,South America,3282.8
+GUY.6_1,GUY,Guyana,Mahaica-Berbice,Region,South America,4025.8
+GUY.7_1,GUY,Guyana,Pomeroon-Supenaam,Region,South America,5948.8
+GUY.8_1,GUY,Guyana,Potaro-Siparuni,Region,South America,19343.1
+GUY.9_1,GUY,Guyana,UpperDemerara-Berbice,Region,South America,16576.4
+HND.10_1,HND,Honduras,Intibucá,Department,Central America,3148.5
+HND.11_1,HND,Honduras,IslasdelaBahía,Department,Central America,231.7
+HND.12_1,HND,Honduras,LaPaz,Department,Central America,2448.1
+HND.13_1,HND,Honduras,Lempira,Department,Central America,4252.0
+HND.14_1,HND,Honduras,Ocotepeque,Department,Central America,1694.3
+HND.15_1,HND,Honduras,Olancho,Department,Central America,24264.4
+HND.16_1,HND,Honduras,SantaBárbara,Department,Central America,5088.0
+HND.17_1,HND,Honduras,Valle,Department,Central America,1625.3
+HND.18_1,HND,Honduras,Yoro,Department,Central America,7788.3
+HND.1_1,HND,Honduras,Atlántida,Department,Central America,4452.6
+HND.2_1,HND,Honduras,Choluteca,Department,Central America,4413.5
+HND.3_1,HND,Honduras,Colón,Department,Central America,8417.6
+HND.4_1,HND,Honduras,Comayagua,Department,Central America,4926.8
+HND.5_1,HND,Honduras,Copán,Department,Central America,3318.6
+HND.6_1,HND,Honduras,Cortés,Department,Central America,3947.7
+HND.7_1,HND,Honduras,ElParaíso,Department,Central America,7373.6
+HND.8_1,HND,Honduras,FranciscoMorazán,Department,Central America,8555.1
+HND.9_1,HND,Honduras,GraciasaDios,Department,Central America,16344.5
+HTI.10_1,HTI,Haiti,Sud,Department,Caribbean,2658.6
+HTI.1_1,HTI,Haiti,Centre,Department,Caribbean,3500.2
+HTI.2_1,HTI,Haiti,Grand'Anse,Department,Caribbean,1922.1
+HTI.3_1,HTI,Haiti,L'Artibonite,Department,Caribbean,4866.2
+HTI.4_1,HTI,Haiti,Nippes,Department,Caribbean,1222.5
+HTI.5_1,HTI,Haiti,Nord-Est,Department,Caribbean,1643.6
+HTI.6_1,HTI,Haiti,Nord-Ouest,Department,Caribbean,2106.6
+HTI.7_1,HTI,Haiti,Nord,Department,Caribbean,2106.6
+HTI.8_1,HTI,Haiti,Ouest,Department,Caribbean,5018.6
+HTI.9_1,HTI,Haiti,Sud-Est,Department,Caribbean,2069.2
+IDN.10_1,IDN,Indonesia,JawaTengah,Province,South-eastern Asia,34439.1
+IDN.11_1,IDN,Indonesia,JawaTimur,Province,South-eastern Asia,47995.6
+IDN.12_1,IDN,Indonesia,KalimantanBarat,Province,South-eastern Asia,146869.7
+IDN.13_1,IDN,Indonesia,KalimantanSelatan,Province,South-eastern Asia,37365.9
+IDN.14_1,IDN,Indonesia,KalimantanTengah,Province,South-eastern Asia,153711.1
+IDN.16_1,IDN,Indonesia,KepulauanRiau,Province,South-eastern Asia,8249.1
+IDN.17_1,IDN,Indonesia,Lampung,Province,South-eastern Asia,33487.9
+IDN.18_1,IDN,Indonesia,MalukuUtara,Province,South-eastern Asia,31497.3
+IDN.19_1,IDN,Indonesia,Maluku,Province,South-eastern Asia,46330.0
+IDN.1_1,IDN,Indonesia,Aceh,Province,South-eastern Asia,56836.4
+IDN.20_1,IDN,Indonesia,NusaTenggaraBarat,Province,South-eastern Asia,19677.1
+IDN.21_1,IDN,Indonesia,NusaTenggaraTimur,Province,South-eastern Asia,46450.8
+IDN.22_1,IDN,Indonesia,PapuaBarat,Province,South-eastern Asia,98500.3
+IDN.23_1,IDN,Indonesia,Papua,Province,South-eastern Asia,313773.3
+IDN.24_1,IDN,Indonesia,Riau,Province,South-eastern Asia,89874.5
+IDN.25_1,IDN,Indonesia,SulawesiBarat,Province,South-eastern Asia,16571.4
+IDN.26_1,IDN,Indonesia,SulawesiSelatan,Province,South-eastern Asia,45463.8
+IDN.27_1,IDN,Indonesia,SulawesiTengah,Province,South-eastern Asia,61156.2
+IDN.28_1,IDN,Indonesia,SulawesiTenggara,Province,South-eastern Asia,36625.7
+IDN.29_1,IDN,Indonesia,SulawesiUtara,Province,South-eastern Asia,14507.0
+IDN.2_1,IDN,Indonesia,Bali,Province,South-eastern Asia,5591.2
+IDN.30_1,IDN,Indonesia,SumateraBarat,Province,South-eastern Asia,42146.5
+IDN.31_1,IDN,Indonesia,SumateraSelatan,Province,South-eastern Asia,86986.3
+IDN.32_1,IDN,Indonesia,SumateraUtara,Province,South-eastern Asia,72229.1
+IDN.33_1,IDN,Indonesia,Yogyakarta,Province,South-eastern Asia,3178.4
+IDN.34_1,IDN,Indonesia,KalimantanTimur,Province,South-eastern Asia,125829.7
+IDN.35_1,IDN,Indonesia,KalimantanUtara,Province,South-eastern Asia,70114.2
+IDN.3_1,IDN,Indonesia,BangkaBelitung,Province,South-eastern Asia,16758.7
+IDN.4_1,IDN,Indonesia,Banten,Province,South-eastern Asia,9353.5
+IDN.5_1,IDN,Indonesia,Bengkulu,Province,South-eastern Asia,19815.2
+IDN.6_1,IDN,Indonesia,Gorontalo,Province,South-eastern Asia,12041.2
+IDN.7_1,IDN,Indonesia,JakartaRaya,Province,South-eastern Asia,650.7
+IDN.8_1,IDN,Indonesia,Jambi,Province,South-eastern Asia,48960.6
+IDN.9_1,IDN,Indonesia,JawaBarat,Province,South-eastern Asia,37059.9
+IND.10_1,IND,India,Goa,State,Southern Asia,3695.7
+IND.11_1,IND,India,Gujarat,State,Southern Asia,185720.5
+IND.12_1,IND,India,Haryana,State,Southern Asia,44024.2
+IND.13_1,IND,India,HimachalPradesh,UnionTerritory,Southern Asia,55187.9
+IND.15_1,IND,India,Jharkhand,State,Southern Asia,80038.7
+IND.16_1,IND,India,Karnataka,State,Southern Asia,191381.5
+IND.17_1,IND,India,Kerala,State,Southern Asia,37697.7
+IND.18_1,IND,India,Lakshadweep,UnionTerritory,Southern Asia,33.9
+IND.19_1,IND,India,MadhyaPradesh,State,Southern Asia,308051.9
+IND.1_1,IND,India,AndamanandNicobar,UnionTerritory,Southern Asia,7606.3
+IND.20_1,IND,India,Maharashtra,State,Southern Asia,307339.3
+IND.21_1,IND,India,Manipur,State,Southern Asia,22322.0
+IND.22_1,IND,India,Meghalaya,State,Southern Asia,22516.4
+IND.23_1,IND,India,Mizoram,State,Southern Asia,21252.1
+IND.24_1,IND,India,Nagaland,State,Southern Asia,16598.9
+IND.25_1,IND,India,NCTofDelhi,UnionTerritory,Southern Asia,1502.2
+IND.26_1,IND,India,Odisha,State,Southern Asia,155635.6
+IND.27_1,IND,India,Puducherry,UnionTerritory,Southern Asia,546.5
+IND.28_1,IND,India,Punjab,State,Southern Asia,50225.3
+IND.29_1,IND,India,Rajasthan,State,Southern Asia,341901.9
+IND.2_1,IND,India,AndhraPradesh,State,Southern Asia,160048.9
+IND.30_1,IND,India,Sikkim,State,Southern Asia,7083.4
+IND.31_1,IND,India,TamilNadu,State,Southern Asia,130280.0
+IND.32_1,IND,India,Telangana,State,Southern Asia,114710.0
+IND.33_1,IND,India,Tripura,State,Southern Asia,10536.3
+IND.34_1,IND,India,UttarPradesh,State,Southern Asia,240752.3
+IND.35_1,IND,India,Uttarakhand,State,Southern Asia,52572.0
+IND.36_1,IND,India,WestBengal,State,Southern Asia,85363.4
+IND.3_1,IND,India,ArunachalPradesh,State,Southern Asia,14865.7
+IND.4_1,IND,India,Assam,State,Southern Asia,78489.9
+IND.5_1,IND,India,Bihar,State,Southern Asia,94234.0
+IND.6_1,IND,India,Chandigarh,UnionTerritory,Southern Asia,117.9
+IND.7_1,IND,India,Chhattisgarh,State,Southern Asia,135436.7
+IND.8_1,IND,India,DadraandNagarHaveli,UnionTerritory,Southern Asia,491.3
+IND.9_1,IND,India,DamanandDiu,UnionTerritory,Southern Asia,83.5
+IRN.10_1,IRN,Iran,Hamadan,Province,Southern Asia,20499.6
+IRN.11_1,IRN,Iran,Hormozgan,Province,Southern Asia,67735.6
+IRN.12_1,IRN,Iran,Ilam,Province,Southern Asia,18260.0
+IRN.13_1,IRN,Iran,Kerman,Province,Southern Asia,183128.5
+IRN.14_1,IRN,Iran,Kermanshah,Province,Southern Asia,22829.4
+IRN.15_1,IRN,Iran,Khuzestan,Province,Southern Asia,63912.2
+IRN.16_1,IRN,Iran,KohgiluyehandBuyerAhmad,Province,Southern Asia,13305.2
+IRN.17_1,IRN,Iran,Kordestan,Province,Southern Asia,29449.9
+IRN.18_1,IRN,Iran,Lorestan,Province,Southern Asia,29116.6
+IRN.19_1,IRN,Iran,Markazi,Province,Southern Asia,28151.9
+IRN.1_1,IRN,Iran,Alborz,Province,Southern Asia,5401.7
+IRN.20_1,IRN,Iran,Mazandaran,Province,Southern Asia,24417.1
+IRN.21_1,IRN,Iran,NorthKhorasan,Province,Southern Asia,25049.2
+IRN.22_1,IRN,Iran,Qazvin,Province,Southern Asia,15681.3
+IRN.23_1,IRN,Iran,Qom,Province,Southern Asia,11673.2
+IRN.24_1,IRN,Iran,RazaviKhorasan,Province,Southern Asia,137188.5
+IRN.25_1,IRN,Iran,Semnan,Province,Southern Asia,90775.0
+IRN.26_1,IRN,Iran,SistanandBaluchestan,Province,Southern Asia,175958.0
+IRN.27_1,IRN,Iran,SouthKhorasan,Province,Southern Asia,83831.1
+IRN.28_1,IRN,Iran,Tehran,Province,Southern Asia,13788.4
+IRN.29_1,IRN,Iran,WestAzarbaijan,Province,Southern Asia,35938.6
+IRN.2_1,IRN,Iran,Ardebil,Province,Southern Asia,17815.3
+IRN.30_1,IRN,Iran,Yazd,Province,Southern Asia,127327.8
+IRN.31_1,IRN,Iran,Zanjan,Province,Southern Asia,22171.1
+IRN.3_1,IRN,Iran,Bushehr,Province,Southern Asia,23803.9
+IRN.4_1,IRN,Iran,ChaharMahallandBakhtiari,Province,Southern Asia,15305.6
+IRN.5_1,IRN,Iran,EastAzarbaijan,Province,Southern Asia,48626.5
+IRN.6_1,IRN,Iran,Esfahan,Province,Southern Asia,110371.5
+IRN.7_1,IRN,Iran,Fars,Province,Southern Asia,125590.9
+IRN.8_1,IRN,Iran,Gilan,Province,Southern Asia,14157.7
+IRN.9_1,IRN,Iran,Golestan,Province,Southern Asia,20487.5
+IRQ.10_1,IRQ,Iraq,Baghdad,Province,Western Asia,821.2
+IRQ.11_1,IRQ,Iraq,Dhi-Qar,Province,Western Asia,13561.7
+IRQ.12_1,IRQ,Iraq,Dihok,Province,Western Asia,6873.5
+IRQ.13_1,IRQ,Iraq,Diyala,Province,Western Asia,21115.6
+IRQ.14_1,IRQ,Iraq,Karbala',Province,Western Asia,4569.6
+IRQ.15_1,IRQ,Iraq,Maysan,Province,Western Asia,17342.3
+IRQ.16_1,IRQ,Iraq,Ninawa,Province,Western Asia,37847.8
+IRQ.17_1,IRQ,Iraq,Salaad-Din,Province,Western Asia,26049.0
+IRQ.18_1,IRQ,Iraq,Wasit,Province,Western Asia,17416.3
+IRQ.1_1,IRQ,Iraq,Al-Anbar,Province,Western Asia,134533.4
+IRQ.2_1,IRQ,Iraq,Al-Basrah,Province,Western Asia,18049.8
+IRQ.3_1,IRQ,Iraq,Al-Muthannia,Province,Western Asia,51841.0
+IRQ.4_1,IRQ,Iraq,Al-Qadisiyah,Province,Western Asia,8890.2
+IRQ.5_1,IRQ,Iraq,An-Najaf,Province,Western Asia,27358.7
+IRQ.6_1,IRQ,Iraq,Arbil,Province,Western Asia,14555.1
+IRQ.7_1,IRQ,Iraq,As-Sulaymaniyah,Province,Western Asia,18536.8
+IRQ.8_1,IRQ,Iraq,At-Ta'mim,Province,Western Asia,10006.8
+IRQ.9_1,IRQ,Iraq,Babil,Province,Western Asia,7112.0
+JAM.10_1,JAM,Jamaica,SaintJames,Parish,Caribbean,593.9
+JAM.11_1,JAM,Jamaica,SaintMary,Parish,Caribbean,627.7
+JAM.12_1,JAM,Jamaica,SaintThomas,Parish,Caribbean,737.3
+JAM.13_1,JAM,Jamaica,Trelawny,Parish,Caribbean,881.5
+JAM.14_1,JAM,Jamaica,Westmoreland,Parish,Caribbean,787.5
+JAM.1_1,JAM,Jamaica,Clarendon,Parish,Caribbean,1203.8
+JAM.2_1,JAM,Jamaica,Hanover,Parish,Caribbean,454.1
+JAM.3_1,JAM,Jamaica,Kingston,Parish,Caribbean,24.7
+JAM.4_1,JAM,Jamaica,Manchester,Parish,Caribbean,819.2
+JAM.5_1,JAM,Jamaica,Portland,Parish,Caribbean,831.6
+JAM.6_1,JAM,Jamaica,SaintAndrew,Parish,Caribbean,426.0
+JAM.7_1,JAM,Jamaica,SaintAnn,Parish,Caribbean,1222.9
+JAM.8_1,JAM,Jamaica,SaintCatherine,Parish,Caribbean,1190.6
+JAM.9_1,JAM,Jamaica,SaintElizabeth,Parish,Caribbean,1200.9
+JOR.10_1,JOR,Jordan,Mafraq,Province,Western Asia,26698.9
+JOR.11_1,JOR,Jordan,Tafilah,Province,Western Asia,2169.6
+JOR.12_1,JOR,Jordan,Zarqa,Province,Western Asia,4159.8
+JOR.1_1,JOR,Jordan,Ajlun,Province,Western Asia,410.6
+JOR.2_1,JOR,Jordan,Amman,Province,Western Asia,7224.0
+JOR.3_1,JOR,Jordan,Aqaba,Province,Western Asia,6930.2
+JOR.4_1,JOR,Jordan,Balqa,Province,Western Asia,1415.8
+JOR.5_1,JOR,Jordan,Irbid,Province,Western Asia,1907.2
+JOR.6_1,JOR,Jordan,Jarash,Province,Western Asia,388.8
+JOR.7_1,JOR,Jordan,Karak,Province,Western Asia,3799.3
+JOR.8_1,JOR,Jordan,Ma`an,Province,Western Asia,32889.8
+JOR.9_1,JOR,Jordan,Madaba,Province,Western Asia,1192.1
+KAZ.10_1,KAZ,Kazakhstan,Qostanay,Region,Central Asia,201075.1
+KAZ.11_1,KAZ,Kazakhstan,Qyzylorda,Region,Central Asia,229193.7
+KAZ.12_1,KAZ,Kazakhstan,SouthKazakhstan,Region,Central Asia,115876.0
+KAZ.13_1,KAZ,Kazakhstan,WestKazakhstan,Region,Central Asia,154930.2
+KAZ.14_1,KAZ,Kazakhstan,Zhambyl,Region,Central Asia,140285.9
+KAZ.1_1,KAZ,Kazakhstan,Almaty,Region,Central Asia,222576.5
+KAZ.2_1,KAZ,Kazakhstan,Aqmola,Region,Central Asia,147031.5
+KAZ.3_1,KAZ,Kazakhstan,Aqtöbe,Region,Central Asia,301730.7
+KAZ.4_1,KAZ,Kazakhstan,Atyrau,Region,Central Asia,117360.3
+KAZ.5_1,KAZ,Kazakhstan,EastKazakhstan,Region,Central Asia,280625.3
+KAZ.6_1,KAZ,Kazakhstan,Mangghystau,Region,Central Asia,166108.9
+KAZ.7_1,KAZ,Kazakhstan,NorthKazakhstan,Region,Central Asia,98870.5
+KAZ.8_1,KAZ,Kazakhstan,Pavlodar,Region,Central Asia,125091.0
+KAZ.9_1,KAZ,Kazakhstan,Qaraghandy,Region,Central Asia,429785.8
+KEN.10_1,KEN,Kenya,Kajiado,County,Eastern Africa,21988.5
+KEN.11_1,KEN,Kenya,Kakamega,County,Eastern Africa,2441.6
+KEN.12_1,KEN,Kenya,Kericho,County,Eastern Africa,2577.0
+KEN.13_1,KEN,Kenya,Kiambu,County,Eastern Africa,2573.0
+KEN.14_1,KEN,Kenya,Kilifi,County,Eastern Africa,12653.8
+KEN.15_1,KEN,Kenya,Kirinyaga,County,Eastern Africa,1556.3
+KEN.16_1,KEN,Kenya,Kisii,County,Eastern Africa,1313.8
+KEN.17_1,KEN,Kenya,Kisumu,County,Eastern Africa,2665.3
+KEN.18_1,KEN,Kenya,Kitui,County,Eastern Africa,30452.8
+KEN.19_1,KEN,Kenya,Kwale,County,Eastern Africa,8383.7
+KEN.1_1,KEN,Kenya,Baringo,County,Eastern Africa,10840.6
+KEN.20_1,KEN,Kenya,Laikipia,County,Eastern Africa,9524.4
+KEN.21_1,KEN,Kenya,Lamu,County,Eastern Africa,6716.5
+KEN.22_1,KEN,Kenya,Machakos,County,Eastern Africa,6033.5
+KEN.23_1,KEN,Kenya,Makueni,County,Eastern Africa,8176.1
+KEN.24_1,KEN,Kenya,Mandera,County,Eastern Africa,25779.2
+KEN.25_1,KEN,Kenya,Marsabit,County,Eastern Africa,75774.9
+KEN.26_1,KEN,Kenya,Meru,County,Eastern Africa,6981.7
+KEN.27_1,KEN,Kenya,Migori,County,Eastern Africa,3200.6
+KEN.28_1,KEN,Kenya,Mombasa,County,Eastern Africa,267.4
+KEN.29_1,KEN,Kenya,Murang'a,County,Eastern Africa,2526.2
+KEN.2_1,KEN,Kenya,Bomet,County,Eastern Africa,2376.7
+KEN.30_1,KEN,Kenya,Nairobi,County,Eastern Africa,712.3
+KEN.31_1,KEN,Kenya,Nakuru,County,Eastern Africa,7475.7
+KEN.32_1,KEN,Kenya,Nandi,County,Eastern Africa,2830.2
+KEN.33_1,KEN,Kenya,Narok,County,Eastern Africa,18019.8
+KEN.34_1,KEN,Kenya,Nyamira,County,Eastern Africa,897.9
+KEN.35_1,KEN,Kenya,Nyandarua,County,Eastern Africa,3268.0
+KEN.36_1,KEN,Kenya,Nyeri,County,Eastern Africa,3333.8
+KEN.37_1,KEN,Kenya,Samburu,County,Eastern Africa,20960.9
+KEN.38_1,KEN,Kenya,Siaya,County,Eastern Africa,3498.3
+KEN.39_1,KEN,Kenya,TaitaTaveta,County,Eastern Africa,17168.5
+KEN.3_1,KEN,Kenya,Bungoma,County,Eastern Africa,3573.2
+KEN.40_1,KEN,Kenya,TanaRiver,County,Eastern Africa,39220.2
+KEN.41_1,KEN,Kenya,Tharaka-Nithi,County,Eastern Africa,2423.5
+KEN.42_1,KEN,Kenya,TransNzoia,County,Eastern Africa,2465.2
+KEN.43_1,KEN,Kenya,Turkana,County,Eastern Africa,63731.8
+KEN.44_1,KEN,Kenya,UasinGishu,County,Eastern Africa,3429.5
+KEN.45_1,KEN,Kenya,Vihiga,County,Eastern Africa,558.5
+KEN.46_1,KEN,Kenya,Wajir,County,Eastern Africa,56636.0
+KEN.47_1,KEN,Kenya,WestPokot,County,Eastern Africa,9510.0
+KEN.4_1,KEN,Kenya,Busia,County,Eastern Africa,1800.4
+KEN.5_1,KEN,Kenya,Elgeyo-Marakwet,County,Eastern Africa,2803.3
+KEN.6_1,KEN,Kenya,Embu,County,Eastern Africa,2904.4
+KEN.7_1,KEN,Kenya,Garissa,County,Eastern Africa,43852.7
+KEN.8_1,KEN,Kenya,HomaBay,County,Eastern Africa,4679.7
+KEN.9_1,KEN,Kenya,Isiolo,County,Eastern Africa,25436.0
+KGZ.1_1,KGZ,Kyrgyzstan,Batken,Province,Central Asia,16514.8
+KGZ.2_1,KGZ,Kyrgyzstan,Biškek,City,Central Asia,192.9
+KGZ.3_1,KGZ,Kyrgyzstan,Chüy,Province,Central Asia,19661.4
+KGZ.4_1,KGZ,Kyrgyzstan,Jalal-Abad,Province,Central Asia,33233.4
+KGZ.5_1,KGZ,Kyrgyzstan,Naryn,Province,Central Asia,45051.8
+KGZ.6_1,KGZ,Kyrgyzstan,Osh(city),City,Central Asia,60.2
+KGZ.7_1,KGZ,Kyrgyzstan,Osh,Province,Central Asia,29116.1
+KGZ.8_1,KGZ,Kyrgyzstan,Talas,Province,Central Asia,11376.5
+KGZ.9_1,KGZ,Kyrgyzstan,Ysyk-Köl,Province,Central Asia,42244.4
+KHM.10_1,KHM,Cambodia,Kep,Province,South-eastern Asia,152.3
+KHM.11_1,KHM,Cambodia,Krâchéh,Province,South-eastern Asia,11984.4
+KHM.12_1,KHM,Cambodia,KrongPailin,Municipality,South-eastern Asia,1075.6
+KHM.13_1,KHM,Cambodia,KrongPreahSihanouk,Municipality,South-eastern Asia,2634.8
+KHM.14_1,KHM,Cambodia,MôndólKiri,Province,South-eastern Asia,13663.8
+KHM.15_1,KHM,Cambodia,OtdarMeanChey,Province,South-eastern Asia,6633.1
+KHM.16_1,KHM,Cambodia,PhnomPenh,Municipality,South-eastern Asia,685.1
+KHM.17_1,KHM,Cambodia,Pouthisat,Province,South-eastern Asia,12511.0
+KHM.18_1,KHM,Cambodia,PreahVihéar,Province,South-eastern Asia,14041.4
+KHM.19_1,KHM,Cambodia,PreyVêng,Province,South-eastern Asia,4766.4
+KHM.1_1,KHM,Cambodia,BântéayMéanchey,Province,South-eastern Asia,6145.3
+KHM.20_1,KHM,Cambodia,Rôtânôkiri,Province,South-eastern Asia,11781.0
+KHM.21_1,KHM,Cambodia,Siemréab,Province,South-eastern Asia,11478.2
+KHM.22_1,KHM,Cambodia,StœngTrêng,Province,South-eastern Asia,12020.7
+KHM.23_1,KHM,Cambodia,SvayRieng,Province,South-eastern Asia,2868.3
+KHM.24_1,KHM,Cambodia,Takêv,Province,South-eastern Asia,3492.8
+KHM.25_1,KHM,Cambodia,TbongKhmum,Province,South-eastern Asia,4931.1
+KHM.2_1,KHM,Cambodia,Batdâmbâng,Province,South-eastern Asia,12107.0
+KHM.3_1,KHM,Cambodia,KâmpóngCham,Province,South-eastern Asia,4552.3
+KHM.4_1,KHM,Cambodia,KâmpóngChhnang,Province,South-eastern Asia,5384.0
+KHM.5_1,KHM,Cambodia,KâmpóngSpœ,Province,South-eastern Asia,6971.0
+KHM.6_1,KHM,Cambodia,KâmpóngThum,Province,South-eastern Asia,12829.2
+KHM.7_1,KHM,Cambodia,Kâmpôt,Province,South-eastern Asia,4722.9
+KHM.8_1,KHM,Cambodia,Kândal,Province,South-eastern Asia,3254.0
+KHM.9_1,KHM,Cambodia,KaôhKong,Province,South-eastern Asia,11007.3
+KNA.10_1,KNA,SaintKittsandNevis,SaintPaulCharlestown,Parish,Caribbean,3.5
+KNA.11_1,KNA,SaintKittsandNevis,SaintPeterBasseterre,Parish,Caribbean,19.2
+KNA.12_1,KNA,SaintKittsandNevis,SaintThomasLowland,Parish,Caribbean,18.2
+KNA.13_1,KNA,SaintKittsandNevis,SaintThomasMiddleIsland,Parish,Caribbean,24.9
+KNA.14_1,KNA,SaintKittsandNevis,TrinityPalmettoPoint,Parish,Caribbean,15.3
+KNA.1_1,KNA,SaintKittsandNevis,ChristChurchNicholaTown,Parish,Caribbean,17.7
+KNA.2_1,KNA,SaintKittsandNevis,SaintAnneSandyPoint,Parish,Caribbean,13.5
+KNA.3_1,KNA,SaintKittsandNevis,SaintGeorgeBasseterre,Parish,Caribbean,30.5
+KNA.4_1,KNA,SaintKittsandNevis,SaintGeorgeGingerland,Parish,Caribbean,19.0
+KNA.5_1,KNA,SaintKittsandNevis,SaintJamesWindward,Parish,Caribbean,32.0
+KNA.6_1,KNA,SaintKittsandNevis,SaintJohnCapisterre,Parish,Caribbean,21.6
+KNA.7_1,KNA,SaintKittsandNevis,SaintJohnFigtree,Parish,Caribbean,22.9
+KNA.8_1,KNA,SaintKittsandNevis,SaintMaryCayon,Parish,Caribbean,14.3
+KNA.9_1,KNA,SaintKittsandNevis,SaintPaulCapisterre,Parish,Caribbean,14.2
+KWT.1_1,KWT,Kuwait,AlAhmadi,Province,Western Asia,4642.5
+KWT.2_1,KWT,Kuwait,AlFarwaniyah,Province,Western Asia,217.9
+KWT.3_1,KWT,Kuwait,AlJahrah,Province,Western Asia,12395.0
+KWT.4_1,KWT,Kuwait,AlKuwayt,Province,Western Asia,46.1
+KWT.5_1,KWT,Kuwait,Hawalli,Province,Western Asia,55.0
+KWT.6_1,KWT,Kuwait,MubarakAl-Kabeer,Province,Western Asia,72.2
+LAO.10_1,LAO,Laos,Phôngsali,Province,South-eastern Asia,15338.3
+LAO.11_1,LAO,Laos,Saravan,Province,South-eastern Asia,10179.8
+LAO.12_1,LAO,Laos,Savannakhét,Province,South-eastern Asia,21425.4
+LAO.13_1,LAO,Laos,Vientiane[prefecture],Municipality|Prefecture,South-eastern Asia,3619.0
+LAO.14_1,LAO,Laos,Vientiane,Province,South-eastern Asia,12523.2
+LAO.15_1,LAO,Laos,Xaignabouri,Province,South-eastern Asia,15608.3
+LAO.16_1,LAO,Laos,Xaisômboun,SpecialRegion|Zone,South-eastern Asia,7736.6
+LAO.17_1,LAO,Laos,Xékong,Province,South-eastern Asia,8365.5
+LAO.18_1,LAO,Laos,Xiangkhoang,Province,South-eastern Asia,12647.5
+LAO.1_1,LAO,Laos,Attapu,Province,South-eastern Asia,9439.0
+LAO.2_1,LAO,Laos,Bokeo,Province,South-eastern Asia,6857.4
+LAO.3_1,LAO,Laos,Bolikhamxai,Province,South-eastern Asia,15835.1
+LAO.4_1,LAO,Laos,Champasak,Province,South-eastern Asia,14854.5
+LAO.5_1,LAO,Laos,Houaphan,Province,South-eastern Asia,17355.2
+LAO.6_1,LAO,Laos,Khammouan,Province,South-eastern Asia,16559.4
+LAO.7_1,LAO,Laos,LouangNamtha,Province,South-eastern Asia,9793.6
+LAO.8_1,LAO,Laos,Louangphrabang,Province,South-eastern Asia,19961.2
+LAO.9_1,LAO,Laos,Oudômxai,Province,South-eastern Asia,11772.2
+LBN.1_1,LBN,Lebanon,Akkar,Governorate,Western Asia,791.3
+LBN.2_1,LBN,Lebanon,Baalbak-Hermel,Governorate,Western Asia,2846.7
+LBN.3_1,LBN,Lebanon,Beirut,Governorate,Western Asia,21.4
+LBN.4_1,LBN,Lebanon,Bekaa,Governorate,Western Asia,1404.8
+LBN.5_1,LBN,Lebanon,MountLebanon,Governorate,Western Asia,1985.1
+LBN.6_1,LBN,Lebanon,Nabatiyeh,Governorate,Western Asia,1096.1
+LBN.7_1,LBN,Lebanon,North,Governorate,Western Asia,1178.4
+LBN.8_1,LBN,Lebanon,South,Governorate,Western Asia,916.6
+LBR.10_1,LBR,Liberia,Maryland,County,Western Africa,2192.6
+LBR.11_1,LBR,Liberia,Montserrado,County,Western Africa,1809.2
+LBR.12_1,LBR,Liberia,Nimba,County,Western Africa,11895.8
+LBR.13_1,LBR,Liberia,Rivercess,County,Western Africa,5285.2
+LBR.14_1,LBR,Liberia,RiverGee,County,Western Africa,6196.0
+LBR.15_1,LBR,Liberia,Sinoe,County,Western Africa,9367.9
+LBR.1_1,LBR,Liberia,Bomi,County,Western Africa,2107.8
+LBR.2_1,LBR,Liberia,Bong,County,Western Africa,8385.5
+LBR.3_1,LBR,Liberia,Gbapolu,County,Western Africa,9243.7
+LBR.4_1,LBR,Liberia,GrandCapeMount,County,Western Africa,4946.0
+LBR.5_1,LBR,Liberia,GrandBassa,County,Western Africa,7479.7
+LBR.6_1,LBR,Liberia,GrandGedeh,County,Western Africa,10252.6
+LBR.7_1,LBR,Liberia,GrandKru,County,Western Africa,3689.9
+LBR.8_1,LBR,Liberia,Lofa,County,Western Africa,10254.7
+LBR.9_1,LBR,Liberia,Margibi,County,Western Africa,2809.7
+LBY.10_1,LBY,Libya,AnNuqatalKhams,District,Northern Africa,6334.1
+LBY.11_1,LBY,Libya,AzZawiyah,District,Northern Africa,3204.8
+LBY.12_1,LBY,Libya,Benghazi,District,Northern Africa,15336.0
+LBY.13_1,LBY,Libya,Darnah,District,Northern Africa,18503.6
+LBY.14_1,LBY,Libya,Ghat,District,Northern Africa,52173.1
+LBY.15_1,LBY,Libya,Misratah,District,Northern Africa,28234.9
+LBY.16_1,LBY,Libya,Murzuq,District,Northern Africa,267415.7
+LBY.17_1,LBY,Libya,Nalut,District,Northern Africa,67617.4
+LBY.18_1,LBY,Libya,Sabha,District,Northern Africa,17164.5
+LBY.19_1,LBY,Libya,Surt,District,Northern Africa,78656.0
+LBY.1_1,LBY,Libya,AlButnan,District,Northern Africa,82845.2
+LBY.20_1,LBY,Libya,Tripoli,District,Northern Africa,2432.6
+LBY.21_1,LBY,Libya,WadialHayat,District,Northern Africa,33282.5
+LBY.22_1,LBY,Libya,WadiashShati',District,Northern Africa,93578.1
+LBY.2_1,LBY,Libya,AlJabalalAkhdar,District,Northern Africa,8534.3
+LBY.3_1,LBY,Libya,AlJabalalGharbi,District,Northern Africa,85594.0
+LBY.4_1,LBY,Libya,AlJifarah,District,Northern Africa,1713.7
+LBY.5_1,LBY,Libya,AlJufrah,District,Northern Africa,111239.0
+LBY.6_1,LBY,Libya,AlKufrah,District,Northern Africa,429802.0
+LBY.7_1,LBY,Libya,AlMarj,District,Northern Africa,10063.6
+LBY.8_1,LBY,Libya,AlMarqab,District,Northern Africa,8224.2
+LBY.9_1,LBY,Libya,AlWahat,District,Northern Africa,194133.4
+LCA.10_1,LCA,SaintLucia,VieuxFort,Quarter,Caribbean,46.5
+LCA.1_1,LCA,SaintLucia,Anse-la-Raye,Quarter,Caribbean,44.1
+LCA.2_1,LCA,SaintLucia,Canaries,Quarter,Caribbean,22.4
+LCA.3_1,LCA,SaintLucia,Castries,Quarter,Caribbean,94.9
+LCA.4_1,LCA,SaintLucia,Choiseul,Quarter,Caribbean,27.3
+LCA.5_1,LCA,SaintLucia,Dennery,Quarter,Caribbean,85.4
+LCA.6_1,LCA,SaintLucia,GrosIslet,Quarter,Caribbean,100.6
+LCA.7_1,LCA,SaintLucia,Laborie,Quarter,Caribbean,35.0
+LCA.8_1,LCA,SaintLucia,Micoud,Quarter,Caribbean,104.5
+LCA.9_1,LCA,SaintLucia,Soufrière,Quarter,Caribbean,53.9
+LKA.10_1,LKA,SriLanka,Kalutara,District,Southern Asia,1647.4
+LKA.11_1,LKA,SriLanka,Kandy,District,Southern Asia,1934.3
+LKA.12_1,LKA,SriLanka,Kegalle,District,Southern Asia,1661.6
+LKA.13_1,LKA,SriLanka,Kilinochchi,District,Southern Asia,1300.4
+LKA.14_1,LKA,SriLanka,Kurunegala,District,Southern Asia,4901.5
+LKA.15_1,LKA,SriLanka,Mannar,District,Southern Asia,2016.6
+LKA.16_1,LKA,SriLanka,Matale,District,Southern Asia,2068.9
+LKA.17_1,LKA,SriLanka,Matara,District,Southern Asia,1301.8
+LKA.18_1,LKA,SriLanka,Moneragala,District,Southern Asia,5758.8
+LKA.19_1,LKA,SriLanka,Mullaitivu,District,Southern Asia,2563.9
+LKA.1_1,LKA,SriLanka,Ampara,District,Southern Asia,4483.3
+LKA.20_1,LKA,SriLanka,NuwaraEliya,District,Southern Asia,1737.7
+LKA.21_1,LKA,SriLanka,Polonnaruwa,District,Southern Asia,3439.4
+LKA.22_1,LKA,SriLanka,Puttalam,District,Southern Asia,3150.3
+LKA.23_1,LKA,SriLanka,Ratnapura,District,Southern Asia,3292.3
+LKA.24_1,LKA,SriLanka,Trincomalee,District,Southern Asia,2671.4
+LKA.25_1,LKA,SriLanka,Vavuniya,District,Southern Asia,2012.2
+LKA.2_1,LKA,SriLanka,Anuradhapura,District,Southern Asia,7206.4
+LKA.3_1,LKA,SriLanka,Badulla,District,Southern Asia,2868.5
+LKA.4_1,LKA,SriLanka,Batticaloa,District,Southern Asia,2471.2
+LKA.5_1,LKA,SriLanka,Colombo,District,Southern Asia,683.2
+LKA.6_1,LKA,SriLanka,Galle,District,Southern Asia,1614.8
+LKA.7_1,LKA,SriLanka,Gampaha,District,Southern Asia,1381.8
+LKA.8_1,LKA,SriLanka,Hambantota,District,Southern Asia,2608.9
+LKA.9_1,LKA,SriLanka,Jaffna,District,Southern Asia,1059.8
+LSO.10_1,LSO,Lesotho,Thaba-Tseka,District,Southern Africa,4831.9
+LSO.1_1,LSO,Lesotho,Berea,District,Southern Africa,1992.1
+LSO.2_1,LSO,Lesotho,Butha-Buthe,District,Southern Africa,1789.1
+LSO.3_1,LSO,Lesotho,Leribe,District,Southern Africa,2818.7
+LSO.4_1,LSO,Lesotho,Mafeteng,District,Southern Africa,2650.2
+LSO.5_1,LSO,Lesotho,Maseru,District,Southern Africa,3768.1
+LSO.6_1,LSO,Lesotho,Mohale'sHoek,District,Southern Africa,3439.7
+LSO.7_1,LSO,Lesotho,Mokhotlong,District,Southern Africa,4169.1
+LSO.8_1,LSO,Lesotho,Qacha'sNek,District,Southern Africa,2123.4
+LSO.9_1,LSO,Lesotho,Quthing,District,Southern Africa,2964.6
+MAR.10_1,MAR,Morocco,Oriental,Region,Northern Africa,59755.2
+MAR.11_1,MAR,Morocco,Rabat-Salé-Zemmour-Zaer,Region,Northern Africa,10018.5
+MAR.12_1,MAR,Morocco,Souss-Massa-Draâ,Region,Northern Africa,72104.7
+MAR.13_1,MAR,Morocco,Tadla-Azilal,Region,Northern Africa,15577.7
+MAR.14_1,MAR,Morocco,Tanger-Tétouan,Region,Northern Africa,11808.9
+MAR.15_1,MAR,Morocco,Taza-AlHoceima-Taounate,Region,Northern Africa,21611.8
+MAR.1_1,MAR,Morocco,Chaouia-Ouardigha,Region,Northern Africa,16545.8
+MAR.2_1,MAR,Morocco,Doukkala-Abda,Region,Northern Africa,14408.2
+MAR.3_1,MAR,Morocco,Fès-Boulemane,Region,Northern Africa,19315.1
+MAR.4_1,MAR,Morocco,Gharb-Chrarda-BéniHssen,Region,Northern Africa,8760.5
+MAR.5_1,MAR,Morocco,GrandCasablanca,Region,Northern Africa,876.7
+MAR.6_1,MAR,Morocco,Guelmim-Es-Semara,Region,Northern Africa,64467.7
+MAR.7_1,MAR,Morocco,Laâyoune-Boujdour-SakiaElH,Region,Northern Africa,5741.2
+MAR.8_1,MAR,Morocco,Marrakech-Tensift-AlHaouz,Region,Northern Africa,32385.0
+MAR.9_1,MAR,Morocco,Meknès-Tafilalet,Region,Northern Africa,60125.2
+MDG.1_1,MDG,Madagascar,Antananarivo,NA,Eastern Africa,59851.6
+MDG.2_1,MDG,Madagascar,Antsiranana,NA,Eastern Africa,43858.0
+MDG.3_1,MDG,Madagascar,Fianarantsoa,NA,Eastern Africa,100785.3
+MDG.4_1,MDG,Madagascar,Mahajanga,NA,Eastern Africa,151670.1
+MDG.5_1,MDG,Madagascar,Toamasina,NA,Eastern Africa,71245.8
+MDG.6_1,MDG,Madagascar,Toliary,NA,Eastern Africa,164030.8
+MEX.10_1,MEX,México,Durango,State,Central America,123365.0
+MEX.11_1,MEX,México,Guanajuato,State,Central America,30608.2
+MEX.12_1,MEX,México,Guerrero,State,Central America,63557.3
+MEX.13_1,MEX,México,Hidalgo,State,Central America,20819.9
+MEX.14_1,MEX,México,Jalisco,State,Central America,78594.3
+MEX.15_1,MEX,México,México,State,Central America,22352.3
+MEX.16_1,MEX,México,Michoacán,State,Central America,58600.2
+MEX.17_1,MEX,México,Morelos,State,Central America,4879.6
+MEX.18_1,MEX,México,Nayarit,State,Central America,28072.7
+MEX.19_1,MEX,México,NuevoLeón,State,Central America,64154.7
+MEX.1_1,MEX,México,Aguascalientes,State,Central America,5616.2
+MEX.20_1,MEX,México,Oaxaca,State,Central America,92670.0
+MEX.21_1,MEX,México,Puebla,State,Central America,34306.8
+MEX.22_1,MEX,México,Querétaro,State,Central America,11689.4
+MEX.23_1,MEX,México,QuintanaRoo,State,Central America,43337.5
+MEX.24_1,MEX,México,SanLuisPotosí,State,Central America,61134.8
+MEX.25_1,MEX,México,Sinaloa,State,Central America,55577.0
+MEX.26_1,MEX,México,Sonora,State,Central America,180150.4
+MEX.27_1,MEX,México,Tabasco,State,Central America,24486.3
+MEX.28_1,MEX,México,Tamaulipas,State,Central America,78090.4
+MEX.29_1,MEX,México,Tlaxcala,State,Central America,3998.4
+MEX.2_1,MEX,México,BajaCaliforniaSur,State,Central America,71982.2
+MEX.30_1,MEX,México,Veracruz,State,Central America,70868.8
+MEX.31_1,MEX,México,Yucatán,State,Central America,39437.2
+MEX.32_1,MEX,México,Zacatecas,State,Central America,75279.8
+MEX.3_1,MEX,México,BajaCalifornia,State,Central America,72880.8
+MEX.4_1,MEX,México,Campeche,State,Central America,55536.6
+MEX.5_1,MEX,México,Chiapas,State,Central America,73023.1
+MEX.6_1,MEX,México,Chihuahua,State,Central America,247394.4
+MEX.7_1,MEX,México,Coahuila,State,Central America,151580.5
+MEX.8_1,MEX,México,Colima,State,Central America,5765.9
+MEX.9_1,MEX,México,DistritoFederal,FederalDistrict,Central America,1494.6
+MHL.10_1,MHL,MarshallIslands,Lae,Atol,Micronesia,2.8
+MHL.11_1,MHL,MarshallIslands,Lib,Island,Micronesia,1.0
+MHL.12_1,MHL,MarshallIslands,Likiep,Atol,Micronesia,12.8
+MHL.13_1,MHL,MarshallIslands,Majuro,Atol,Micronesia,22.1
+MHL.14_1,MHL,MarshallIslands,Maloelap,Atol,Micronesia,11.8
+MHL.15_1,MHL,MarshallIslands,Mejit,Island,Micronesia,3.7
+MHL.16_1,MHL,MarshallIslands,Mili,Atol,Micronesia,27.0
+MHL.17_1,MHL,MarshallIslands,Namorik,Atol,Micronesia,4.7
+MHL.18_1,MHL,MarshallIslands,Namu,Atol,Micronesia,6.8
+MHL.19_1,MHL,MarshallIslands,NA,Atol,Micronesia,26.0
+MHL.1_1,MHL,MarshallIslands,Ailinglaplap,Atol,Micronesia,18.1
+MHL.20_1,MHL,MarshallIslands,Ujae,Atol,Micronesia,2.8
+MHL.21_1,MHL,MarshallIslands,Utirik,Atol,Micronesia,13.8
+MHL.22_1,MHL,MarshallIslands,Wotho,Atol,Micronesia,6.1
+MHL.23_1,MHL,MarshallIslands,Wotje,Atol,Micronesia,14.5
+MHL.2_1,MHL,MarshallIslands,Ailuk,Atol,Micronesia,10.6
+MHL.3_1,MHL,MarshallIslands,Arno,Atol,Micronesia,27.6
+MHL.4_1,MHL,MarshallIslands,Aur,Atol,Micronesia,5.7
+MHL.5_1,MHL,MarshallIslands,Ebon,Atol,Micronesia,8.1
+MHL.6_1,MHL,MarshallIslands,Enewetok,Atol,Micronesia,16.3
+MHL.7_1,MHL,MarshallIslands,Jabat,Island,Micronesia,0.5
+MHL.8_1,MHL,MarshallIslands,Jaluit,Atol,Micronesia,12.9
+MHL.9_1,MHL,MarshallIslands,Kwajalein,Atol,Micronesia,26.8
+MLI.1_1,MLI,Mali,Bamako,District,Western Africa,244.0
+MLI.2_1,MLI,Mali,Gao,Region,Western Africa,175889.2
+MLI.3_1,MLI,Mali,Kayes,Region,Western Africa,121823.0
+MLI.4_1,MLI,Mali,Kidal,Region,Western Africa,145193.1
+MLI.5_1,MLI,Mali,Koulikoro,Region,Western Africa,90840.9
+MLI.6_1,MLI,Mali,Mopti,Region,Western Africa,81411.0
+MLI.7_1,MLI,Mali,Ségou,Region,Western Africa,61521.1
+MLI.8_1,MLI,Mali,Sikasso,Region,Western Africa,71380.4
+MLI.9_1,MLI,Mali,Timbuktu,Region,Western Africa,502898.9
+MMR.10_1,MMR,Myanmar,Naypyitaw,Unionterritory,South-eastern Asia,138.4
+MMR.11_1,MMR,Myanmar,Rakhine,State,South-eastern Asia,35484.4
+MMR.12_1,MMR,Myanmar,Sagaing,Division,South-eastern Asia,95605.9
+MMR.13_1,MMR,Myanmar,Shan,State,South-eastern Asia,155752.5
+MMR.14_1,MMR,Myanmar,Tanintharyi,Division,South-eastern Asia,41283.9
+MMR.15_1,MMR,Myanmar,Yangon,Division,South-eastern Asia,9553.5
+MMR.1_1,MMR,Myanmar,Ayeyarwady,Division,South-eastern Asia,33765.0
+MMR.2_1,MMR,Myanmar,Bago,Division,South-eastern Asia,38520.5
+MMR.3_1,MMR,Myanmar,Chin,State,South-eastern Asia,36812.9
+MMR.4_1,MMR,Myanmar,Kachin,State,South-eastern Asia,88745.7
+MMR.5_1,MMR,Myanmar,Kayah,State,South-eastern Asia,11668.6
+MMR.6_1,MMR,Myanmar,Kayin,State,South-eastern Asia,29954.5
+MMR.7_1,MMR,Myanmar,Magway,Division,South-eastern Asia,44011.6
+MMR.8_1,MMR,Myanmar,Mandalay,Division,South-eastern Asia,36426.3
+MMR.9_1,MMR,Myanmar,Mon,State,South-eastern Asia,11546.6
+MNG.10_1,MNG,Mongolia,Govi-Altay,Province,Eastern Asia,140777.0
+MNG.11_1,MNG,Mongolia,Govisümber,Municipality,Eastern Asia,5111.7
+MNG.12_1,MNG,Mongolia,Hentiy,Province,Eastern Asia,81484.7
+MNG.13_1,MNG,Mongolia,Hovd,Province,Eastern Asia,76044.6
+MNG.14_1,MNG,Mongolia,Hövsgöl,Province,Eastern Asia,102258.5
+MNG.15_1,MNG,Mongolia,Ömnögovi,Province,Eastern Asia,164373.9
+MNG.16_1,MNG,Mongolia,Orhon,Municipality,Eastern Asia,710.7
+MNG.17_1,MNG,Mongolia,Övörhangay,Province,Eastern Asia,63000.4
+MNG.18_1,MNG,Mongolia,Selenge,Province,Eastern Asia,42112.9
+MNG.19_1,MNG,Mongolia,Sühbaatar,Province,Eastern Asia,81759.6
+MNG.1_1,MNG,Mongolia,Arhangay,Province,Eastern Asia,54953.4
+MNG.20_1,MNG,Mongolia,Töv,Province,Eastern Asia,73119.8
+MNG.21_1,MNG,Mongolia,Ulaanbaatar,Municipality,Eastern Asia,4531.9
+MNG.22_1,MNG,Mongolia,Uvs,Province,Eastern Asia,69476.9
+MNG.2_1,MNG,Mongolia,Bayan-Ölgiy,Province,Eastern Asia,46373.6
+MNG.3_1,MNG,Mongolia,Bayanhongor,Province,Eastern Asia,116871.0
+MNG.4_1,MNG,Mongolia,Bulgan,Province,Eastern Asia,48573.7
+MNG.5_1,MNG,Mongolia,Darhan-Uul,Municipality,Eastern Asia,3680.0
+MNG.6_1,MNG,Mongolia,Dornod,Province,Eastern Asia,125086.5
+MNG.7_1,MNG,Mongolia,Dornogovi,Province,Eastern Asia,109839.1
+MNG.8_1,MNG,Mongolia,Dundgovi,Province,Eastern Asia,73596.7
+MNG.9_1,MNG,Mongolia,Dzavhan,Province,Eastern Asia,82518.9
+MNP.1_1,MNP,NorthernMarianaIslands,NorthernIslands,Municipality,Micronesia,180.2
+MNP.2_1,MNP,NorthernMarianaIslands,Rota,Municipality,Micronesia,89.4
+MNP.3_1,MNP,NorthernMarianaIslands,Saipan,Municipality,Micronesia,122.7
+MNP.4_1,MNP,NorthernMarianaIslands,Tinian,Municipality,Micronesia,110.8
+MOZ.10_1,MOZ,Mozambique,Tete,Province,Eastern Africa,100969.4
+MOZ.11_1,MOZ,Mozambique,Zambezia,Province,Eastern Africa,102964.3
+MOZ.1_1,MOZ,Mozambique,CaboDelgado,Province,Eastern Africa,77772.6
+MOZ.2_1,MOZ,Mozambique,Gaza,Province,Eastern Africa,75462.2
+MOZ.3_1,MOZ,Mozambique,Inhambane,Province,Eastern Africa,68707.6
+MOZ.4_1,MOZ,Mozambique,Manica,Province,Eastern Africa,62504.5
+MOZ.5_1,MOZ,Mozambique,MaputoCity,Province,Eastern Africa,701.4
+MOZ.6_1,MOZ,Mozambique,Maputo,Province,Eastern Africa,22904.7
+MOZ.7_1,MOZ,Mozambique,Nampula,Province,Eastern Africa,78163.7
+MOZ.8_1,MOZ,Mozambique,Nassa,Province,Eastern Africa,129238.8
+MOZ.9_1,MOZ,Mozambique,Sofala,Province,Eastern Africa,68073.2
+MRT.10_1,MRT,Mauritania,Nouakchott,District,Western Africa,1497.6
+MRT.11_1,MRT,Mauritania,Tagant,Region,Western Africa,94916.1
+MRT.12_1,MRT,Mauritania,TirisZemmour,Region,Western Africa,261550.7
+MRT.13_1,MRT,Mauritania,Trarza,Region,Western Africa,68760.1
+MRT.1_1,MRT,Mauritania,Adrar,Region,Western Africa,222018.6
+MRT.2_1,MRT,Mauritania,Assaba,Region,Western Africa,35876.9
+MRT.3_1,MRT,Mauritania,Brakna,Region,Western Africa,33201.9
+MRT.4_1,MRT,Mauritania,DakhletNouadhibou,Region,Western Africa,17482.0
+MRT.5_1,MRT,Mauritania,Gorgol,Region,Western Africa,13795.7
+MRT.6_1,MRT,Mauritania,Guidimaka,Region,Western Africa,10690.1
+MRT.7_1,MRT,Mauritania,HodhechChargui,Region,Western Africa,185977.9
+MRT.8_1,MRT,Mauritania,HodhelGharbi,Region,Western Africa,50276.0
+MRT.9_1,MRT,Mauritania,Inchiri,Region,Western Africa,44711.6
+MSR.1_1,MSR,Montserrat,SaintAnthon,Parish,Caribbean,38.0
+MSR.2_1,MSR,Montserrat,SaintGeorges,Parish,Caribbean,27.8
+MSR.3_1,MSR,Montserrat,SaintPeter,Parish,Caribbean,34.8
+MTQ.1_1,MTQ,Martinique,Fort-de-France,Arrondissement,Caribbean,187.6
+MTQ.2_1,MTQ,Martinique,LeMarin,Arrondissement,Caribbean,390.4
+MTQ.3_1,MTQ,Martinique,LeTrinité,Arrondissement,Caribbean,350.5
+MTQ.4_1,MTQ,Martinique,Saint-Pierre,Arrondissement,Caribbean,189.7
+MUS.10_1,MUS,Mauritius,Rodriguez,Autonomousisland,Eastern Africa,113.5
+MUS.11_1,MUS,Mauritius,SaintBrandon,Region,Eastern Africa,5.9
+MUS.12_1,MUS,Mauritius,Savanne,District,Eastern Africa,246.3
+MUS.1_1,MUS,Mauritius,AgalegaIslands,Region,Eastern Africa,25.2
+MUS.2_1,MUS,Mauritius,BlackRiver,District,Eastern Africa,260.2
+MUS.3_1,MUS,Mauritius,Flacq,District,Eastern Africa,299.4
+MUS.4_1,MUS,Mauritius,GrandPort,District,Eastern Africa,257.9
+MUS.5_1,MUS,Mauritius,Moka,District,Eastern Africa,237.3
+MUS.6_1,MUS,Mauritius,Pamplemousses,District,Eastern Africa,182.8
+MUS.7_1,MUS,Mauritius,PlainesWilhems,District,Eastern Africa,200.1
+MUS.8_1,MUS,Mauritius,PortLouis,District,Eastern Africa,41.4
+MUS.9_1,MUS,Mauritius,RivièreduRempart,District,Eastern Africa,156.0
+MWI.10_1,MWI,Malawi,Likoma,District,Eastern Africa,21.2
+MWI.11_1,MWI,Malawi,Lilongwe,District,Eastern Africa,6251.6
+MWI.12_1,MWI,Malawi,Machinga,District,Eastern Africa,3877.7
+MWI.13_1,MWI,Malawi,Mangochi,District,Eastern Africa,9059.8
+MWI.14_1,MWI,Malawi,Mchinji,District,Eastern Africa,3049.3
+MWI.15_1,MWI,Malawi,Mulanje,District,Eastern Africa,1997.0
+MWI.16_1,MWI,Malawi,Mwanza,District,Eastern Africa,743.7
+MWI.17_1,MWI,Malawi,Mzimba,District,Eastern Africa,10509.3
+MWI.18_1,MWI,Malawi,Neno,District,Eastern Africa,1574.8
+MWI.19_1,MWI,Malawi,NkhataBay,District,Eastern Africa,11409.4
+MWI.1_1,MWI,Malawi,Balaka,District,Eastern Africa,2130.8
+MWI.20_1,MWI,Malawi,Nkhotakota,District,Eastern Africa,7852.7
+MWI.21_1,MWI,Malawi,Nsanje,District,Eastern Africa,1929.4
+MWI.22_1,MWI,Malawi,Ntcheu,District,Eastern Africa,3250.2
+MWI.23_1,MWI,Malawi,Ntchisi,District,Eastern Africa,1719.6
+MWI.24_1,MWI,Malawi,Phalombe,District,Eastern Africa,1445.6
+MWI.25_1,MWI,Malawi,Rumphi,District,Eastern Africa,6727.8
+MWI.26_1,MWI,Malawi,Salima,District,Eastern Africa,3123.0
+MWI.27_1,MWI,Malawi,Thyolo,District,Eastern Africa,1666.0
+MWI.28_1,MWI,Malawi,Zomba,District,Eastern Africa,3084.4
+MWI.2_1,MWI,Malawi,Blantyre,District,Eastern Africa,2025.9
+MWI.3_1,MWI,Malawi,Chikwawa,District,Eastern Africa,4880.5
+MWI.4_1,MWI,Malawi,Chiradzulu,District,Eastern Africa,758.0
+MWI.5_1,MWI,Malawi,Chitipa,District,Eastern Africa,4045.0
+MWI.6_1,MWI,Malawi,Dedza,District,Eastern Africa,5116.0
+MWI.7_1,MWI,Malawi,Dowa,District,Eastern Africa,3064.4
+MWI.8_1,MWI,Malawi,Karonga,District,Eastern Africa,8749.1
+MWI.9_1,MWI,Malawi,Kasungu,District,Eastern Africa,7865.2
+MYS.10_1,MYS,Malaysia,Perlis,State,South-eastern Asia,823.9
+MYS.11_1,MYS,Malaysia,PulauPinang,State,South-eastern Asia,1054.5
+MYS.12_1,MYS,Malaysia,Putrajaya,FederalTerritory,South-eastern Asia,61.7
+MYS.13_1,MYS,Malaysia,Sabah,State,South-eastern Asia,73907.3
+MYS.14_1,MYS,Malaysia,Sarawak,State,South-eastern Asia,123800.4
+MYS.15_1,MYS,Malaysia,Selangor,State,South-eastern Asia,7825.1
+MYS.16_1,MYS,Malaysia,Trengganu,State,South-eastern Asia,12888.0
+MYS.1_1,MYS,Malaysia,Johor,State,South-eastern Asia,19115.8
+MYS.2_1,MYS,Malaysia,Kedah,State,South-eastern Asia,9517.4
+MYS.3_1,MYS,Malaysia,Kelantan,State,South-eastern Asia,15130.7
+MYS.4_1,MYS,Malaysia,KualaLumpur,FederalTerritory,South-eastern Asia,272.2
+MYS.5_1,MYS,Malaysia,Labuan,FederalTerritory,South-eastern Asia,90.7
+MYS.6_1,MYS,Malaysia,Melaka,State,South-eastern Asia,1654.1
+MYS.7_1,MYS,Malaysia,NegeriSembilan,State,South-eastern Asia,6666.8
+MYS.8_1,MYS,Malaysia,Pahang,State,South-eastern Asia,35851.2
+MYS.9_1,MYS,Malaysia,Perak,State,South-eastern Asia,20911.6
+MYT.10_1,MYT,Mayotte,Koungou,Commune,Eastern Africa,29.1
+MYT.11_1,MYT,Mayotte,M'tsangamouji,Commune,Eastern Africa,22.4
+MYT.12_1,MYT,Mayotte,Mamoudzou,Commune,Eastern Africa,45.1
+MYT.13_1,MYT,Mayotte,Mtsamboro,Commune,Eastern Africa,17.6
+MYT.14_1,MYT,Mayotte,Ouangani,Commune,Eastern Africa,18.1
+MYT.15_1,MYT,Mayotte,Pamandzi,Commune,Eastern Africa,4.8
+MYT.16_1,MYT,Mayotte,Sada,Commune,Eastern Africa,11.7
+MYT.17_1,MYT,Mayotte,Tsingoni,Commune,Eastern Africa,34.5
+MYT.1_1,MYT,Mayotte,Acoua,Commune,Eastern Africa,13.6
+MYT.2_1,MYT,Mayotte,Bandraboua,Commune,Eastern Africa,32.9
+MYT.3_1,MYT,Mayotte,Bandrele,Commune,Eastern Africa,38.3
+MYT.4_1,MYT,Mayotte,Boueni,Commune,Eastern Africa,15.8
+MYT.5_1,MYT,Mayotte,Chiconi,Commune,Eastern Africa,8.5
+MYT.6_1,MYT,Mayotte,Chirongui,Commune,Eastern Africa,28.6
+MYT.7_1,MYT,Mayotte,Dembeni,Commune,Eastern Africa,39.4
+MYT.8_1,MYT,Mayotte,Dzaoudzi,Commune,Eastern Africa,9.2
+MYT.9_1,MYT,Mayotte,Kani-Keli,Commune,Eastern Africa,21.9
+NAM.10_1,NAM,Namibia,Oshana,Region,Southern Africa,8656.7
+NAM.11_1,NAM,Namibia,Oshikoto,Region,Southern Africa,38643.8
+NAM.12_1,NAM,Namibia,Otjozondjupa,Region,Southern Africa,104639.2
+NAM.13_1,NAM,Namibia,Zambezi,Region,Southern Africa,14525.8
+NAM.1_1,NAM,Namibia,!Karas,Region,Southern Africa,161181.4
+NAM.2_1,NAM,Namibia,Erongo,Region,Southern Africa,63609.8
+NAM.3_1,NAM,Namibia,Hardap,Region,Southern Africa,109700.8
+NAM.4_1,NAM,Namibia,Kavango,Region,Southern Africa,48682.2
+NAM.5_1,NAM,Namibia,Khomas,Region,Southern Africa,37076.4
+NAM.6_1,NAM,Namibia,Kunene,Region,Southern Africa,115332.3
+NAM.7_1,NAM,Namibia,Ohangwena,Region,Southern Africa,10646.3
+NAM.8_1,NAM,Namibia,Omaheke,Region,Southern Africa,84740.2
+NAM.9_1,NAM,Namibia,Omusati,Region,Southern Africa,26593.5
+NCL.1_1,NCL,NewCaledonia,ÎlesLoyauté,Province,Melanesia,1977.7
+NCL.2_1,NCL,NewCaledonia,Nord,Province,Melanesia,9472.6
+NCL.3_1,NCL,NewCaledonia,Sud,Province,Melanesia,7372.5
+NER.1_1,NER,Niger,Agadez,Department,Western Africa,623508.2
+NER.2_1,NER,Niger,Diffa,Department,Western Africa,146238.0
+NER.3_1,NER,Niger,Dosso,Department,Western Africa,31467.7
+NER.4_1,NER,Niger,Maradi,Department,Western Africa,39327.2
+NER.5_1,NER,Niger,Niamey,CapitalDistrict,Western Africa,399.7
+NER.6_1,NER,Niger,Tahoua,Department,Western Africa,106364.7
+NER.7_1,NER,Niger,Tillabéry,Department,Western Africa,90618.0
+NER.8_1,NER,Niger,Zinder,Department,Western Africa,145743.0
+NGA.10_1,NGA,Nigeria,Delta,State,Western Africa,16623.3
+NGA.11_1,NGA,Nigeria,Ebonyi,State,Western Africa,6187.9
+NGA.12_1,NGA,Nigeria,Edo,State,Western Africa,19587.9
+NGA.13_1,NGA,Nigeria,Ekiti,State,Western Africa,5235.7
+NGA.14_1,NGA,Nigeria,Enugu,State,Western Africa,7702.7
+NGA.15_1,NGA,Nigeria,FederalCapitalTerritory,State,Western Africa,7349.9
+NGA.16_1,NGA,Nigeria,Gombe,State,Western Africa,18190.7
+NGA.17_1,NGA,Nigeria,Imo,State,Western Africa,5310.2
+NGA.18_1,NGA,Nigeria,Jigawa,State,Western Africa,23999.5
+NGA.19_1,NGA,Nigeria,Kaduna,State,Western Africa,44313.5
+NGA.1_1,NGA,Nigeria,Abia,State,Western Africa,4724.2
+NGA.20_1,NGA,Nigeria,Kano,State,Western Africa,20083.2
+NGA.21_1,NGA,Nigeria,Katsina,State,Western Africa,23706.2
+NGA.22_1,NGA,Nigeria,Kebbi,State,Western Africa,35970.6
+NGA.23_1,NGA,Nigeria,Kogi,State,Western Africa,28941.6
+NGA.24_1,NGA,Nigeria,Kwara,State,Western Africa,35420.5
+NGA.25_1,NGA,Nigeria,Lagos,State,Western Africa,3782.8
+NGA.26_1,NGA,Nigeria,Nasarawa,State,Western Africa,26328.1
+NGA.27_1,NGA,Nigeria,Niger,State,Western Africa,71019.1
+NGA.28_1,NGA,Nigeria,Ogun,State,Western Africa,16096.4
+NGA.29_1,NGA,Nigeria,Ondo,State,Western Africa,14526.3
+NGA.2_1,NGA,Nigeria,Adamawa,State,Western Africa,34289.7
+NGA.30_1,NGA,Nigeria,Osun,State,Western Africa,9191.9
+NGA.31_1,NGA,Nigeria,Oyo,State,Western Africa,27398.8
+NGA.32_1,NGA,Nigeria,Plateau,State,Western Africa,27578.1
+NGA.33_1,NGA,Nigeria,Rivers,State,Western Africa,8533.9
+NGA.34_1,NGA,Nigeria,Sokoto,State,Western Africa,31738.1
+NGA.35_1,NGA,Nigeria,Taraba,State,Western Africa,60296.5
+NGA.36_1,NGA,Nigeria,Yobe,State,Western Africa,45565.3
+NGA.37_1,NGA,Nigeria,Zamfara,State,Western Africa,34524.4
+NGA.3_1,NGA,Nigeria,AkwaIbom,State,Western Africa,6735.6
+NGA.4_1,NGA,Nigeria,Anambra,State,Western Africa,4590.8
+NGA.5_1,NGA,Nigeria,Bauchi,State,Western Africa,49062.6
+NGA.6_1,NGA,Nigeria,Bayelsa,State,Western Africa,9761.6
+NGA.7_1,NGA,Nigeria,Benue,State,Western Africa,31323.3
+NGA.8_1,NGA,Nigeria,Borno,State,Western Africa,71404.7
+NGA.9_1,NGA,Nigeria,CrossRiver,State,Western Africa,21301.8
+NIC.10_1,NIC,Nicaragua,LagoNicaragua,Waterbody,Central America,7749.7
+NIC.11_1,NIC,Nicaragua,León,Department,Central America,5009.0
+NIC.12_1,NIC,Nicaragua,Madriz,Department,Central America,1605.6
+NIC.13_1,NIC,Nicaragua,Managua,Department,Central America,4599.9
+NIC.14_1,NIC,Nicaragua,Masaya,Department,Central America,603.1
+NIC.15_1,NIC,Nicaragua,Matagalpa,Department,Central America,8802.3
+NIC.16_1,NIC,Nicaragua,NuevaSegovia,Department,Central America,3122.8
+NIC.17_1,NIC,Nicaragua,RíoSanJuan,Department,Central America,7299.1
+NIC.18_1,NIC,Nicaragua,Rivas,Department,Central America,1897.3
+NIC.1_1,NIC,Nicaragua,AtlánticoNorte,AutonomousRegion,Central America,32014.4
+NIC.2_1,NIC,Nicaragua,AtlánticoSur,AutonomousRegion,Central America,25960.2
+NIC.3_1,NIC,Nicaragua,Boaco,Department,Central America,4177.9
+NIC.4_1,NIC,Nicaragua,Carazo,Department,Central America,1055.8
+NIC.5_1,NIC,Nicaragua,Chinandega,Department,Central America,4775.7
+NIC.6_1,NIC,Nicaragua,Chontales,Department,Central America,6278.5
+NIC.7_1,NIC,Nicaragua,Estelí,Department,Central America,2351.5
+NIC.8_1,NIC,Nicaragua,Granada,Department,Central America,1015.7
+NIC.9_1,NIC,Nicaragua,Jinotega,Department,Central America,9860.0
+NPL.1_1,NPL,Nepal,Central,DevelopmentRegion,Southern Asia,27464.9
+NPL.2_1,NPL,Nepal,East,DevelopmentRegion,Southern Asia,28485.4
+NPL.3_1,NPL,Nepal,Far-Western,DevelopmentRegion,Southern Asia,19748.2
+NPL.4_1,NPL,Nepal,Mid-Western,DevelopmentRegion,Southern Asia,42494.5
+NPL.5_1,NPL,Nepal,West,DevelopmentRegion,Southern Asia,29468.7
+NRU.10_1,NRU,Nauru,Ijuw,District,Polynesia,1.2
+NRU.11_1,NRU,Nauru,Meneng,District,Polynesia,3.1
+NRU.12_1,NRU,Nauru,Nibok,District,Polynesia,1.6
+NRU.13_1,NRU,Nauru,Uaboe,District,Polynesia,0.8
+NRU.14_1,NRU,Nauru,Yaren,District,Polynesia,1.4
+NRU.1_1,NRU,Nauru,Aiwo,District,Polynesia,1.0
+NRU.2_1,NRU,Nauru,Anabar,District,Polynesia,1.4
+NRU.3_1,NRU,Nauru,Anetan,District,Polynesia,0.9
+NRU.4_1,NRU,Nauru,Anibare,District,Polynesia,3.4
+NRU.5_1,NRU,Nauru,Baiti,District,Polynesia,1.3
+NRU.6_1,NRU,Nauru,Boe,District,Polynesia,0.4
+NRU.7_1,NRU,Nauru,Buada,District,Polynesia,2.8
+NRU.8_1,NRU,Nauru,Denigomodu,District,Polynesia,1.0
+NRU.9_1,NRU,Nauru,Ewa,District,Polynesia,1.2
+OMN.10_1,OMN,Oman,Musandam,Province,Western Asia,1633.8
+OMN.11_1,OMN,Oman,Muscat,Province,Western Asia,4332.7
+OMN.1_1,OMN,Oman,AdDakhliyah,Region,Western Asia,31513.7
+OMN.2_1,OMN,Oman,AlBatinahNorth,Region,Western Asia,7982.4
+OMN.3_1,OMN,Oman,AlBatinahSouth,Region,Western Asia,4005.0
+OMN.4_1,OMN,Oman,AlBuraymi,Region,Western Asia,4957.5
+OMN.5_1,OMN,Oman,AlDhahira,Region,Western Asia,28837.8
+OMN.6_1,OMN,Oman,AlWusta,Region,Western Asia,67214.2
+OMN.7_1,OMN,Oman,AshSharqiyahNorth,Region,Western Asia,24646.6
+OMN.8_1,OMN,Oman,AshSharqiyahSouth,Region,Western Asia,6374.8
+OMN.9_1,OMN,Oman,Dhofar,Province,Western Asia,127622.1
+PAK.2_1,PAK,Pakistan,Balochistan,Province,Southern Asia,344514.4
+PAK.3_1,PAK,Pakistan,FederallyAdministeredTribalAr,Territory,Southern Asia,25033.2
+PAK.4_1,PAK,Pakistan,Islamabad,CapitalTerritory,Southern Asia,845.5
+PAK.5_1,PAK,Pakistan,Khyber-Pakhtunkhwa,Province,Southern Asia,75775.6
+PAK.7_1,PAK,Pakistan,Punjab,Province,Southern Asia,205744.4
+PAK.8_1,PAK,Pakistan,Sindh,Province,Southern Asia,140468.6
+PAN.10_1,PAN,Panama,NgöbeBuglé,IndigenousTerritory,Central America,6606.5
+PAN.11_1,PAN,Panama,PanamáOeste,Province,Central America,3046.1
+PAN.12_1,PAN,Panama,Panamá,Province,Central America,8787.0
+PAN.13_1,PAN,Panama,Veraguas,Province,Central America,10909.5
+PAN.1_1,PAN,Panama,BocasdelToro,Province,Central America,4687.9
+PAN.2_1,PAN,Panama,Chiriquí,Province,Central America,6633.0
+PAN.3_1,PAN,Panama,Coclé,Province,Central America,4907.7
+PAN.4_1,PAN,Panama,Colón,Province,Central America,4681.3
+PAN.5_1,PAN,Panama,Darién,Province,Central America,12306.4
+PAN.6_1,PAN,Panama,Emberá,IndigenousTerritory,Central America,4222.3
+PAN.7_1,PAN,Panama,Herrera,Province,Central America,2327.1
+PAN.8_1,PAN,Panama,KunaYala,IndigenousTerritory,Central America,2538.2
+PAN.9_1,PAN,Panama,LosSantos,Province,Central America,3794.8
+PER.10_1,PER,Peru,Huánuco,Region,South America,37080.4
+PER.11_1,PER,Peru,Ica,Region,South America,21168.6
+PER.12_1,PER,Peru,Junín,Region,South America,44628.2
+PER.13_1,PER,Peru,LaLibertad,Region,South America,25306.2
+PER.14_1,PER,Peru,Lambayeque,Region,South America,14286.5
+PER.15_1,PER,Peru,LimaProvince,Province,South America,2705.1
+PER.16_1,PER,Peru,Lima,Region,South America,32336.8
+PER.17_1,PER,Peru,Loreto,Region,South America,375448.0
+PER.18_1,PER,Peru,MadredeDios,Region,South America,84338.8
+PER.19_1,PER,Peru,Moquegua,Region,South America,15755.6
+PER.1_1,PER,Peru,Amazonas,Region,South America,39580.8
+PER.20_1,PER,Peru,Pasco,Region,South America,23972.4
+PER.21_1,PER,Peru,Piura,Region,South America,35857.3
+PER.22_1,PER,Peru,Puno,Region,South America,72697.1
+PER.23_1,PER,Peru,SanMartín,Region,South America,50371.2
+PER.24_1,PER,Peru,Tacna,Region,South America,15997.5
+PER.25_1,PER,Peru,Tumbes,Region,South America,4642.2
+PER.26_1,PER,Peru,Ucayali,Region,South America,105072.6
+PER.2_1,PER,Peru,Ancash,Region,South America,35894.0
+PER.3_1,PER,Peru,Apurímac,Region,South America,21100.6
+PER.4_1,PER,Peru,Arequipa,Region,South America,63277.3
+PER.5_1,PER,Peru,Ayacucho,Region,South America,43556.9
+PER.6_1,PER,Peru,Cajamarca,Region,South America,32900.1
+PER.7_1,PER,Peru,Callao,Province,South America,160.7
+PER.8_1,PER,Peru,Cusco,Region,South America,72243.5
+PER.9_1,PER,Peru,Huancavelica,Region,South America,22083.0
+PHL.10_1,PHL,Philippines,Bataan,Province,South-eastern Asia,1317.3
+PHL.11_1,PHL,Philippines,Batanes,Province,South-eastern Asia,207.1
+PHL.12_1,PHL,Philippines,Batangas,Province,South-eastern Asia,3220.4
+PHL.13_1,PHL,Philippines,Benguet,Province,South-eastern Asia,2638.9
+PHL.14_1,PHL,Philippines,Biliran,Province,South-eastern Asia,534.2
+PHL.15_1,PHL,Philippines,Bohol,Province,South-eastern Asia,3975.3
+PHL.16_1,PHL,Philippines,Bukidnon,Province,South-eastern Asia,9100.2
+PHL.17_1,PHL,Philippines,Bulacan,Province,South-eastern Asia,2557.0
+PHL.18_1,PHL,Philippines,Cagayan,Province,South-eastern Asia,8817.6
+PHL.19_1,PHL,Philippines,CamarinesNorte,Province,South-eastern Asia,2108.9
+PHL.1_1,PHL,Philippines,Abra,Province,South-eastern Asia,3970.4
+PHL.20_1,PHL,Philippines,CamarinesSur,Province,South-eastern Asia,5297.8
+PHL.21_1,PHL,Philippines,Camiguin,Province,South-eastern Asia,244.1
+PHL.22_1,PHL,Philippines,Capiz,Province,South-eastern Asia,2651.4
+PHL.23_1,PHL,Philippines,Catanduanes,Province,South-eastern Asia,1473.2
+PHL.24_1,PHL,Philippines,Cavite,Province,South-eastern Asia,1243.9
+PHL.25_1,PHL,Philippines,Cebu,Province,South-eastern Asia,4881.4
+PHL.26_1,PHL,Philippines,CompostelaValley,Province,South-eastern Asia,4249.3
+PHL.27_1,PHL,Philippines,DavaodelNorte,Province,South-eastern Asia,3487.8
+PHL.28_1,PHL,Philippines,DavaodelSur,Province,South-eastern Asia,6051.2
+PHL.29_1,PHL,Philippines,DavaoOriental,Province,South-eastern Asia,5124.2
+PHL.2_1,PHL,Philippines,AgusandelNorte,Province,South-eastern Asia,2993.5
+PHL.30_1,PHL,Philippines,DinagatIslands,Province,South-eastern Asia,808.3
+PHL.31_1,PHL,Philippines,EasternSamar,Province,South-eastern Asia,4277.4
+PHL.32_1,PHL,Philippines,Guimaras,Province,South-eastern Asia,604.5
+PHL.33_1,PHL,Philippines,Ifugao,Province,South-eastern Asia,2504.2
+PHL.34_1,PHL,Philippines,IlocosNorte,Province,South-eastern Asia,3378.2
+PHL.35_1,PHL,Philippines,IlocosSur,Province,South-eastern Asia,2505.6
+PHL.36_1,PHL,Philippines,Iloilo,Province,South-eastern Asia,4713.2
+PHL.37_1,PHL,Philippines,Isabela,Province,South-eastern Asia,10282.2
+PHL.38_1,PHL,Philippines,Kalinga,Province,South-eastern Asia,2898.0
+PHL.39_1,PHL,Philippines,LaUnion,Province,South-eastern Asia,1461.7
+PHL.3_1,PHL,Philippines,AgusandelSur,Province,South-eastern Asia,8586.0
+PHL.40_1,PHL,Philippines,Laguna,Province,South-eastern Asia,2697.3
+PHL.41_1,PHL,Philippines,LanaodelNorte,Province,South-eastern Asia,2840.1
+PHL.42_1,PHL,Philippines,LanaodelSur,Province,South-eastern Asia,3878.9
+PHL.43_1,PHL,Philippines,Leyte,Province,South-eastern Asia,5560.5
+PHL.44_1,PHL,Philippines,Maguindanao,Province,South-eastern Asia,4785.2
+PHL.45_1,PHL,Philippines,Marinduque,Province,South-eastern Asia,928.6
+PHL.46_1,PHL,Philippines,Masbate,Province,South-eastern Asia,4005.1
+PHL.47_1,PHL,Philippines,MetropolitanManila,Province,South-eastern Asia,557.6
+PHL.48_1,PHL,Philippines,MisamisOccidental,Province,South-eastern Asia,1896.9
+PHL.49_1,PHL,Philippines,MisamisOriental,Province,South-eastern Asia,3329.6
+PHL.4_1,PHL,Philippines,Aklan,Province,South-eastern Asia,1662.4
+PHL.50_1,PHL,Philippines,MountainProvince,Province,South-eastern Asia,2128.0
+PHL.51_1,PHL,Philippines,NegrosOccidental,Province,South-eastern Asia,7812.4
+PHL.52_1,PHL,Philippines,NegrosOriental,Province,South-eastern Asia,4996.8
+PHL.53_1,PHL,Philippines,NorthCotabato,Province,South-eastern Asia,6356.6
+PHL.54_1,PHL,Philippines,NorthernSamar,Province,South-eastern Asia,3391.9
+PHL.55_1,PHL,Philippines,NuevaEcija,Province,South-eastern Asia,5475.2
+PHL.56_1,PHL,Philippines,NuevaVizcaya,Province,South-eastern Asia,3921.3
+PHL.57_1,PHL,Philippines,OccidentalMindoro,Province,South-eastern Asia,5914.1
+PHL.58_1,PHL,Philippines,OrientalMindoro,Province,South-eastern Asia,4241.7
+PHL.59_1,PHL,Philippines,Palawan,Province,South-eastern Asia,14522.3
+PHL.5_1,PHL,Philippines,Albay,Province,South-eastern Asia,2513.7
+PHL.60_1,PHL,Philippines,Pampanga,Province,South-eastern Asia,2249.8
+PHL.61_1,PHL,Philippines,Pangasinan,Province,South-eastern Asia,5192.4
+PHL.62_1,PHL,Philippines,Quezon,Province,South-eastern Asia,8359.0
+PHL.63_1,PHL,Philippines,Quirino,Province,South-eastern Asia,3098.2
+PHL.64_1,PHL,Philippines,Rizal,Province,South-eastern Asia,1268.6
+PHL.65_1,PHL,Philippines,Romblon,Province,South-eastern Asia,1326.6
+PHL.66_1,PHL,Philippines,Samar,Province,South-eastern Asia,5442.2
+PHL.67_1,PHL,Philippines,Sarangani,Province,South-eastern Asia,3248.0
+PHL.68_1,PHL,Philippines,Siquijor,Province,South-eastern Asia,321.2
+PHL.69_1,PHL,Philippines,Sorsogon,Province,South-eastern Asia,1992.1
+PHL.6_1,PHL,Philippines,Antique,Province,South-eastern Asia,2735.6
+PHL.70_1,PHL,Philippines,SouthCotabato,Province,South-eastern Asia,4346.0
+PHL.71_1,PHL,Philippines,SouthernLeyte,Province,South-eastern Asia,1683.4
+PHL.72_1,PHL,Philippines,SultanKudarat,Province,South-eastern Asia,4448.7
+PHL.73_1,PHL,Philippines,Sulu,Province,South-eastern Asia,1551.8
+PHL.74_1,PHL,Philippines,SurigaodelNorte,Province,South-eastern Asia,2096.2
+PHL.75_1,PHL,Philippines,SurigaodelSur,Province,South-eastern Asia,4307.2
+PHL.76_1,PHL,Philippines,Tarlac,Province,South-eastern Asia,3014.8
+PHL.77_1,PHL,Philippines,Tawi-Tawi,Province,South-eastern Asia,1174.8
+PHL.78_1,PHL,Philippines,Zambales,Province,South-eastern Asia,3656.0
+PHL.79_1,PHL,Philippines,ZamboangadelNorte,Province,South-eastern Asia,6391.7
+PHL.7_1,PHL,Philippines,Apayao,Province,South-eastern Asia,3913.1
+PHL.80_1,PHL,Philippines,ZamboangadelSur,Province,South-eastern Asia,5294.2
+PHL.81_1,PHL,Philippines,ZamboangaSibugay,Province,South-eastern Asia,2714.9
+PHL.8_1,PHL,Philippines,Aurora,Province,South-eastern Asia,3041.1
+PHL.9_1,PHL,Philippines,Basilan,Province,South-eastern Asia,1365.4
+PLW.10_1,PLW,Palau,Ngardmau,State,Micronesia,33.9
+PLW.11_1,PLW,Palau,Ngatpang,State,Micronesia,31.9
+PLW.12_1,PLW,Palau,Ngchesar,State,Micronesia,43.8
+PLW.13_1,PLW,Palau,Ngeremlengui,State,Micronesia,68.8
+PLW.14_1,PLW,Palau,Ngiwal,State,Micronesia,17.7
+PLW.15_1,PLW,Palau,Peleliu,State,Micronesia,23.5
+PLW.16_1,PLW,Palau,Sonsorol,State,Micronesia,3.5
+PLW.1_1,PLW,Palau,Aimeliik,State,Micronesia,45.2
+PLW.2_1,PLW,Palau,Airai,State,Micronesia,60.6
+PLW.3_1,PLW,Palau,Angaur,State,Micronesia,8.4
+PLW.4_1,PLW,Palau,Hatohobei,State,Micronesia,0.8
+PLW.5_1,PLW,Palau,Kayangel,State,Micronesia,1.8
+PLW.6_1,PLW,Palau,Koror,State,Micronesia,70.4
+PLW.7_1,PLW,Palau,Melekeok,State,Micronesia,25.0
+PLW.8_1,PLW,Palau,Ngaraard,State,Micronesia,34.3
+PLW.9_1,PLW,Palau,Ngarchelong,State,Micronesia,12.1
+PNG.10_1,PNG,PapuaNewGuinea,Jiwaka,Province,Melanesia,4853.8
+PNG.11_1,PNG,PapuaNewGuinea,Madang,Province,Melanesia,28937.1
+PNG.12_1,PNG,PapuaNewGuinea,Manus,Province,Melanesia,2234.7
+PNG.13_1,PNG,PapuaNewGuinea,MilneBay,Province,Melanesia,14363.9
+PNG.14_1,PNG,PapuaNewGuinea,Morobe,Province,Melanesia,33970.8
+PNG.15_1,PNG,PapuaNewGuinea,NationalCapitalDistrict,District,Melanesia,262.3
+PNG.16_1,PNG,PapuaNewGuinea,NewIreland,Province,Melanesia,9667.1
+PNG.17_1,PNG,PapuaNewGuinea,Oro,Province,Melanesia,22704.3
+PNG.18_1,PNG,PapuaNewGuinea,Sandaun,Province,Melanesia,35686.6
+PNG.19_1,PNG,PapuaNewGuinea,SouthernHighlands,Province,Melanesia,15932.4
+PNG.1_1,PNG,PapuaNewGuinea,Bougainville,AutonomousRegion,Melanesia,9407.6
+PNG.20_1,PNG,PapuaNewGuinea,WestNewBritain,Province,Melanesia,20383.3
+PNG.21_1,PNG,PapuaNewGuinea,WesternHighlands,Province,Melanesia,4263.1
+PNG.22_1,PNG,PapuaNewGuinea,Western,Province,Melanesia,98854.8
+PNG.2_1,PNG,PapuaNewGuinea,Central,Province,Melanesia,29442.1
+PNG.3_1,PNG,PapuaNewGuinea,Chimbu,Province,Melanesia,6140.7
+PNG.4_1,PNG,PapuaNewGuinea,EastNewBritain,Province,Melanesia,15355.8
+PNG.5_1,PNG,PapuaNewGuinea,EastSepik,Province,Melanesia,43666.4
+PNG.6_1,PNG,PapuaNewGuinea,EasternHighlands,Province,Melanesia,11145.7
+PNG.7_1,PNG,PapuaNewGuinea,Enga,Province,Melanesia,11734.1
+PNG.8_1,PNG,PapuaNewGuinea,Gulf,Province,Melanesia,34801.0
+PNG.9_1,PNG,PapuaNewGuinea,Hela,Province,Melanesia,9781.2
+PRI.10_1,PRI,PuertoRico,Barranquitas,Municipality,Caribbean,88.0
+PRI.11_1,PRI,PuertoRico,Bayamón,Municipality,Caribbean,116.0
+PRI.12_1,PRI,PuertoRico,CaboRojo,Municipality,Caribbean,190.2
+PRI.13_1,PRI,PuertoRico,Caguas,Municipality,Caribbean,152.4
+PRI.14_1,PRI,PuertoRico,Camuy,Municipality,Caribbean,121.2
+PRI.15_1,PRI,PuertoRico,Canóvanas,Municipality,Caribbean,85.2
+PRI.16_1,PRI,PuertoRico,Carolina,Municipality,Caribbean,123.7
+PRI.17_1,PRI,PuertoRico,Cataño,Municipality,Caribbean,13.2
+PRI.18_1,PRI,PuertoRico,Cayey,Municipality,Caribbean,134.2
+PRI.19_1,PRI,PuertoRico,Ceiba,Municipality,Caribbean,76.8
+PRI.1_1,PRI,PuertoRico,Adjuntas,Municipality,Caribbean,175.2
+PRI.20_1,PRI,PuertoRico,Ciales,Municipality,Caribbean,172.8
+PRI.21_1,PRI,PuertoRico,Cidra,Municipality,Caribbean,94.9
+PRI.22_1,PRI,PuertoRico,Coamo,Municipality,Caribbean,203.0
+PRI.23_1,PRI,PuertoRico,Comerío,Municipality,Caribbean,73.4
+PRI.24_1,PRI,PuertoRico,Corozal,Municipality,Caribbean,110.6
+PRI.25_1,PRI,PuertoRico,Culebra,Municipality,Caribbean,33.4
+PRI.26_1,PRI,PuertoRico,Dorado,Municipality,Caribbean,60.3
+PRI.27_1,PRI,PuertoRico,Fajardo,Municipality,Caribbean,80.9
+PRI.28_1,PRI,PuertoRico,Florida,Municipality,Caribbean,39.0
+PRI.29_1,PRI,PuertoRico,Guánica,Municipality,Caribbean,98.5
+PRI.2_1,PRI,PuertoRico,Aguada,Municipality,Caribbean,80.2
+PRI.30_1,PRI,PuertoRico,Guayama,Municipality,Caribbean,171.6
+PRI.31_1,PRI,PuertoRico,Guayanilla,Municipality,Caribbean,111.2
+PRI.32_1,PRI,PuertoRico,Guaynabo,Municipality,Caribbean,69.6
+PRI.33_1,PRI,PuertoRico,Gurabo,Municipality,Caribbean,73.3
+PRI.34_1,PRI,PuertoRico,Hatillo,Municipality,Caribbean,108.3
+PRI.35_1,PRI,PuertoRico,Hormigueros,Municipality,Caribbean,30.1
+PRI.36_1,PRI,PuertoRico,Humacao,Municipality,Caribbean,117.8
+PRI.37_1,PRI,PuertoRico,Isabela,Municipality,Caribbean,143.1
+PRI.38_1,PRI,PuertoRico,Jayuya,Municipality,Caribbean,117.0
+PRI.39_1,PRI,PuertoRico,JuanaDíaz,Municipality,Caribbean,156.7
+PRI.3_1,PRI,PuertoRico,Aguadilla,Municipality,Caribbean,95.0
+PRI.40_1,PRI,PuertoRico,Juncos,Municipality,Caribbean,69.1
+PRI.41_1,PRI,PuertoRico,Lajas,Municipality,Caribbean,160.2
+PRI.42_1,PRI,PuertoRico,Lares,Municipality,Caribbean,158.2
+PRI.43_1,PRI,PuertoRico,LasMarías,Municipality,Caribbean,121.3
+PRI.44_1,PRI,PuertoRico,LasPiedras,Municipality,Caribbean,88.1
+PRI.45_1,PRI,PuertoRico,Loíza,Municipality,Caribbean,52.3
+PRI.46_1,PRI,PuertoRico,Luquillo,Municipality,Caribbean,66.9
+PRI.47_1,PRI,PuertoRico,Manatí,Municipality,Caribbean,120.5
+PRI.48_1,PRI,PuertoRico,Maricao,Municipality,Caribbean,94.9
+PRI.49_1,PRI,PuertoRico,Maunabo,Municipality,Caribbean,54.8
+PRI.4_1,PRI,PuertoRico,AguasBuenas,Municipality,Caribbean,79.6
+PRI.50_1,PRI,PuertoRico,Mayagüez,Municipality,Caribbean,202.2
+PRI.51_1,PRI,PuertoRico,Moca,Municipality,Caribbean,131.2
+PRI.52_1,PRI,PuertoRico,Morovis,Municipality,Caribbean,101.0
+PRI.53_1,PRI,PuertoRico,Naguabo,Municipality,Caribbean,133.7
+PRI.54_1,PRI,PuertoRico,Naranjito,Municipality,Caribbean,71.6
+PRI.55_1,PRI,PuertoRico,Orocovis,Municipality,Caribbean,165.5
+PRI.56_1,PRI,PuertoRico,Patillas,Municipality,Caribbean,121.5
+PRI.57_1,PRI,PuertoRico,Peñuelas,Municipality,Caribbean,116.9
+PRI.58_1,PRI,PuertoRico,Ponce,Municipality,Caribbean,305.3
+PRI.59_1,PRI,PuertoRico,Quebradillas,Municipality,Caribbean,59.9
+PRI.5_1,PRI,PuertoRico,Aibonito,Municipality,Caribbean,80.6
+PRI.60_1,PRI,PuertoRico,Rincón,Municipality,Caribbean,37.0
+PRI.61_1,PRI,PuertoRico,RíoGrande,Municipality,Caribbean,157.2
+PRI.62_1,PRI,PuertoRico,SabanaGrande,Municipality,Caribbean,93.3
+PRI.63_1,PRI,PuertoRico,Salinas,Municipality,Caribbean,183.8
+PRI.64_1,PRI,PuertoRico,SanGermán,Municipality,Caribbean,139.3
+PRI.65_1,PRI,PuertoRico,SanJuan,Municipality,Caribbean,128.7
+PRI.66_1,PRI,PuertoRico,SanLorenzo,Municipality,Caribbean,137.0
+PRI.67_1,PRI,PuertoRico,SanSebastián,Municipality,Caribbean,184.5
+PRI.68_1,PRI,PuertoRico,SantaIsabel,Municipality,Caribbean,89.2
+PRI.69_1,PRI,PuertoRico,ToaAlta,Municipality,Caribbean,71.4
+PRI.6_1,PRI,PuertoRico,Añasco,Municipality,Caribbean,101.9
+PRI.70_1,PRI,PuertoRico,ToaBaja,Municipality,Caribbean,61.4
+PRI.71_1,PRI,PuertoRico,TrujilloAlto,Municipality,Caribbean,55.9
+PRI.72_1,PRI,PuertoRico,Utuado,Municipality,Caribbean,296.4
+PRI.73_1,PRI,PuertoRico,VegaAlta,Municipality,Caribbean,71.4
+PRI.74_1,PRI,PuertoRico,VegaBaja,Municipality,Caribbean,120.7
+PRI.75_1,PRI,PuertoRico,Vieques,Municipality,Caribbean,136.9
+PRI.76_1,PRI,PuertoRico,Villalba,Municipality,Caribbean,95.1
+PRI.77_1,PRI,PuertoRico,Yabucoa,Municipality,Caribbean,144.7
+PRI.78_1,PRI,PuertoRico,Yauco,Municipality,Caribbean,177.1
+PRI.7_1,PRI,PuertoRico,Arecibo,Municipality,Caribbean,328.5
+PRI.8_1,PRI,PuertoRico,Arroyo,Municipality,Caribbean,39.7
+PRI.9_1,PRI,PuertoRico,Barceloneta,Municipality,Caribbean,47.2
+PRK.10_1,PRK,NorthKorea,P'yŏngan-namdo,Province,Eastern Asia,12462.5
+PRK.11_1,PRK,NorthKorea,P'yŏngyang,SpecialCity,Eastern Asia,2713.9
+PRK.12_1,PRK,NorthKorea,Rasŏn,DirectlyGovernedCity,Eastern Asia,855.5
+PRK.13_1,PRK,NorthKorea,Ryanggang,Province,Eastern Asia,13922.4
+PRK.14_1,PRK,NorthKorea,Sinŭiju,SpecialAdministrativeRegion,Eastern Asia,109.0
+PRK.1_1,PRK,NorthKorea,Chagang-do,Province,Eastern Asia,16706.6
+PRK.2_1,PRK,NorthKorea,Hamgyŏng-bukto,Province,Eastern Asia,15819.5
+PRK.3_1,PRK,NorthKorea,Hamgyŏng-namdo,Province,Eastern Asia,18479.3
+PRK.4_1,PRK,NorthKorea,Hwanghae-bukto,Province,Eastern Asia,8236.0
+PRK.5_1,PRK,NorthKorea,Hwanghae-namdo,Province,Eastern Asia,8549.5
+PRK.6_1,PRK,NorthKorea,Kaesŏng,SpecialAdministrativeRegion,Eastern Asia,1180.2
+PRK.7_1,PRK,NorthKorea,Kangwŏn-do,Province,Eastern Asia,10270.8
+PRK.8_1,PRK,NorthKorea,Kumgangsan,SpecialAdministrativeRegion,Eastern Asia,985.7
+PRK.9_1,PRK,NorthKorea,P'yŏngan-bukto,Province,Eastern Asia,12409.8
+PRY.10_1,PRY,Paraguay,Concepción,Department,South America,18771.6
+PRY.11_1,PRY,Paraguay,Cordillera,Department,South America,4798.8
+PRY.12_1,PRY,Paraguay,Guairá,Department,South America,3824.3
+PRY.13_1,PRY,Paraguay,Itapúa,Department,South America,16029.2
+PRY.14_1,PRY,Paraguay,Misiones,Department,South America,8942.5
+PRY.15_1,PRY,Paraguay,Ñeembucú,Department,South America,11450.7
+PRY.16_1,PRY,Paraguay,Paraguarí,Department,South America,8718.1
+PRY.17_1,PRY,Paraguay,PresidenteHayes,Department,South America,73174.3
+PRY.18_1,PRY,Paraguay,SanPedro,Department,South America,20889.7
+PRY.1_1,PRY,Paraguay,AltoParaguay,Department,South America,77467.4
+PRY.2_1,PRY,Paraguay,AltoParaná,Department,South America,14128.9
+PRY.3_1,PRY,Paraguay,Amambay,Department,South America,12537.6
+PRY.4_1,PRY,Paraguay,Asunción,CapitalDistrict,South America,129.0
+PRY.5_1,PRY,Paraguay,Boquerón,Department,South America,88542.5
+PRY.6_1,PRY,Paraguay,Caaguazú,Department,South America,12901.9
+PRY.7_1,PRY,Paraguay,Caazapá,Department,South America,9543.0
+PRY.8_1,PRY,Paraguay,Canindeyú,Department,South America,15031.3
+PRY.9_1,PRY,Paraguay,Central,Department,South America,2418.7
+PSE.1_1,PSE,Palestine,Gaza,District,Western Asia,342.6
+PSE.2_1,PSE,Palestine,WestBank,District,Western Asia,5877.3
+PYF.1_1,PYF,FrenchPolynesia,ÎlesAustrales,Administrativesubdivisions,Polynesia,371.4
+PYF.2_1,PYF,FrenchPolynesia,ÎlesduVent,Administrativesubdivisions,Polynesia,1209.4
+PYF.3_1,PYF,FrenchPolynesia,ÎlesMarquises,Administrativesubdivisions,Polynesia,989.3
+PYF.4_1,PYF,FrenchPolynesia,ÎlesSous-le-Vent,Administrativesubdivisions,Polynesia,426.4
+PYF.5_1,PYF,FrenchPolynesia,ÎlesTuamotu-Gambier,Administrativesubdivisions,Polynesia,1033.2
+QAT.1_1,QAT,Qatar,AdDawhah,Municipality,Western Asia,221.8
+QAT.2_1,QAT,Qatar,AlDaayen,Municipality,Western Asia,248.5
+QAT.3_1,QAT,Qatar,AlKhor,Municipality,Western Asia,1566.3
+QAT.4_1,QAT,Qatar,AlWakrah,Municipality,Western Asia,2551.4
+QAT.5_1,QAT,Qatar,ArRayyan,Municipality,Western Asia,5802.0
+QAT.6_1,QAT,Qatar,MadinatashShamal,Municipality,Western Asia,885.8
+QAT.7_1,QAT,Qatar,UmmSalal,Municipality,Western Asia,306.3
+REU.1_1,REU,Réunion,Saint-Benoît,Arrondissement,Eastern Africa,737.0
+REU.2_1,REU,Réunion,Saint-Denis,Arrondissement,Eastern Africa,421.8
+REU.3_1,REU,Réunion,Saint-Paul,Arrondissement,Eastern Africa,465.4
+REU.4_1,REU,Réunion,Saint-Pierre,Arrondissement,Eastern Africa,888.3
+RWA.1_1,RWA,Rwanda,Amajyaruguru,Province,Eastern Africa,3256.8
+RWA.2_1,RWA,Rwanda,Amajyepfo,Province,Eastern Africa,5957.0
+RWA.3_1,RWA,Rwanda,Iburasirazuba,Province,Eastern Africa,9466.4
+RWA.4_1,RWA,Rwanda,Iburengerazuba,Province,Eastern Africa,5870.6
+RWA.5_1,RWA,Rwanda,UmujyiwaKigali,Province,Eastern Africa,728.3
+SAU.10_1,SAU,SaudiArabia,Jizan,Province,Western Asia,13012.5
+SAU.11_1,SAU,SaudiArabia,Makkah,Province,Western Asia,140674.4
+SAU.12_1,SAU,SaudiArabia,Najran,Province,Western Asia,127157.5
+SAU.13_1,SAU,SaudiArabia,Tabuk,Province,Western Asia,130863.4
+SAU.1_1,SAU,SaudiArabia,'Asir,Province,Western Asia,76991.0
+SAU.2_1,SAU,SaudiArabia,AlBahah,Province,Western Asia,10511.8
+SAU.3_1,SAU,SaudiArabia,AlHududashShamaliyah,Province,Western Asia,103800.2
+SAU.4_1,SAU,SaudiArabia,AlJawf,Province,Western Asia,82044.7
+SAU.5_1,SAU,SaudiArabia,AlMadinah,Province,Western Asia,149998.9
+SAU.6_1,SAU,SaudiArabia,AlQassim,Province,Western Asia,67567.4
+SAU.7_1,SAU,SaudiArabia,ArRiyad,Province,Western Asia,378405.2
+SAU.8_1,SAU,SaudiArabia,Ash-Sharqīyah,Province,Western Asia,521906.5
+SAU.9_1,SAU,SaudiArabia,Ḥaʼil,Province,Western Asia,120115.7
+SDN.10_1,SDN,Sudan,Northern,State,Northern Africa,366310.5
+SDN.11_1,SDN,Sudan,RedSea,State,Northern Africa,216542.3
+SDN.12_1,SDN,Sudan,RiverNile,State,Northern Africa,126111.7
+SDN.13_1,SDN,Sudan,Sennar,State,Northern Africa,40321.2
+SDN.14_1,SDN,Sudan,SouthDarfur,State,Northern Africa,78137.3
+SDN.15_1,SDN,Sudan,SouthKurdufan,State,Northern Africa,79394.5
+SDN.16_1,SDN,Sudan,WestDarfur,State,Northern Africa,22664.5
+SDN.17_1,SDN,Sudan,WestKurdufan,State,Northern Africa,112968.8
+SDN.18_1,SDN,Sudan,WhiteNile,State,Northern Africa,39983.1
+SDN.1_1,SDN,Sudan,AlJazirah,State,Northern Africa,24232.6
+SDN.2_1,SDN,Sudan,AlQadarif,State,Northern Africa,64062.0
+SDN.3_1,SDN,Sudan,BlueNile,State,Northern Africa,37031.3
+SDN.4_1,SDN,Sudan,CentralDarfur,State,Northern Africa,37114.8
+SDN.5_1,SDN,Sudan,EastDarfur,State,Northern Africa,55122.7
+SDN.6_1,SDN,Sudan,Kassala,State,Northern Africa,45614.5
+SDN.7_1,SDN,Sudan,Khartoum,State,Northern Africa,21143.6
+SDN.8_1,SDN,Sudan,NorthDarfur,State,Northern Africa,317176.3
+SDN.9_1,SDN,Sudan,NorthKurdufan,State,Northern Africa,188195.1
+SEN.10_1,SEN,Senegal,Saint-Louis,Region,Western Africa,20270.8
+SEN.11_1,SEN,Senegal,Sédhiou,Region,Western Africa,7355.3
+SEN.12_1,SEN,Senegal,Tambacounda,Region,Western Africa,42851.6
+SEN.13_1,SEN,Senegal,Thiès,Region,Western Africa,6640.7
+SEN.14_1,SEN,Senegal,Ziguinchor,Region,Western Africa,7354.9
+SEN.1_1,SEN,Senegal,Dakar,Region,Western Africa,565.9
+SEN.2_1,SEN,Senegal,Diourbel,Region,Western Africa,4861.3
+SEN.3_1,SEN,Senegal,Fatick,Region,Western Africa,6849.6
+SEN.4_1,SEN,Senegal,Kaffrine,Region,Western Africa,11324.7
+SEN.5_1,SEN,Senegal,Kaolack,Region,Western Africa,5408.8
+SEN.6_1,SEN,Senegal,Kédougou,Region,Western Africa,16923.0
+SEN.7_1,SEN,Senegal,Kolda,Region,Western Africa,13814.0
+SEN.8_1,SEN,Senegal,Louga,Region,Western Africa,24673.9
+SEN.9_1,SEN,Senegal,Matam,Region,Western Africa,27995.0
+SHN.1_1,SHN,"SaintHelena,AscensionandTris",Ascension,AdministrativeArea,Western Africa,99.5
+SHN.2_1,SHN,"SaintHelena,AscensionandTris",SaintHelena,Dependency,Western Africa,122.9
+SHN.3_1,SHN,"SaintHelena,AscensionandTris",TristandaCunha,Dependency,Western Africa,188.3
+SLB.10_1,SLB,SolomonIslands,Western,Province,Melanesia,5594.5
+SLB.1_1,SLB,SolomonIslands,Central,Province,Melanesia,661.2
+SLB.2_1,SLB,SolomonIslands,Choiseul,Province,Melanesia,3322.9
+SLB.3_1,SLB,SolomonIslands,Guadalcanal,Province,Melanesia,5368.3
+SLB.4_1,SLB,SolomonIslands,Honiara,CapitalTerritory,Melanesia,25.5
+SLB.5_1,SLB,SolomonIslands,Isabel,Province,Melanesia,4262.8
+SLB.6_1,SLB,SolomonIslands,MakiraUlawa,Province,Melanesia,3239.7
+SLB.7_1,SLB,SolomonIslands,Malaita,Province,Melanesia,4285.9
+SLB.8_1,SLB,SolomonIslands,RennellandBellona,Province,Melanesia,852.7
+SLB.9_1,SLB,SolomonIslands,Temotu,Province,Melanesia,890.4
+SLE.1_1,SLE,SierraLeone,Eastern,Province,Western Africa,15744.6
+SLE.2_1,SLE,SierraLeone,Northern,Province,Western Africa,36008.0
+SLE.3_1,SLE,SierraLeone,Southern,Province,Western Africa,20130.2
+SLE.4_1,SLE,SierraLeone,Western,Province,Western Africa,717.5
+SLV.10_1,SLV,ElSalvador,SanSalvador,Department,Central America,923.0
+SLV.11_1,SLV,ElSalvador,SanVicente,Department,Central America,1208.9
+SLV.12_1,SLV,ElSalvador,SantaAna,Department,Central America,2050.3
+SLV.13_1,SLV,ElSalvador,Sonsonate,Department,Central America,1195.8
+SLV.14_1,SLV,ElSalvador,Usulután,Department,Central America,1977.4
+SLV.1_1,SLV,ElSalvador,Ahuachapán,Department,Central America,1224.5
+SLV.2_1,SLV,ElSalvador,Cabañas,Department,Central America,1090.6
+SLV.3_1,SLV,ElSalvador,Chalatenango,Department,Central America,1948.6
+SLV.4_1,SLV,ElSalvador,Cuscatlán,Department,Central America,678.0
+SLV.5_1,SLV,ElSalvador,LaLibertad,Department,Central America,1632.1
+SLV.6_1,SLV,ElSalvador,LaPaz,Department,Central America,1175.4
+SLV.7_1,SLV,ElSalvador,LaUnión,Department,Central America,1989.0
+SLV.8_1,SLV,ElSalvador,Morazán,Department,Central America,1255.7
+SLV.9_1,SLV,ElSalvador,SanMiguel,Department,Central America,2074.2
+SOM.10_1,SOM,Somalia,JubbadaHoose,Region,Eastern Africa,47722.9
+SOM.11_1,SOM,Somalia,Mudug,Region,Eastern Africa,58673.7
+SOM.12_1,SOM,Somalia,Nugaal,Region,Eastern Africa,27680.5
+SOM.13_1,SOM,Somalia,Sanaag,Region,Eastern Africa,53878.3
+SOM.14_1,SOM,Somalia,ShabeellahaDhexe,Region,Eastern Africa,18498.3
+SOM.15_1,SOM,Somalia,ShabeellahaHoose,Region,Eastern Africa,25665.9
+SOM.16_1,SOM,Somalia,Sool,Region,Eastern Africa,38073.9
+SOM.17_1,SOM,Somalia,Togdheer,Region,Eastern Africa,33982.3
+SOM.18_1,SOM,Somalia,WoqooyiGalbeed,Region,Eastern Africa,27995.2
+SOM.1_1,SOM,Somalia,Awdal,Region,Eastern Africa,16288.6
+SOM.2_1,SOM,Somalia,Bakool,Region,Eastern Africa,25712.2
+SOM.3_1,SOM,Somalia,Banaadir,Region,Eastern Africa,211.0
+SOM.4_1,SOM,Somalia,Bari,Region,Eastern Africa,68216.5
+SOM.5_1,SOM,Somalia,Bay,Region,Eastern Africa,43938.6
+SOM.6_1,SOM,Somalia,Galguduud,Region,Eastern Africa,49049.8
+SOM.7_1,SOM,Somalia,Gedo,Region,Eastern Africa,45035.1
+SOM.8_1,SOM,Somalia,Hiiraan,Region,Eastern Africa,34106.1
+SOM.9_1,SOM,Somalia,JubbadaDhexe,Region,Eastern Africa,18804.2
+SSD.10_1,SSD,SouthSudan,WestEquatoria,State,Eastern Africa,79110.3
+SSD.1_1,SSD,SouthSudan,CentralEquatoria,State,Eastern Africa,43680.9
+SSD.2_1,SSD,SouthSudan,EasternEquatoria,State,Eastern Africa,69192.1
+SSD.3_1,SSD,SouthSudan,Jungoli,State,Eastern Africa,122194.3
+SSD.4_1,SSD,SouthSudan,Lakes,State,Eastern Africa,42973.6
+SSD.5_1,SSD,SouthSudan,NorthBahr-al-Ghazal,State,Eastern Africa,32181.1
+SSD.6_1,SSD,SouthSudan,Unity,State,Eastern Africa,36523.9
+SSD.7_1,SSD,SouthSudan,UpperNile,State,Eastern Africa,77238.0
+SSD.8_1,SSD,SouthSudan,Warap,State,Eastern Africa,39471.1
+SSD.9_1,SSD,SouthSudan,WestBahr-al-Ghazal,State,Eastern Africa,85531.9
+STP.1_1,STP,SãoToméandPríncipe,Príncipe,Municipality,Middle Africa,144.3
+STP.2_1,STP,SãoToméandPríncipe,SãoTomé,Municipality,Middle Africa,857.9
+SUR.10_1,SUR,Suriname,Wanica,District,South America,427.8
+SUR.1_1,SUR,Suriname,Brokopondo,District,South America,7326.6
+SUR.2_1,SUR,Suriname,Commewijne,District,South America,2433.7
+SUR.3_1,SUR,Suriname,Coronie,District,South America,3632.0
+SUR.4_1,SUR,Suriname,Marowijne,District,South America,4684.4
+SUR.5_1,SUR,Suriname,Nickerie,District,South America,5353.8
+SUR.6_1,SUR,Suriname,Para,District,South America,5422.7
+SUR.7_1,SUR,Suriname,Paramaribo,District,South America,165.7
+SUR.8_1,SUR,Suriname,Saramacca,District,South America,3795.1
+SUR.9_1,SUR,Suriname,Sipaliwini,District,South America,113184.0
+SWZ.1_1,SWZ,Swaziland,Hhohho,District,Southern Africa,3641.9
+SWZ.2_1,SWZ,Swaziland,Lubombo,District,Southern Africa,5850.2
+SWZ.3_1,SWZ,Swaziland,Manzini,District,Southern Africa,4124.1
+SWZ.4_1,SWZ,Swaziland,Shiselweni,District,Southern Africa,3763.9
+SYC.10_1,SYC,Seychelles,Belombre,District,Eastern Africa,9.3
+SYC.11_1,SYC,Seychelles,Cascade,District,Eastern Africa,11.6
+SYC.12_1,SYC,Seychelles,EnglishRiver,District,Eastern Africa,2.4
+SYC.13_1,SYC,Seychelles,Glacis,District,Eastern Africa,7.1
+SYC.14_1,SYC,Seychelles,Grand'Anse,District,Eastern Africa,15.0
+SYC.15_1,SYC,Seychelles,Grand'AnsePraslin,District,Eastern Africa,17.0
+SYC.16_1,SYC,Seychelles,LaDigueandInnerIslands,District,Eastern Africa,44.0
+SYC.17_1,SYC,Seychelles,LesMamelles,District,Eastern Africa,1.7
+SYC.18_1,SYC,Seychelles,MontBuxton,District,Eastern Africa,1.2
+SYC.19_1,SYC,Seychelles,MontFleuri,District,Eastern Africa,5.9
+SYC.1_1,SYC,Seychelles,AnseauxPins,District,Eastern Africa,2.3
+SYC.20_1,SYC,Seychelles,OuterIslands,OuterIslands,Eastern Africa,232.7
+SYC.21_1,SYC,Seychelles,Plaisance,District,Eastern Africa,3.6
+SYC.22_1,SYC,Seychelles,PointeLaRue,District,Eastern Africa,5.0
+SYC.23_1,SYC,Seychelles,PortGlaud,District,Eastern Africa,26.9
+SYC.24_1,SYC,Seychelles,RocheCaïman,District,Eastern Africa,2.0
+SYC.25_1,SYC,Seychelles,SaintLouis,District,Eastern Africa,1.1
+SYC.26_1,SYC,Seychelles,Takamaka,District,Eastern Africa,14.6
+SYC.2_1,SYC,Seychelles,AnseBoileau,District,Eastern Africa,11.8
+SYC.3_1,SYC,Seychelles,AnseÉtoile,District,Eastern Africa,8.0
+SYC.4_1,SYC,Seychelles,AnseRoyale,District,Eastern Africa,7.1
+SYC.5_1,SYC,Seychelles,AuCap,District,Eastern Africa,9.7
+SYC.6_1,SYC,Seychelles,BaieLazare,District,Eastern Africa,12.0
+SYC.7_1,SYC,Seychelles,BaieSainteAnne,District,Eastern Africa,27.4
+SYC.8_1,SYC,Seychelles,BeauVallon,District,Eastern Africa,4.3
+SYC.9_1,SYC,Seychelles,BelAir,District,Eastern Africa,5.0
+SYR.10_1,SYR,Syria,Idlib,Governorate,Western Asia,5584.3
+SYR.11_1,SYR,Syria,Lattakia,Governorate,Western Asia,2399.8
+SYR.12_1,SYR,Syria,Quneitra,Governorate,Western Asia,456.3
+SYR.13_1,SYR,Syria,RifDimashq,Governorate,Western Asia,18009.7
+SYR.14_1,SYR,Syria,Tartus,Governorate,Western Asia,1796.9
+SYR.1_1,SYR,Syria,AlḤasakah,Governorate,Western Asia,23501.8
+SYR.2_1,SYR,Syria,Aleppo,Governorate,Western Asia,19130.7
+SYR.3_1,SYR,Syria,ArRaqqah,Governorate,Western Asia,18958.5
+SYR.4_1,SYR,Syria,AsSuwayda',Governorate,Western Asia,6507.6
+SYR.5_1,SYR,Syria,Damascus,Governorate,Western Asia,87.4
+SYR.6_1,SYR,Syria,Dar`a,Governorate,Western Asia,4162.0
+SYR.7_1,SYR,Syria,DayrAzZawr,Governorate,Western Asia,29346.7
+SYR.8_1,SYR,Syria,Hamah,Governorate,Western Asia,10211.5
+SYR.9_1,SYR,Syria,Hims,Governorate,Western Asia,46777.5
+TCA.1_1,TCA,TurksandCaicosIslands,GrandTurk,District,Caribbean,19.5
+TCA.2_1,TCA,TurksandCaicosIslands,MiddleCaicos,District,Caribbean,304.6
+TCA.3_1,TCA,TurksandCaicosIslands,NorthCaicos,District,Caribbean,257.8
+TCA.4_1,TCA,TurksandCaicosIslands,ProvidencialesandWestCaicos,District,Caribbean,151.5
+TCA.5_1,TCA,TurksandCaicosIslands,SaltCay,District,Caribbean,10.8
+TCA.6_1,TCA,TurksandCaicosIslands,SouthCaicosandEastCaicos,District,Caribbean,246.2
+TCD.10_1,TCD,Chad,Lac,Region,Middle Africa,19842.0
+TCD.11_1,TCD,Chad,LogoneOccidental,Region,Middle Africa,8806.8
+TCD.12_1,TCD,Chad,LogoneOriental,Region,Middle Africa,23717.9
+TCD.13_1,TCD,Chad,Mandoul,Region,Middle Africa,17444.8
+TCD.14_1,TCD,Chad,Mayo-KebbiEst,Region,Middle Africa,18051.2
+TCD.15_1,TCD,Chad,Mayo-KebbiOuest,Region,Middle Africa,12536.3
+TCD.16_1,TCD,Chad,Moyen-Chari,Region,Middle Africa,41468.8
+TCD.17_1,TCD,Chad,Ouaddaï,Region,Middle Africa,29754.1
+TCD.18_1,TCD,Chad,Salamat,Region,Middle Africa,67963.3
+TCD.19_1,TCD,Chad,Sila,Region,Middle Africa,35704.5
+TCD.1_1,TCD,Chad,BarhelGhazel,Region,Middle Africa,56313.5
+TCD.20_1,TCD,Chad,Tandjilé,Region,Middle Africa,17532.9
+TCD.21_1,TCD,Chad,Tibesti,Region,Middle Africa,126164.7
+TCD.22_1,TCD,Chad,VilledeN'Djamena,Region,Middle Africa,397.0
+TCD.23_1,TCD,Chad,WadiFira,Region,Middle Africa,54118.7
+TCD.2_1,TCD,Chad,Batha,Region,Middle Africa,90404.9
+TCD.3_1,TCD,Chad,Borkou,Region,Middle Africa,256156.3
+TCD.4_1,TCD,Chad,Chari-Baguirmi,Region,Middle Africa,46029.9
+TCD.5_1,TCD,Chad,EnnediEst,Region,Middle Africa,77361.8
+TCD.6_1,TCD,Chad,EnnediOuest,Region,Middle Africa,111033.1
+TCD.7_1,TCD,Chad,Guéra,Region,Middle Africa,61036.4
+TCD.8_1,TCD,Chad,Hadjer-Lamis,Region,Middle Africa,30439.3
+TCD.9_1,TCD,Chad,Kanem,Region,Middle Africa,67669.7
+TGO.1_1,TGO,Togo,Centre,Region,Western Africa,13100.3
+TGO.2_1,TGO,Togo,Kara,Region,Western Africa,11686.7
+TGO.3_1,TGO,Togo,Maritime,Region,Western Africa,6287.3
+TGO.4_1,TGO,Togo,Plateaux,Region,Western Africa,17319.8
+TGO.5_1,TGO,Togo,Savanes,Region,Western Africa,8512.5
+THA.10_1,THA,Thailand,ChiangMai,Province,South-eastern Asia,22104.1
+THA.11_1,THA,Thailand,ChiangRai,Province,South-eastern Asia,11575.3
+THA.12_1,THA,Thailand,ChonBuri,Province,South-eastern Asia,4474.2
+THA.13_1,THA,Thailand,Chumphon,Province,South-eastern Asia,6002.5
+THA.14_1,THA,Thailand,Kalasin,Province,South-eastern Asia,6899.9
+THA.15_1,THA,Thailand,KamphaengPhet,Province,South-eastern Asia,8634.1
+THA.16_1,THA,Thailand,Kanchanaburi,Province,South-eastern Asia,19354.8
+THA.17_1,THA,Thailand,KhonKaen,Province,South-eastern Asia,10600.8
+THA.18_1,THA,Thailand,Krabi,Province,South-eastern Asia,4840.3
+THA.19_1,THA,Thailand,Lampang,Province,South-eastern Asia,12517.2
+THA.1_1,THA,Thailand,AmnatCharoen,Province,South-eastern Asia,3243.1
+THA.20_1,THA,Thailand,Lamphun,Province,South-eastern Asia,4488.6
+THA.21_1,THA,Thailand,Loei,Province,South-eastern Asia,10530.1
+THA.22_1,THA,Thailand,LopBuri,Province,South-eastern Asia,6254.0
+THA.23_1,THA,Thailand,MaeHongSon,Province,South-eastern Asia,12688.0
+THA.24_1,THA,Thailand,MahaSarakham,Province,South-eastern Asia,5602.3
+THA.25_1,THA,Thailand,Mukdahan,Province,South-eastern Asia,4163.9
+THA.26_1,THA,Thailand,NakhonNayok,Province,South-eastern Asia,2141.6
+THA.27_1,THA,Thailand,NakhonPathom,Province,South-eastern Asia,2145.7
+THA.28_1,THA,Thailand,NakhonPhanom,Province,South-eastern Asia,5455.0
+THA.29_1,THA,Thailand,NakhonRatchasima,Province,South-eastern Asia,20688.9
+THA.2_1,THA,Thailand,AngThong,Province,South-eastern Asia,951.1
+THA.30_1,THA,Thailand,NakhonSawan,Province,South-eastern Asia,9506.4
+THA.31_1,THA,Thailand,NakhonSiThammarat,Province,South-eastern Asia,9905.2
+THA.32_1,THA,Thailand,Nan,Province,South-eastern Asia,12235.6
+THA.33_1,THA,Thailand,Narathiwat,Province,South-eastern Asia,4456.1
+THA.34_1,THA,Thailand,NongBuaLamPhu,Province,South-eastern Asia,4130.3
+THA.35_1,THA,Thailand,NongKhai,Province,South-eastern Asia,3221.5
+THA.36_1,THA,Thailand,Nonthaburi,Province,South-eastern Asia,634.5
+THA.37_1,THA,Thailand,PathumThani,Province,South-eastern Asia,1515.3
+THA.38_1,THA,Thailand,Pattani,Province,South-eastern Asia,1949.3
+THA.39_1,THA,Thailand,Phangnga,Province,South-eastern Asia,3989.6
+THA.3_1,THA,Thailand,BangkokMetropolis,Province,South-eastern Asia,1564.5
+THA.40_1,THA,Thailand,Phatthalung,Province,South-eastern Asia,3817.6
+THA.41_1,THA,Thailand,Phayao,Province,South-eastern Asia,6114.3
+THA.42_1,THA,Thailand,Phetchabun,Province,South-eastern Asia,12391.7
+THA.43_1,THA,Thailand,Phetchaburi,Province,South-eastern Asia,6176.8
+THA.44_1,THA,Thailand,Phichit,Province,South-eastern Asia,4317.2
+THA.45_1,THA,Thailand,Phitsanulok,Province,South-eastern Asia,10596.4
+THA.46_1,THA,Thailand,PhraNakhonSiAyutthaya,Province,South-eastern Asia,2547.5
+THA.47_1,THA,Thailand,Phrae,Province,South-eastern Asia,6476.3
+THA.48_1,THA,Thailand,Phuket,Province,South-eastern Asia,554.0
+THA.49_1,THA,Thailand,PrachinBuri,Province,South-eastern Asia,4992.4
+THA.4_1,THA,Thailand,BuengKan,Province,South-eastern Asia,3997.3
+THA.50_1,THA,Thailand,PrachuapKhiriKhan,Province,South-eastern Asia,6417.1
+THA.51_1,THA,Thailand,Ranong,Province,South-eastern Asia,3130.5
+THA.52_1,THA,Thailand,Ratchaburi,Province,South-eastern Asia,5177.9
+THA.53_1,THA,Thailand,Rayong,Province,South-eastern Asia,3699.3
+THA.54_1,THA,Thailand,RoiEt,Province,South-eastern Asia,7807.6
+THA.55_1,THA,Thailand,SaKaeo,Province,South-eastern Asia,6858.8
+THA.56_1,THA,Thailand,SakonNakhon,Province,South-eastern Asia,9529.9
+THA.57_1,THA,Thailand,SamutPrakan,Province,South-eastern Asia,940.4
+THA.58_1,THA,Thailand,SamutSakhon,Province,South-eastern Asia,852.5
+THA.59_1,THA,Thailand,SamutSongkhram,Province,South-eastern Asia,405.8
+THA.5_1,THA,Thailand,BuriRam,Province,South-eastern Asia,10063.4
+THA.60_1,THA,Thailand,Saraburi,Province,South-eastern Asia,3561.8
+THA.61_1,THA,Thailand,Satun,Province,South-eastern Asia,2687.7
+THA.62_1,THA,Thailand,SiSaKet,Province,South-eastern Asia,8850.3
+THA.63_1,THA,Thailand,SingBuri,Province,South-eastern Asia,839.1
+THA.64_1,THA,Thailand,Songkhla,Province,South-eastern Asia,7616.6
+THA.65_1,THA,Thailand,Sukhothai,Province,South-eastern Asia,6700.5
+THA.66_1,THA,Thailand,SuphanBuri,Province,South-eastern Asia,5417.9
+THA.67_1,THA,Thailand,SuratThani,Province,South-eastern Asia,13117.2
+THA.68_1,THA,Thailand,Surin,Province,South-eastern Asia,8774.2
+THA.69_1,THA,Thailand,Tak,Province,South-eastern Asia,17210.2
+THA.6_1,THA,Thailand,Chachoengsao,Province,South-eastern Asia,5219.9
+THA.70_1,THA,Thailand,Trang,Province,South-eastern Asia,4847.7
+THA.71_1,THA,Thailand,Trat,Province,South-eastern Asia,2853.2
+THA.72_1,THA,Thailand,UbonRatchathani,Province,South-eastern Asia,15468.6
+THA.73_1,THA,Thailand,UdonThani,Province,South-eastern Asia,11058.5
+THA.74_1,THA,Thailand,UthaiThani,Province,South-eastern Asia,6661.9
+THA.75_1,THA,Thailand,Uttaradit,Province,South-eastern Asia,7800.7
+THA.76_1,THA,Thailand,Yala,Province,South-eastern Asia,4432.2
+THA.77_1,THA,Thailand,Yasothon,Province,South-eastern Asia,4095.2
+THA.7_1,THA,Thailand,ChaiNat,Province,South-eastern Asia,2465.1
+THA.8_1,THA,Thailand,Chaiyaphum,Province,South-eastern Asia,12666.8
+THA.9_1,THA,Thailand,Chanthaburi,Province,South-eastern Asia,6253.8
+TJK.1_1,TJK,Tajikistan,Dushanbe,City,Central Asia,168.9
+TJK.2_1,TJK,Tajikistan,Gorno-Badakhshan,AutonomousRegion,Central Asia,63327.0
+TJK.3_1,TJK,Tajikistan,Khatlon,Region,Central Asia,23884.7
+TJK.4_1,TJK,Tajikistan,Sughd,Region,Central Asia,26390.6
+TJK.5_1,TJK,Tajikistan,DistrictsofRepublicanSubordin,DistrictsofRepublicanSubordin,Central Asia,28342.2
+TKL.1_1,TKL,Tokelau,Anafu,Atoll,Polynesia,4.5
+TKL.2_1,TKL,Tokelau,Fakaofo,Atoll,Polynesia,5.2
+TKL.3_1,TKL,Tokelau,Nukunonu,Atoll,Polynesia,5.0
+TKM.1_1,TKM,Turkmenistan,Ahal,Province,Central Asia,92975.0
+TKM.2_1,TKM,Turkmenistan,Aşgabat,CaptialCityDistrict,Central Asia,967.4
+TKM.3_1,TKM,Turkmenistan,Balkan,Province,Central Asia,136443.0
+TKM.4_1,TKM,Turkmenistan,Lebap,Province,Central Asia,96340.0
+TKM.5_1,TKM,Turkmenistan,Mary,Province,Central Asia,86196.5
+TKM.6_1,TKM,Turkmenistan,Daşoguz,Province,Central Asia,76680.2
+TLS.10_1,TLS,Timor-Leste,Liquiçá,District,South-eastern Asia,549.9
+TLS.11_1,TLS,Timor-Leste,Manatuto,District,South-eastern Asia,1779.1
+TLS.12_1,TLS,Timor-Leste,Manufahi,District,South-eastern Asia,1324.3
+TLS.13_1,TLS,Timor-Leste,Viqueque,District,South-eastern Asia,1882.9
+TLS.1_1,TLS,Timor-Leste,Aileu,District,South-eastern Asia,737.1
+TLS.2_1,TLS,Timor-Leste,Ainaro,District,South-eastern Asia,809.5
+TLS.3_1,TLS,Timor-Leste,Ambeno,District,South-eastern Asia,815.7
+TLS.4_1,TLS,Timor-Leste,Baucau,District,South-eastern Asia,1497.5
+TLS.5_1,TLS,Timor-Leste,Bobonaro,District,South-eastern Asia,1377.0
+TLS.6_1,TLS,Timor-Leste,Covalima,District,South-eastern Asia,1199.8
+TLS.7_1,TLS,Timor-Leste,Dili,District,South-eastern Asia,368.2
+TLS.8_1,TLS,Timor-Leste,Ermera,District,South-eastern Asia,766.9
+TLS.9_1,TLS,Timor-Leste,Lautém,District,South-eastern Asia,1809.2
+TON.1_1,TON,Tonga,'Eua,IslandGroup,Polynesia,94.9
+TON.2_1,TON,Tonga,Ha'apai,IslandGroup,Polynesia,137.9
+TON.3_1,TON,Tonga,Niuas,IslandGroup,Polynesia,23.4
+TON.4_1,TON,Tonga,Tongatapu,IslandGroup,Polynesia,278.9
+TON.5_1,TON,Tonga,Vava'u,IslandGroup,Polynesia,223.1
+TTO.10_1,TTO,TrinidadandTobago,SanFernando,City,Caribbean,20.3
+TTO.11_1,TTO,TrinidadandTobago,SanJuan-Laventille,Region,Caribbean,214.4
+TTO.12_1,TTO,TrinidadandTobago,SangreGrande,Region,Caribbean,930.9
+TTO.13_1,TTO,TrinidadandTobago,Siparia,Region,Caribbean,498.9
+TTO.14_1,TTO,TrinidadandTobago,Tobago,Region,Caribbean,310.8
+TTO.15_1,TTO,TrinidadandTobago,Tunapuna/Piarco,Region,Caribbean,539.1
+TTO.1_1,TTO,TrinidadandTobago,Arima,Borough,Caribbean,13.0
+TTO.2_1,TTO,TrinidadandTobago,Chaguanas,Borough,Caribbean,59.6
+TTO.3_1,TTO,TrinidadandTobago,Couva-Tabaquite-Talparo,Region,Caribbean,742.7
+TTO.4_1,TTO,TrinidadandTobago,DiegoMartin,Region,Caribbean,141.3
+TTO.5_1,TTO,TrinidadandTobago,Mayaro/RioClaro,Region,Caribbean,786.6
+TTO.6_1,TTO,TrinidadandTobago,Penal-Debe,Region,Caribbean,244.2
+TTO.7_1,TTO,TrinidadandTobago,PointFortin,Borough,Caribbean,28.7
+TTO.8_1,TTO,TrinidadandTobago,PortofSpain,City,Caribbean,13.8
+TTO.9_1,TTO,TrinidadandTobago,PrincesTown,Region,Caribbean,615.3
+TUN.10_1,TUN,Tunisia,Kebili,Governorate,Northern Africa,21883.7
+TUN.11_1,TUN,Tunisia,LeKef,Governorate,Northern Africa,5036.2
+TUN.12_1,TUN,Tunisia,Mahdia,Governorate,Northern Africa,2935.2
+TUN.13_1,TUN,Tunisia,Manubah,Governorate,Northern Africa,1010.6
+TUN.14_1,TUN,Tunisia,Médenine,Governorate,Northern Africa,8650.3
+TUN.15_1,TUN,Tunisia,Monastir,Governorate,Northern Africa,987.2
+TUN.16_1,TUN,Tunisia,Nabeul,Governorate,Northern Africa,2852.8
+TUN.17_1,TUN,Tunisia,Sfax,Governorate,Northern Africa,7229.5
+TUN.18_1,TUN,Tunisia,SidiBouZid,Governorate,Northern Africa,7383.7
+TUN.19_1,TUN,Tunisia,Siliana,Governorate,Northern Africa,4695.0
+TUN.1_1,TUN,Tunisia,Ariana,Governorate,Northern Africa,544.2
+TUN.20_1,TUN,Tunisia,Sousse,Governorate,Northern Africa,2678.4
+TUN.21_1,TUN,Tunisia,Tataouine,Governorate,Northern Africa,39527.7
+TUN.22_1,TUN,Tunisia,Tozeur,Governorate,Northern Africa,6144.1
+TUN.23_1,TUN,Tunisia,Tunis,Governorate,Northern Africa,270.8
+TUN.24_1,TUN,Tunisia,Zaghouan,Governorate,Northern Africa,2856.7
+TUN.2_1,TUN,Tunisia,Béja,Governorate,Northern Africa,3510.5
+TUN.3_1,TUN,Tunisia,BenArous(TunisSud),Governorate,Northern Africa,693.1
+TUN.4_1,TUN,Tunisia,Bizerte,Governorate,Northern Africa,3385.4
+TUN.5_1,TUN,Tunisia,Gabès,Governorate,Northern Africa,7466.6
+TUN.6_1,TUN,Tunisia,Gafsa,Governorate,Northern Africa,7392.1
+TUN.7_1,TUN,Tunisia,Jendouba,Governorate,Northern Africa,3057.6
+TUN.8_1,TUN,Tunisia,Kairouan,Governorate,Northern Africa,6620.3
+TUN.9_1,TUN,Tunisia,Kassérine,Governorate,Northern Africa,8056.9
+TUR.10_1,TUR,Turkey,Artvin,Province,Western Asia,7769.0
+TUR.11_1,TUR,Turkey,Aydin,Province,Western Asia,8006.7
+TUR.12_1,TUR,Turkey,Balikesir,Province,Western Asia,14712.7
+TUR.13_1,TUR,Turkey,Bartın,Province,Western Asia,2584.1
+TUR.14_1,TUR,Turkey,Batman,Province,Western Asia,4344.9
+TUR.15_1,TUR,Turkey,Bayburt,Province,Western Asia,3390.9
+TUR.16_1,TUR,Turkey,Bilecik,Province,Western Asia,4645.5
+TUR.17_1,TUR,Turkey,Bingöl,Province,Western Asia,8134.1
+TUR.18_1,TUR,Turkey,Bitlis,Province,Western Asia,8670.2
+TUR.19_1,TUR,Turkey,Bolu,Province,Western Asia,8269.2
+TUR.1_1,TUR,Turkey,Adana,Province,Western Asia,15835.6
+TUR.20_1,TUR,Turkey,Burdur,Province,Western Asia,7255.9
+TUR.21_1,TUR,Turkey,Bursa,Province,Western Asia,10863.5
+TUR.22_1,TUR,Turkey,Çanakkale,Province,Western Asia,9779.4
+TUR.23_1,TUR,Turkey,Çankiri,Province,Western Asia,7921.5
+TUR.24_1,TUR,Turkey,Çorum,Province,Western Asia,12313.4
+TUR.25_1,TUR,Turkey,Denizli,Province,Western Asia,10894.2
+TUR.26_1,TUR,Turkey,Diyarbakir,Province,Western Asia,14810.2
+TUR.27_1,TUR,Turkey,Düzce,Province,Western Asia,2387.8
+TUR.28_1,TUR,Turkey,Edirne,Province,Western Asia,6128.2
+TUR.29_1,TUR,Turkey,Elazığ,Province,Western Asia,9285.9
+TUR.2_1,TUR,Turkey,Adiyaman,Province,Western Asia,7419.0
+TUR.30_1,TUR,Turkey,Erzincan,Province,Western Asia,11542.3
+TUR.31_1,TUR,Turkey,Erzurum,Province,Western Asia,24351.9
+TUR.32_1,TUR,Turkey,Eskisehir,Province,Western Asia,14058.0
+TUR.33_1,TUR,Turkey,Gaziantep,Province,Western Asia,7152.3
+TUR.34_1,TUR,Turkey,Giresun,Province,Western Asia,6808.6
+TUR.35_1,TUR,Turkey,Gümüshane,Province,Western Asia,6613.6
+TUR.36_1,TUR,Turkey,Hakkari,Province,Western Asia,6187.6
+TUR.37_1,TUR,Turkey,Hatay,Province,Western Asia,5785.6
+TUR.38_1,TUR,Turkey,Iğdır,Province,Western Asia,3930.0
+TUR.39_1,TUR,Turkey,Isparta,Province,Western Asia,8877.9
+TUR.3_1,TUR,Turkey,Afyon,Province,Western Asia,14748.5
+TUR.40_1,TUR,Turkey,Istanbul,Province,Western Asia,4756.5
+TUR.41_1,TUR,Turkey,Izmir,Province,Western Asia,12366.4
+TUR.42_1,TUR,Turkey,K.Maras,Province,Western Asia,14552.5
+TUR.43_1,TUR,Turkey,Karabük,Province,Western Asia,3316.4
+TUR.44_1,TUR,Turkey,Karaman,Province,Western Asia,8339.3
+TUR.45_1,TUR,Turkey,Kars,Province,Western Asia,10351.1
+TUR.46_1,TUR,Turkey,Kastamonu,Province,Western Asia,13468.1
+TUR.47_1,TUR,Turkey,Kayseri,Province,Western Asia,15941.6
+TUR.48_1,TUR,Turkey,Kilis,Province,Western Asia,1423.7
+TUR.49_1,TUR,Turkey,Kinkkale,Province,Western Asia,4674.4
+TUR.4_1,TUR,Turkey,Agri,Province,Western Asia,10298.5
+TUR.50_1,TUR,Turkey,Kirklareli,Province,Western Asia,6359.4
+TUR.51_1,TUR,Turkey,Kirsehir,Province,Western Asia,6782.8
+TUR.52_1,TUR,Turkey,Kocaeli,Province,Western Asia,4041.1
+TUR.53_1,TUR,Turkey,Konya,Province,Western Asia,40921.9
+TUR.54_1,TUR,Turkey,Kütahya,Province,Western Asia,12202.3
+TUR.55_1,TUR,Turkey,Malatya,Province,Western Asia,11497.8
+TUR.56_1,TUR,Turkey,Manisa,Province,Western Asia,13220.2
+TUR.57_1,TUR,Turkey,Mardin,Province,Western Asia,10540.6
+TUR.58_1,TUR,Turkey,Mersin,Province,Western Asia,15221.0
+TUR.59_1,TUR,Turkey,Mugla,Province,Western Asia,12831.4
+TUR.5_1,TUR,Turkey,Aksaray,Province,Western Asia,7629.9
+TUR.60_1,TUR,Turkey,Mus,Province,Western Asia,8128.6
+TUR.61_1,TUR,Turkey,Nevsehir,Province,Western Asia,5138.8
+TUR.62_1,TUR,Turkey,Nigde,Province,Western Asia,7189.6
+TUR.63_1,TUR,Turkey,Ordu,Province,Western Asia,5913.1
+TUR.64_1,TUR,Turkey,Osmaniye,Province,Western Asia,3073.0
+TUR.65_1,TUR,Turkey,Rize,Province,Western Asia,3641.7
+TUR.66_1,TUR,Turkey,Sakarya,Province,Western Asia,4700.3
+TUR.67_1,TUR,Turkey,Samsun,Province,Western Asia,9522.2
+TUR.68_1,TUR,Turkey,Sanliurfa,Province,Western Asia,19623.3
+TUR.69_1,TUR,Turkey,Siirt,Province,Western Asia,4982.2
+TUR.6_1,TUR,Turkey,Amasya,Province,Western Asia,6212.2
+TUR.70_1,TUR,Turkey,Sinop,Province,Western Asia,6009.8
+TUR.71_1,TUR,Turkey,Sirnak,Province,Western Asia,7882.3
+TUR.72_1,TUR,Turkey,Sivas,Province,Western Asia,28349.1
+TUR.73_1,TUR,Turkey,Tekirdag,Province,Western Asia,6608.5
+TUR.74_1,TUR,Turkey,Tokat,Province,Western Asia,9837.5
+TUR.75_1,TUR,Turkey,Trabzon,Province,Western Asia,5031.7
+TUR.76_1,TUR,Turkey,Tunceli,Province,Western Asia,8048.1
+TUR.77_1,TUR,Turkey,Usak,Province,Western Asia,4917.5
+TUR.78_1,TUR,Turkey,Van,Province,Western Asia,21107.1
+TUR.79_1,TUR,Turkey,Yalova,Province,Western Asia,650.3
+TUR.7_1,TUR,Turkey,Ankara,Province,Western Asia,25751.0
+TUR.80_1,TUR,Turkey,Yozgat,Province,Western Asia,13155.4
+TUR.81_1,TUR,Turkey,Zinguldak,Province,Western Asia,3061.0
+TUR.8_1,TUR,Turkey,Antalya,Province,Western Asia,21165.7
+TUR.9_1,TUR,Turkey,Ardahan,Province,Western Asia,4786.5
+TUV.1_1,TUV,Tuvalu,Funafuti,TownCouncil,Polynesia,7.1
+TUV.2_1,TUV,Tuvalu,Nanumanga,IslandCouncil,Polynesia,3.4
+TUV.3_1,TUV,Tuvalu,Nanumea,IslandCouncil,Polynesia,4.1
+TUV.4_1,TUV,Tuvalu,Niulakita,IslandCouncil,Polynesia,0.4
+TUV.5_1,TUV,Tuvalu,Niutao,IslandCouncil,Polynesia,2.7
+TUV.6_1,TUV,Tuvalu,Nui,IslandCouncil,Polynesia,5.5
+TUV.7_1,TUV,Tuvalu,Nukufetau,IslandCouncil,Polynesia,6.6
+TUV.8_1,TUV,Tuvalu,Nukulaelae,IslandCouncil,Polynesia,3.7
+TUV.9_1,TUV,Tuvalu,Vaitupu,IslandCouncil,Polynesia,6.5
+TZA.10_1,TZA,Tanzania,Lindi,Region,Eastern Africa,65105.1
+TZA.11_1,TZA,Tanzania,Manyara,Region,Eastern Africa,46703.9
+TZA.12_1,TZA,Tanzania,Mara,Region,Eastern Africa,30608.6
+TZA.13_1,TZA,Tanzania,Mbeya,Region,Eastern Africa,37904.7
+TZA.14_1,TZA,Tanzania,Morogoro,Region,Eastern Africa,70127.6
+TZA.15_1,TZA,Tanzania,Mtwara,Region,Eastern Africa,17960.8
+TZA.16_1,TZA,Tanzania,Mwanza,Region,Eastern Africa,24700.3
+TZA.17_1,TZA,Tanzania,Njombe,Region,Eastern Africa,21320.6
+TZA.18_1,TZA,Tanzania,KaskaziniPemba,Region,Eastern Africa,560.8
+TZA.19_1,TZA,Tanzania,KusiniPemba,Region,Eastern Africa,494.7
+TZA.1_1,TZA,Tanzania,Arusha,Region,Eastern Africa,38063.6
+TZA.20_1,TZA,Tanzania,Pwani,Region,Eastern Africa,32584.2
+TZA.21_1,TZA,Tanzania,Rukwa,Region,Eastern Africa,28104.9
+TZA.22_1,TZA,Tanzania,Ruvuma,Region,Eastern Africa,63076.1
+TZA.23_1,TZA,Tanzania,Shinyanga,Region,Eastern Africa,16424.0
+TZA.24_1,TZA,Tanzania,Simiyu,Region,Eastern Africa,25059.1
+TZA.25_1,TZA,Tanzania,Singida,Region,Eastern Africa,48550.9
+TZA.26_1,TZA,Tanzania,Tabora,Region,Eastern Africa,75490.9
+TZA.27_1,TZA,Tanzania,Tanga,Region,Eastern Africa,28031.0
+TZA.28_1,TZA,Tanzania,KaskaziniUnguja,Region,Eastern Africa,475.2
+TZA.29_1,TZA,Tanzania,KusiniUnguja,Region,Eastern Africa,898.4
+TZA.2_1,TZA,Tanzania,DaresSalaam,Region,Eastern Africa,1638.8
+TZA.30_1,TZA,Tanzania,MjiniMagharibi,Region,Eastern Africa,246.3
+TZA.31_1,TZA,Tanzania,Songwe,Region,Eastern Africa,23771.7
+TZA.3_1,TZA,Tanzania,Dodoma,Region,Eastern Africa,41862.4
+TZA.4_1,TZA,Tanzania,Geita,Region,Eastern Africa,20988.5
+TZA.5_1,TZA,Tanzania,Iringa,Region,Eastern Africa,36483.0
+TZA.6_1,TZA,Tanzania,Kagera,Region,Eastern Africa,36638.1
+TZA.7_1,TZA,Tanzania,Katavi,Region,Eastern Africa,49091.9
+TZA.8_1,TZA,Tanzania,Kigoma,Region,Eastern Africa,44356.8
+TZA.9_1,TZA,Tanzania,Kilimanjaro,Region,Eastern Africa,13202.0
+UGA.10_1,UGA,Uganda,Iganga,District,Eastern Africa,2483.2
+UGA.11_1,UGA,Uganda,Jinja,District,Eastern Africa,696.1
+UGA.12_1,UGA,Uganda,Kabale,District,Eastern Africa,1751.4
+UGA.13_1,UGA,Uganda,Kabarole,District,Eastern Africa,1831.4
+UGA.14_1,UGA,Uganda,Kaberamaido,District,Eastern Africa,1625.6
+UGA.15_1,UGA,Uganda,Kalangala,District,Eastern Africa,495.6
+UGA.16_1,UGA,Uganda,Kampala,District,Eastern Africa,181.2
+UGA.17_1,UGA,Uganda,Kamuli,District,Eastern Africa,4307.4
+UGA.18_1,UGA,Uganda,Kamwenge,District,Eastern Africa,2391.7
+UGA.19_1,UGA,Uganda,Kanungu,District,Eastern Africa,1305.1
+UGA.1_1,UGA,Uganda,Adjumani,District,Eastern Africa,3087.8
+UGA.20_1,UGA,Uganda,Kapchorwa,District,Eastern Africa,1730.9
+UGA.21_1,UGA,Uganda,Kasese,District,Eastern Africa,3339.0
+UGA.22_1,UGA,Uganda,Katakwi,District,Eastern Africa,5019.7
+UGA.23_1,UGA,Uganda,Kayunga,District,Eastern Africa,1705.4
+UGA.24_1,UGA,Uganda,Kibale,District,Eastern Africa,4238.6
+UGA.25_1,UGA,Uganda,Kiboga,District,Eastern Africa,4043.2
+UGA.26_1,UGA,Uganda,Kisoro,District,Eastern Africa,718.0
+UGA.27_1,UGA,Uganda,Kitgum,District,Eastern Africa,9556.6
+UGA.28_1,UGA,Uganda,Kotido,District,Eastern Africa,13277.2
+UGA.29_1,UGA,Uganda,Kumi,District,Eastern Africa,2847.7
+UGA.2_1,UGA,Uganda,Apac,District,Eastern Africa,6520.1
+UGA.30_1,UGA,Uganda,Kyenjojo,District,Eastern Africa,4097.3
+UGA.31_1,UGA,Uganda,LakeAlbert,Waterbody,Eastern Africa,3190.7
+UGA.32_1,UGA,Uganda,LakeVictoria,Waterbody,Eastern Africa,28393.7
+UGA.33_1,UGA,Uganda,Lira,District,Eastern Africa,7236.8
+UGA.34_1,UGA,Uganda,Luwero,District,Eastern Africa,5695.7
+UGA.35_1,UGA,Uganda,Masaka,District,Eastern Africa,3618.9
+UGA.36_1,UGA,Uganda,Masindi,District,Eastern Africa,8692.7
+UGA.37_1,UGA,Uganda,Mayuge,District,Eastern Africa,1124.4
+UGA.38_1,UGA,Uganda,Mbale,District,Eastern Africa,1370.8
+UGA.39_1,UGA,Uganda,Mbarara,District,Eastern Africa,10028.6
+UGA.3_1,UGA,Uganda,Arua,District,Eastern Africa,5568.6
+UGA.40_1,UGA,Uganda,Moroto,District,Eastern Africa,8512.5
+UGA.41_1,UGA,Uganda,Moyo,District,Eastern Africa,1856.8
+UGA.42_1,UGA,Uganda,Mpigi,District,Eastern Africa,3298.4
+UGA.43_1,UGA,Uganda,Mubende,District,Eastern Africa,6200.1
+UGA.44_1,UGA,Uganda,Mukono,District,Eastern Africa,3411.5
+UGA.45_1,UGA,Uganda,Nakapiripirit,District,Eastern Africa,5819.5
+UGA.46_1,UGA,Uganda,Nakasongola,District,Eastern Africa,3512.2
+UGA.47_1,UGA,Uganda,Nebbi,District,Eastern Africa,2890.5
+UGA.48_1,UGA,Uganda,Ntungamo,District,Eastern Africa,2053.9
+UGA.49_1,UGA,Uganda,Pader,District,Eastern Africa,6858.9
+UGA.4_1,UGA,Uganda,Bugiri,District,Eastern Africa,1612.7
+UGA.50_1,UGA,Uganda,Pallisa,District,Eastern Africa,1995.5
+UGA.51_1,UGA,Uganda,Rakai,District,Eastern Africa,4243.1
+UGA.52_1,UGA,Uganda,Rukungiri,District,Eastern Africa,1520.1
+UGA.53_1,UGA,Uganda,Sembabule,District,Eastern Africa,2318.9
+UGA.54_1,UGA,Uganda,Sironko,District,Eastern Africa,1099.2
+UGA.55_1,UGA,Uganda,Soroti,District,Eastern Africa,3378.6
+UGA.56_1,UGA,Uganda,Tororo,District,Eastern Africa,1850.3
+UGA.57_1,UGA,Uganda,Wakiso,District,Eastern Africa,1930.9
+UGA.58_1,UGA,Uganda,Yumbe,District,Eastern Africa,2321.7
+UGA.5_1,UGA,Uganda,Bundibugyo,District,Eastern Africa,2046.8
+UGA.6_1,UGA,Uganda,Bushenyi,District,Eastern Africa,4298.2
+UGA.7_1,UGA,Uganda,Busia,District,Eastern Africa,736.2
+UGA.8_1,UGA,Uganda,Gulu,District,Eastern Africa,11852.1
+UGA.9_1,UGA,Uganda,Hoima,District,Eastern Africa,3638.4
+UMI.1_1,UMI,UnitedStatesMinorOutlyingIsl,Baker,Island,Micronesia,1.6
+UMI.2_1,UMI,UnitedStatesMinorOutlyingIsl,Howland,Island,Micronesia,1.9
+UMI.3_1,UMI,UnitedStatesMinorOutlyingIsl,Jarvisisland,Island,Micronesia,4.8
+UMI.4_1,UMI,UnitedStatesMinorOutlyingIsl,Johnston,Atoll,Micronesia,5.2
+UMI.5_1,UMI,UnitedStatesMinorOutlyingIsl,KingmanReef,Reef,Micronesia,3.1
+UMI.6_1,UMI,UnitedStatesMinorOutlyingIsl,Midway,Island,Micronesia,12.0
+UMI.7_1,UMI,UnitedStatesMinorOutlyingIsl,Navassa,Island,Micronesia,5.3
+UMI.8_1,UMI,UnitedStatesMinorOutlyingIsl,Palmyra,Atoll,Micronesia,4.2
+UMI.9_1,UMI,UnitedStatesMinorOutlyingIsl,Wake,Island,Micronesia,8.5
+URY.10_2,URY,Uruguay,Montevideo,Department,South America,531.4
+URY.11_2,URY,Uruguay,Paysandú,Department,South America,14099.3
+URY.12_2,URY,Uruguay,RíoNegro,Department,South America,9699.8
+URY.13_2,URY,Uruguay,Rivera,Department,South America,9329.3
+URY.14_2,URY,Uruguay,Rocha,Department,South America,10936.8
+URY.15_2,URY,Uruguay,Salto,Department,South America,14182.5
+URY.16_2,URY,Uruguay,SanJosé,Department,South America,5016.0
+URY.17_2,URY,Uruguay,Soriano,Department,South America,9025.7
+URY.18_2,URY,Uruguay,Tacuarembó,Department,South America,15980.8
+URY.19_2,URY,Uruguay,TreintayTres,Department,South America,9716.9
+URY.1_2,URY,Uruguay,Artigas,Department,South America,12019.2
+URY.2_2,URY,Uruguay,Canelones,Department,South America,4525.0
+URY.3_2,URY,Uruguay,CerroLargo,Department,South America,13803.3
+URY.4_2,URY,Uruguay,Colonia,Department,South America,6118.3
+URY.5_2,URY,Uruguay,Durazno,Department,South America,12232.9
+URY.6_2,URY,Uruguay,Flores,Department,South America,5139.7
+URY.7_2,URY,Uruguay,Florida,Department,South America,10412.3
+URY.8_2,URY,Uruguay,Lavalleja,Department,South America,10029.3
+URY.9_2,URY,Uruguay,Maldonado,Department,South America,4807.2
+UZB.10_1,UZB,Uzbekistan,Samarqand',Region,Central Asia,14338.9
+UZB.11_1,UZB,Uzbekistan,Sirdaryo,Region,Central Asia,4898.7
+UZB.12_1,UZB,Uzbekistan,Surxondaryo,Region,Central Asia,19896.9
+UZB.13_1,UZB,Uzbekistan,ToshkentShahri,City,Central Asia,328.2
+UZB.14_1,UZB,Uzbekistan,Toshkent,Region,Central Asia,15113.2
+UZB.1_1,UZB,Uzbekistan,Andijon,Region,Central Asia,4495.3
+UZB.2_1,UZB,Uzbekistan,Buxoro,Region,Central Asia,40428.2
+UZB.3_1,UZB,Uzbekistan,Farg'ona,Region,Central Asia,6701.2
+UZB.4_1,UZB,Uzbekistan,Jizzax,Region,Central Asia,21373.4
+UZB.5_1,UZB,Uzbekistan,Qaraqalpaqstan,AutononousRegion,Central Asia,164830.4
+UZB.6_1,UZB,Uzbekistan,Qashqadaryo,Region,Central Asia,28125.1
+UZB.7_1,UZB,Uzbekistan,Xorazm,Region,Central Asia,7292.1
+UZB.8_1,UZB,Uzbekistan,Namangan,Region,Central Asia,7548.4
+UZB.9_1,UZB,Uzbekistan,Navoiy,Region,Central Asia,112173.6
+VCT.1_1,VCT,SaintVincentandtheGrenadines,Charlotte,Parish,Caribbean,141.3
+VCT.2_1,VCT,SaintVincentandtheGrenadines,Grenadines,Parish,Caribbean,48.8
+VCT.3_1,VCT,SaintVincentandtheGrenadines,SaintAndrew,Parish,Caribbean,31.4
+VCT.4_1,VCT,SaintVincentandtheGrenadines,SaintDavid,Parish,Caribbean,80.6
+VCT.5_1,VCT,SaintVincentandtheGrenadines,SaintGeorge,Parish,Caribbean,51.9
+VCT.6_1,VCT,SaintVincentandtheGrenadines,SaintPatrick,Parish,Caribbean,43.6
+VEN.10_1,VEN,Venezuela,DependenciasFederales,State,South America,341.0
+VEN.11_1,VEN,Venezuela,DistritoCapital,State,South America,326.9
+VEN.12_1,VEN,Venezuela,Falcón,State,South America,27106.3
+VEN.13_1,VEN,Venezuela,Guárico,State,South America,67253.1
+VEN.14_1,VEN,Venezuela,Lara,State,South America,19046.0
+VEN.15_1,VEN,Venezuela,Mérida,State,South America,12831.5
+VEN.16_1,VEN,Venezuela,Miranda,State,South America,8568.9
+VEN.17_1,VEN,Venezuela,Monagas,State,South America,29065.5
+VEN.18_1,VEN,Venezuela,NuevaEsparta,State,South America,1032.3
+VEN.19_1,VEN,Venezuela,Portuguesa,State,South America,19496.9
+VEN.1_1,VEN,Venezuela,Amazonas,State,South America,182830.0
+VEN.20_1,VEN,Venezuela,Sucre,State,South America,10881.4
+VEN.21_1,VEN,Venezuela,Táchira,State,South America,10780.6
+VEN.22_1,VEN,Venezuela,Trujillo,State,South America,8077.2
+VEN.23_1,VEN,Venezuela,Vargas,State,South America,996.0
+VEN.24_1,VEN,Venezuela,Yaracuy,State,South America,6219.7
+VEN.25_1,VEN,Venezuela,Zulia,State,South America,43912.2
+VEN.2_1,VEN,Venezuela,Anzoátegui,State,South America,47719.0
+VEN.3_1,VEN,Venezuela,Apure,State,South America,73523.1
+VEN.4_1,VEN,Venezuela,Aragua,State,South America,6933.0
+VEN.5_1,VEN,Venezuela,Barinas,State,South America,36201.8
+VEN.6_1,VEN,Venezuela,Bolívar,State,South America,239940.0
+VEN.7_1,VEN,Venezuela,Carabobo,State,South America,4782.1
+VEN.8_1,VEN,Venezuela,Cojedes,State,South America,14479.7
+VEN.9_1,VEN,Venezuela,DeltaAmacuro,State,South America,40021.2
+VGB.1_1,VGB,BritishVirginIslands,Anegada,District,Caribbean,40.2
+VGB.2_1,VGB,BritishVirginIslands,JostVanDyke,District,Caribbean,11.3
+VGB.3_1,VGB,BritishVirginIslands,OtherIslands,District,Caribbean,13.7
+VGB.4_1,VGB,BritishVirginIslands,Tortola,District,Caribbean,75.7
+VGB.5_1,VGB,BritishVirginIslands,VirginGorda,District,Caribbean,27.4
+VIR.1_1,VIR,"VirginIslands,U.S.",SaintCroix,District,Caribbean,220.8
+VIR.2_1,VIR,"VirginIslands,U.S.",SaintJohn,District,Caribbean,52.6
+VIR.3_1,VIR,"VirginIslands,U.S.",SaintThomas,District,Caribbean,88.6
+VNM.10_1,VNM,Vietnam,BìnhPhước,Province,South-eastern Asia,6867.1
+VNM.11_1,VNM,Vietnam,BìnhThuận,Province,South-eastern Asia,7944.3
+VNM.12_1,VNM,Vietnam,CầnThơ,City,South-eastern Asia,1439.2
+VNM.13_1,VNM,Vietnam,CàMau,Province,South-eastern Asia,5167.5
+VNM.14_1,VNM,Vietnam,CaoBằng,Province,South-eastern Asia,6696.9
+VNM.15_1,VNM,Vietnam,ĐắkLắk,Province,South-eastern Asia,13026.1
+VNM.16_1,VNM,Vietnam,ĐắkNông,Province,South-eastern Asia,6510.0
+VNM.17_1,VNM,Vietnam,ĐồngNai,Province,South-eastern Asia,5862.2
+VNM.18_1,VNM,Vietnam,ĐồngTháp,Province,South-eastern Asia,3388.7
+VNM.19_1,VNM,Vietnam,ĐàNẵng,City,South-eastern Asia,982.5
+VNM.1_1,VNM,Vietnam,AnGiang,Province,South-eastern Asia,3525.3
+VNM.20_1,VNM,Vietnam,ĐiệnBiên,Province,South-eastern Asia,9502.4
+VNM.21_1,VNM,Vietnam,GiaLai,Province,South-eastern Asia,15517.3
+VNM.22_1,VNM,Vietnam,HảiDương,Province,South-eastern Asia,1670.1
+VNM.23_1,VNM,Vietnam,HảiPhòng,City,South-eastern Asia,1399.5
+VNM.24_1,VNM,Vietnam,HậuGiang,Province,South-eastern Asia,1622.7
+VNM.25_1,VNM,Vietnam,HồChíMinh,City,South-eastern Asia,2109.0
+VNM.26_1,VNM,Vietnam,HàGiang,Province,South-eastern Asia,7920.2
+VNM.27_1,VNM,Vietnam,HàNội,City,South-eastern Asia,3356.9
+VNM.28_1,VNM,Vietnam,HàNam,Province,South-eastern Asia,862.4
+VNM.29_1,VNM,Vietnam,HàTĩnh,Province,South-eastern Asia,5984.1
+VNM.2_1,VNM,Vietnam,BạcLiêu,Province,South-eastern Asia,2479.1
+VNM.30_1,VNM,Vietnam,HoàBình,Province,South-eastern Asia,4578.8
+VNM.31_1,VNM,Vietnam,HưngYên,Province,South-eastern Asia,926.6
+VNM.32_1,VNM,Vietnam,KhánhHòa,Province,South-eastern Asia,4840.2
+VNM.33_1,VNM,Vietnam,KiênGiang,Province,South-eastern Asia,6287.0
+VNM.34_1,VNM,Vietnam,KonTum,Province,South-eastern Asia,9649.3
+VNM.35_1,VNM,Vietnam,LạngSơn,Province,South-eastern Asia,8303.5
+VNM.36_1,VNM,Vietnam,LaiChâu,Province,South-eastern Asia,9063.0
+VNM.37_1,VNM,Vietnam,LâmĐồng,Province,South-eastern Asia,9785.7
+VNM.38_1,VNM,Vietnam,LàoCai,Province,South-eastern Asia,6359.4
+VNM.39_1,VNM,Vietnam,LongAn,Province,South-eastern Asia,4490.1
+VNM.3_1,VNM,Vietnam,BắcGiang,Province,South-eastern Asia,3893.3
+VNM.40_1,VNM,Vietnam,NamĐịnh,Province,South-eastern Asia,1587.1
+VNM.41_1,VNM,Vietnam,NghệAn,Province,South-eastern Asia,16475.1
+VNM.42_1,VNM,Vietnam,NinhBình,Province,South-eastern Asia,1344.0
+VNM.43_1,VNM,Vietnam,NinhThuận,Province,South-eastern Asia,3360.8
+VNM.44_1,VNM,Vietnam,PhúThọ,Province,South-eastern Asia,3537.3
+VNM.45_1,VNM,Vietnam,PhúYên,Province,South-eastern Asia,5030.9
+VNM.46_1,VNM,Vietnam,QuảngBình,Province,South-eastern Asia,7979.1
+VNM.47_1,VNM,Vietnam,QuảngNam,Province,South-eastern Asia,10573.2
+VNM.48_1,VNM,Vietnam,QuảngNgãi,Province,South-eastern Asia,5163.9
+VNM.49_1,VNM,Vietnam,QuảngNinh,Province,South-eastern Asia,5986.9
+VNM.4_1,VNM,Vietnam,BắcKạn,Province,South-eastern Asia,4861.8
+VNM.50_1,VNM,Vietnam,QuảngTrị,Province,South-eastern Asia,4613.5
+VNM.51_1,VNM,Vietnam,SócTrăng,Province,South-eastern Asia,3282.3
+VNM.52_1,VNM,Vietnam,SơnLa,Province,South-eastern Asia,14114.6
+VNM.53_1,VNM,Vietnam,TâyNinh,Province,South-eastern Asia,4034.9
+VNM.54_1,VNM,Vietnam,ThừaThiênHuế,Province,South-eastern Asia,5024.1
+VNM.55_1,VNM,Vietnam,TháiBình,Province,South-eastern Asia,1612.1
+VNM.56_1,VNM,Vietnam,TháiNguyên,Province,South-eastern Asia,3522.6
+VNM.57_1,VNM,Vietnam,ThanhHóa,Province,South-eastern Asia,11105.5
+VNM.58_1,VNM,Vietnam,TiềnGiang,Province,South-eastern Asia,2405.4
+VNM.59_1,VNM,Vietnam,TràVinh,Province,South-eastern Asia,2324.3
+VNM.5_1,VNM,Vietnam,BắcNinh,Province,South-eastern Asia,821.2
+VNM.60_1,VNM,Vietnam,TuyênQuang,Province,South-eastern Asia,5867.0
+VNM.61_1,VNM,Vietnam,VĩnhLong,Province,South-eastern Asia,1524.7
+VNM.62_1,VNM,Vietnam,VĩnhPhúc,Province,South-eastern Asia,1230.6
+VNM.63_1,VNM,Vietnam,YênBái,Province,South-eastern Asia,6887.5
+VNM.6_1,VNM,Vietnam,BếnTre,Province,South-eastern Asia,2339.5
+VNM.7_1,VNM,Vietnam,BàRịa-VũngTàu,Province,South-eastern Asia,1906.1
+VNM.8_1,VNM,Vietnam,BìnhĐịnh,Province,South-eastern Asia,6065.7
+VNM.9_1,VNM,Vietnam,BìnhDương,Province,South-eastern Asia,2692.6
+VUT.1_1,VUT,Vanuatu,Malampa,Province,Melanesia,2792.0
+VUT.2_1,VUT,Vanuatu,Penama,Province,Melanesia,1212.3
+VUT.3_1,VUT,Vanuatu,Sanma,Province,Melanesia,4255.0
+VUT.4_1,VUT,Vanuatu,Shefa,Province,Melanesia,1513.9
+VUT.5_1,VUT,Vanuatu,Tafea,Province,Melanesia,1657.0
+VUT.6_1,VUT,Vanuatu,Torba,Province,Melanesia,883.4
+WLF.1_1,WLF,WallisandFutuna,Alo,Kingdom,Polynesia,50.8
+WLF.2_1,WLF,WallisandFutuna,Singave,Kingdom,Polynesia,22.9
+WLF.3_1,WLF,WallisandFutuna,Uvéa,Kingdom,Polynesia,81.8
+WSM.10_1,WSM,Samoa,Va'a-o-Fonoti,District,Polynesia,31.9
+WSM.11_1,WSM,Samoa,Vaisigano,District,Polynesia,233.7
+WSM.1_1,WSM,Samoa,A'ana,District,Polynesia,193.2
+WSM.2_1,WSM,Samoa,Aiga-i-le-Tai,District,Polynesia,28.2
+WSM.3_1,WSM,Samoa,Atua,District,Polynesia,431.9
+WSM.4_1,WSM,Samoa,Fa'asaleleaga,District,Polynesia,255.1
+WSM.5_1,WSM,Samoa,Gaga'emauga,District,Polynesia,224.1
+WSM.6_1,WSM,Samoa,Gagaifomauga,District,Polynesia,322.9
+WSM.7_1,WSM,Samoa,Palauli,District,Polynesia,525.9
+WSM.8_1,WSM,Samoa,Satupa'itea,District,Polynesia,165.9
+WSM.9_1,WSM,Samoa,Tuamasaga,District,Polynesia,441.0
+YEM.10_1,YEM,Yemen,Amran,Governorate,Western Asia,7902.7
+YEM.11_1,YEM,Yemen,Dhamar,Governorate,Western Asia,7588.4
+YEM.12_1,YEM,Yemen,Hadramawt,Governorate,Western Asia,166438.2
+YEM.13_1,YEM,Yemen,Hajjah,Governorate,Western Asia,8209.8
+YEM.14_1,YEM,Yemen,Ibb,Governorate,Western Asia,5346.7
+YEM.15_1,YEM,Yemen,Lahij,Governorate,Western Asia,12642.8
+YEM.16_1,YEM,Yemen,Ma'rib,Governorate,Western Asia,17491.7
+YEM.17_1,YEM,Yemen,Raymah,Governorate,Western Asia,1895.0
+YEM.18_1,YEM,Yemen,Sa`dah,Governorate,Western Asia,12378.1
+YEM.19_1,YEM,Yemen,San`a',City,Western Asia,11914.7
+YEM.1_1,YEM,Yemen,`Adan,Governorate,Western Asia,726.1
+YEM.20_1,YEM,Yemen,Shabwah,Governorate,Western Asia,38813.0
+YEM.21_1,YEM,Yemen,Ta`izz,Governorate,Western Asia,10001.3
+YEM.2_1,YEM,Yemen,Abyan,Governorate,Western Asia,16308.3
+YEM.3_1,YEM,Yemen,AlBayda',Governorate,Western Asia,9283.3
+YEM.4_1,YEM,Yemen,AlDali',Governorate,Western Asia,3999.1
+YEM.5_1,YEM,Yemen,AlHudaydah,Governorate,Western Asia,13313.9
+YEM.6_1,YEM,Yemen,AlJawf,Governorate,Western Asia,39526.3
+YEM.7_1,YEM,Yemen,AlMahrah,Governorate,Western Asia,65663.4
+YEM.8_1,YEM,Yemen,AlMahwit,Governorate,Western Asia,2328.1
+YEM.9_1,YEM,Yemen,AmanatAlAsimah,Governorate,Western Asia,390.2
+ZAF.1_1,ZAF,SouthAfrica,EasternCape,Province,Southern Africa,168904.5
+ZAF.2_1,ZAF,SouthAfrica,FreeState,Province,Southern Africa,129829.4
+ZAF.3_1,ZAF,SouthAfrica,Gauteng,Province,Southern Africa,18178.3
+ZAF.4_1,ZAF,SouthAfrica,KwaZulu-Natal,Province,Southern Africa,93283.5
+ZAF.5_1,ZAF,SouthAfrica,Limpopo,Province,Southern Africa,125751.9
+ZAF.6_1,ZAF,SouthAfrica,Mpumalanga,Province,Southern Africa,76491.7
+ZAF.7_1,ZAF,SouthAfrica,NorthWest,Province,Southern Africa,104883.5
+ZAF.8_1,ZAF,SouthAfrica,NorthernCape,Province,Southern Africa,372906.4
+ZAF.9_1,ZAF,SouthAfrica,WesternCape,Province,Southern Africa,129472.9
+ZMB.10_1,ZMB,Zambia,Western,Province,Eastern Africa,127626.5
+ZMB.1_1,ZMB,Zambia,Central,Province,Eastern Africa,109070.2
+ZMB.2_1,ZMB,Zambia,Copperbelt,Province,Eastern Africa,31055.7
+ZMB.3_1,ZMB,Zambia,Eastern,Province,Eastern Africa,50927.1
+ZMB.4_1,ZMB,Zambia,Luapula,Province,Eastern Africa,49885.8
+ZMB.5_1,ZMB,Zambia,Lusaka,Province,Eastern Africa,25431.7
+ZMB.6_1,ZMB,Zambia,Muchinga,Province,Eastern Africa,86956.7
+ZMB.7_1,ZMB,Zambia,North-Western,Province,Eastern Africa,125125.5
+ZMB.8_1,ZMB,Zambia,Northern,Province,Eastern Africa,77541.3
+ZMB.9_1,ZMB,Zambia,Southern,Province,Eastern Africa,67551.6
+ZWE.10_1,ZWE,Zimbabwe,Midlands,Province,Eastern Africa,49359.3
+ZWE.1_1,ZWE,Zimbabwe,Bulawayo,City,Eastern Africa,545.5
+ZWE.2_1,ZWE,Zimbabwe,Harare,City,Eastern Africa,940.3
+ZWE.3_1,ZWE,Zimbabwe,Manicaland,Province,Eastern Africa,35632.4
+ZWE.4_1,ZWE,Zimbabwe,MashonalandCentral,Province,Eastern Africa,28100.0
+ZWE.5_1,ZWE,Zimbabwe,MashonalandEast,Province,Eastern Africa,32152.6
+ZWE.6_1,ZWE,Zimbabwe,MashonalandWest,Province,Eastern Africa,57343.1
+ZWE.7_1,ZWE,Zimbabwe,Masvingo,Province,Eastern Africa,56420.7
+ZWE.8_1,ZWE,Zimbabwe,MatabelelandNorth,Province,Eastern Africa,75444.1
+ZWE.9_1,ZWE,Zimbabwe,MatabelelandSouth,Province,Eastern Africa,54100.9

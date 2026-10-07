@@ -1,0 +1,23 @@
+livetype_desc,source_rows,mapping_status,drink_industrial_L_d,drink_grazing_L_d,drink_mixed_L_d,service_industrial_L_d,service_grazing_L_d,service_mixed_L_d,feed_mixing_L_per_kg_concentrate
+Cattle - Cows (local),"Dairy cattle / Milking cows, 3-10 yr",verified mapping,70.0,40.0,55.0,22.0,5.0,13.5,0.5
+Cattle - Cows (improved),"Dairy cattle / Milking cows, 3-10 yr",verified mapping,70.0,40.0,55.0,22.0,5.0,13.5,0.5
+Cattle - Cows (high productive),"Dairy cattle / Milking cows, 3-10 yr",verified mapping,70.0,40.0,55.0,22.0,5.0,13.5,0.5
+Cattle - Adult male,Beef cattle / Adult cows,assumed: adult beef animal used for bulls/oxen,38.0,22.0,30.0,11.0,5.0,8.0,0.5
+Cattle - Steers/heifers,"Dairy cattle / Heifers, 1-3 yr",verified mapping (range midpoint),48.0,24.0,36.0,11.0,4.0,7.5,0.5
+Cattle - Steers/heifers (improved),"Dairy cattle / Heifers, 1-3 yr",verified mapping (range midpoint),48.0,24.0,36.0,11.0,4.0,7.5,0.5
+Cattle - Calves,"Dairy cattle / Calves, 0-1 yr",verified mapping (range midpoint),14.0,11.0,12.5,0.0,0.0,0.0,0.5
+Cattle - Calves (improved),"Dairy cattle / Calves, 0-1 yr",verified mapping (range midpoint),14.0,11.0,12.5,0.0,0.0,0.0,0.5
+Buffalo - Cows,"Dairy cattle / Milking cows, 3-10 yr",assumed: no buffalo values in source; cattle used,70.0,40.0,55.0,22.0,5.0,13.5,0.5
+Buffalo - Steers/heifers,"Dairy cattle / Heifers, 1-3 yr",assumed: no buffalo values in source; cattle used,48.0,24.0,36.0,11.0,4.0,7.5,0.5
+Buffalo - Calves,"Dairy cattle / Calves, 0-1 yr",assumed: no buffalo values in source; cattle used,14.0,11.0,12.5,0.0,0.0,0.0,0.5
+Pigs - lactating/pregnant sows,Swine / Adult,verified mapping; lactating sows likely higher,14.0,8.0,11.0,50.0,25.0,37.5,0.5
+Pigs - dry sows/boars,Swine / Adult,verified mapping,14.0,8.0,11.0,50.0,25.0,37.5,0.5
+Pigs - growers,Swine / Piglet; Swine / Adult,assumed: mean of piglet and adult,7.9,4.9,6.4,27.5,12.5,20.0,0.5
+Sheep - Ewes,Sheep / Adult,verified mapping,7.6,6.0,6.8,5.0,5.0,5.0,0.5
+Sheep - Breeding Rams,Sheep / Adult,verified mapping,7.6,6.0,6.8,5.0,5.0,5.0,0.5
+Sheep - Fattening Rams,Sheep / Adult,verified mapping,7.6,6.0,6.8,5.0,5.0,5.0,0.5
+Sheep - Lambs,Sheep / 5 lbs lamb; Sheep / Adult,assumed: mean of newborn lamb and adult,3.99,3.15,3.57,3.5,2.5,3.0,0.5
+Goats - Does,Goats / Adult,verified mapping,3.8,3.5,3.65,5.0,5.0,5.0,0.5
+Goats - Breeding Bucks,Goats / Adult,verified mapping,3.8,3.5,3.65,5.0,5.0,5.0,0.5
+Goats - Fattening Bucks,Goats / Adult,verified mapping,3.8,3.5,3.65,5.0,5.0,5.0,0.5
+Goats - Kids,Goats / 5 lbs kid; Goats / Adult,assumed: mean of newborn kid and adult,2.09,1.9,2.0,2.5,2.5,2.5,0.5
