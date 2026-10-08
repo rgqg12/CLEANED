@@ -12,7 +12,7 @@ These are the parameter tables i-CLEANED hosts so users don't have to enter them
 |---|---|---|---|---|---|
 | `admin1_regions.csv` | Region list: country, name, type, area | km² | Region dropdown | GADM 4.1 | Done |
 | `climate_admin1_monthly.csv` | Monthly normals per region: P, Peff (USDA-SCS), ET0 (FAO-56 Penman-Monteith), Tmean, Tmax | mm/month, °C | Eqs. 2–4, 14; drinking water Tier 2 | WorldClim 2.1, 10′, 1970–2000 (Fick & Hijmans 2017); ET0 computed from it with FAO-56 Eq. 6 | Done; 4 tiny islands use the country mean (`fill_method`) |
-| `water_availability_admin1_monthly.csv`, `..._annual.csv` | Total water availability (surface runoff + groundwater recharge), groundwater recharge, and renewable availability as in Damerau (2024) | m³/ha | Eq. 18 (RWD) | WaterGAP 2.2e, ISIMIP3a, gswp3-w5e5 obsclim histsoc, 1990–2019 means (Müller Schmied et al. 2023) | Done; 45 small coastal or island regions filled from neighbouring cells and 15 remote islands from the country mean (`fill_method`) |
+| `water_availability_admin1_monthly.csv`, `..._annual.csv` | Total water availability (surface runoff + groundwater recharge), groundwater recharge, sustainable availability after environmental flows (Pastor et al. 2014 VMF, as in Rosa et al. 2018), and Damerau's formula for comparison | m³/ha | Eq. 18 | WaterGAP 2.2e, ISIMIP3a, gswp3-w5e5 obsclim histsoc, 1990–2019 means (Müller Schmied et al. 2023) | Done; 45 small coastal or island regions filled from neighbouring cells and 15 remote islands from the country mean (`fill_method`) |
 | `water_stress_admin1_annual.csv`, `..._monthly.csv` | Baseline water stress score (0–5) and category, area shares per category, share classed "arid and low water use" | – | Section 10.6 | WRI Aqueduct 4.0 baseline (Kuzma et al. 2023), HydroBASINS level 6, area-weighted | Done; 171 regions use the nearest basin (`fill_method`) |
 | `fao56_table11_stage_lengths.csv` | Growth-stage lengths by crop and region | days | Eq. 1 | FAO-56 Table 11 (Allen et al. 1998), parsed from the FAO online edition | Done; rows where the stages don't add up to the stated total are flagged |
 | `fao56_table12_kc.csv` | Single crop coefficients (Kc ini/mid/end), including grazing pasture | – | Eq. 1 | FAO-56 Table 12 | Done |
@@ -34,7 +34,7 @@ These are the parameter tables i-CLEANED hosts so users don't have to enter them
 ## Notes for the development team
 
 1. **Drinking water values.** The legacy `cleaned.sqlite` table `lkp_livetype.water_requirement` gives 120–160 L/day for cows. Chapagain and Hoekstra give 40–70 L/day drinking plus 5–22 L/day service water. The legacy values are probably total water intake from an undocumented source, and that column no longer exists in the current `lkp_livetype.csv` files. Recommendation: use `livestock_water_icleaned.csv` as Tier 1 drinking water.
-2. **Renewable water formula (Damerau 2024).** The formula `TotWatAvail × (0.25×0.3 + 0.5×0.45 + 0.25×0.6)` simplifies to `0.45 × TotWatAvail`. In Rosa et al. (2018) these fractions are environmental flow requirements, i.e. the share to be *reserved*, which would make sustainable availability `0.55 × TotWatAvail`. The table reproduces Damerau's formula as written; please check it against Rosa et al. (2018), Table S1.
+2. **Sustainable water availability (corrected).** Checked against Rosa et al. (2018, Section 2.3): blue water flow is multiplied by the environmental-flow fraction of Pastor et al. (2014) — 60% in low-flow, 45% intermediate, 30% high-flow months — and that amount is *subtracted*. Damerau's formula (`× 0.45`) therefore gives the reserved share, not the available share. `SustWatAvail_m3_ha` now applies the Variable Monthly Flow method per grid cell and month (low flow: monthly flow ≤ 40% of the mean; high flow: > 80%) and keeps `TotWatAvail × (1 − EFR)`. On average this is 67.5% of total runoff plus recharge. `RenWatAvail_Damerau_m3_ha` is kept for comparison only. Applying a river-flow method to local runoff plus recharge is an approximation.
 3. **Climate normals** come from WorldClim 2.1 (1970–2000), because the TerraClimate server was not reachable from the build environment. The scripts can be pointed to TerraClimate or CHIRPS later.
 4. **Mialyk data access.** The 4TU repository was under maintenance during the build (8 October 2026). Dataset 2.9 and the national table were taken from the Internet Archive copies of the 4TU files (snapshots of November 2025, identical file size). Re-run `07_crop_water_use.py` against 4TU when it is back to confirm.
 5. **Green/blue split of Tier 1.** Dataset 2.9 gives total crop water use per system only. Green irrigated = min(rainfed, irrigated); blue = the difference. This is the Mekonnen & Hoekstra (2011) definition described by Damerau (2024). Rainfed "green" includes capillary rise; `cr_share_national` shows its national share, which is below 1% for most crops. An exact split needs Mialyk dataset 2.8 (13 GB, annual, by water type).
@@ -70,5 +70,22 @@ python scripts/10_main_product_me.py   # Feedipedia datasheets saved as RAW/feed
 - Mekonnen MM, Hoekstra AY (2011) Hydrology and Earth System Sciences 15:1577–1600.
 - Mialyk O et al. (2024) Scientific Data 11:206; data: doi:10.4121/7b45bcc6-686b-404d-a910-13c87156716a.v1.
 - Müller Schmied H et al. (2023) WaterGAP v2.2e. Geoscientific Model Development Discussions.
+- Pastor AV, Ludwig F, Biemans H, Hoff H, Kabat P (2014) Accounting for environmental flow requirements in global water assessments. Hydrology and Earth System Sciences 18:5041–5059.
 - Rosa L et al. (2018) Environmental Research Letters 13:104002.
 - Smith M (1992) CROPWAT. FAO Irrigation and Drainage Paper 46.
+
+## Reference implementation (R)
+
+`R/water_footprint.R` implements the revised methodology. It runs after `cleaned::land_requirement()` and `cleaned::energy_requirement()` and replaces `cleaned::water_requirement()`:
+- Tier 1 / Tier 2 water use per hectare;
+- ME-based residue allocation;
+- feed-energy co-product allocation;
+- drinking and service water;
+- IDF FPCM;
+- sustainable-availability ratio and Aqueduct class.
+
+Every default or repair it applies is returned as a flag.
+
+- Unit tests: `R/tests/test_water_footprint.R` (13 checks, including the maize worked example of Section 5.4).
+- Study_1 comparison: `R/example_study1.R`, results in `R/STUDY1_RESULTS.md`.
+- New finding from the test: `cleaned::energy_requirement()` returns zero growth energy when `adult_weight` is 0, as for the Study_1 steers.

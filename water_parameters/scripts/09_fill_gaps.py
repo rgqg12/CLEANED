@@ -31,7 +31,7 @@ clim[["GID_1", "month", "P_mm", "Peff_mm", "ET0_mm", "Tmean_C", "Tmax_C", "fill_
 
 wa = pd.read_csv(TABLES / "water_availability_admin1_monthly.csv")
 wa.loc[wa.fill_method == "no_data", "fill_method"] = None
-vals = ["TotWatAvail_m3_ha", "GWrecharge_m3_ha", "RenWatAvail_m3_ha"]
+vals = ["TotWatAvail_m3_ha", "GWrecharge_m3_ha", "SustWatAvail_m3_ha", "RenWatAvail_Damerau_m3_ha"]
 wa = fill(wa.drop(columns="fill_method").assign(fill_method=wa.fill_method.fillna("zonal_mean").where(wa.fill_method.notna() | wa.TotWatAvail_m3_ha.notna(), None)), ["month"], vals)
 wa[["GID_1", "fill_method", "month", *vals]].to_csv(TABLES / "water_availability_admin1_monthly.csv", index=False, float_format="%.1f")
 ann = wa.groupby("GID_1")[vals].sum(min_count=1).reset_index()
