@@ -21,12 +21,13 @@ These are the parameter tables i-CLEANED hosts so users don't have to enter them
 | `irrigation_efficiency.csv` | Field application efficiency (surface 60%, sprinkler 75%, drip 90%) and conveyance efficiency | % | Eq. 15 | Brouwer et al. (1989), FAO Training Manual 4, Annex 1, Tables 7–8 | Done |
 | `crop_water_use_admin1.csv` | Crop water use for 43 crops × 2,620 regions: rainfed and irrigated totals; green rainfed, green irrigated and blue irrigated; national capillary-rise share | mm/season | Eqs. 5, 13 (Tier 1) | Mialyk et al. (2024), dataset 2.9 (CC BY 4.0). Green/blue split per Mekonnen & Hoekstra (2011): blue = irrigated − rainfed | Done; regions without the crop take the country or sub-region mean (`source_level`) |
 | `icleaned_crop_mapping.csv` | All 131 crop and feed names in the i-CLEANED databases → Mialyk crop (direct or proxy) and FAO-56 Table 12 entry with Kc values | – | Tier 1 / Tier 2 choice | This work, following Mialyk et al. (2024, Table S1) and Damerau (2024, Table 1) | Done; 59 crops with Tier 1, 72 forages/pastures/trees on Tier 2; 19 fodder trees and shrubs, plus cactus, need expert Kc |
+| `main_product_me.csv` | ME (ruminants, MJ/kg DM) of the main product of 31 residue-bearing crops, with the exact Feedipedia table, DM, SD and the i-CLEANED crop names it serves; `feedipedia_me_all_tables.csv` keeps every parsed table | MJ/kg DM | Eqs. 7–8 (ME-based residue allocation) | Feedipedia datasheets (INRAE, CIRAD, AFZ, FAO) | Done; 27 direct, 2 proxy (taro → cocoyam, sugar beet → fodder beet), 2 with no published ME (tomato fruits, whole sesame seeds) |
 
 ### Parameters that still need team or expert input (no public dataset)
 
 | Parameter | Used in | Proposed default in the methodology |
 |---|---|---|
-| ME of main products that are not listed feeds (e.g. groundnut kernels), for ME-based residue allocation | Eqs. 7–8 | Feedipedia defaults, flagged "assumed" |
+| ME for tomato fruits and whole sesame seeds (no Feedipedia value) | Eqs. 7–8 | Expert value or local analysis |
 | Pasture utilization u by grazing type | Section 4.1 | 0.35 / 0.60 / 0.85 (to be verified) |
 | Production system per livestock type (grazing, mixed or industrial), to pick the drinking and service water column | Eq. 16 | mixed |
 
@@ -53,6 +54,7 @@ python scripts/06_livestock_water.py   # values typed from Chapagain & Hoekstra 
 python scripts/07_crop_water_use.py    # Mialyk et al. 2024 dataset 2.9 (data.4tu.nl, doi:10.4121/7b45bcc6-...)
 python scripts/08_crop_mapping.py      # needs the i-CLEANED repo next to the raw folder (data/primary_database)
 python scripts/09_fill_gaps.py         # after 02 and 03
+python scripts/10_main_product_me.py   # Feedipedia datasheets saved as RAW/feedipedia/<node>.html
 ```
 
 ## References

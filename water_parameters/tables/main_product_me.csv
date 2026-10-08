@@ -1,0 +1,32 @@
+main_product,icleaned_crop_names,me_MJ_kgDM,me_sd,dm_pct_as_fed,status,feedipedia_table,url,note
+Maize grain,Maize; Zea mays; Zea mays IP; Fodder maize; Maize-silage; Zea mays-forage; Zea mays-silage,13.6,0.6,90.0,Feedipedia,"Maize grain, Subsaharan and East Africa",https://www.feedipedia.org/node/556,regional tables range 13.5-13.7 MJ/kg DM
+Sorghum grain,Sorghum; Sorghum bicolor-grain; Sorghum bicolor (forage/silage); Sorghum bicolor-forage/silage,13.5,1.0,87.4,Feedipedia,Sorghum grain (all types),https://www.feedipedia.org/node/224,
+Pearl millet grain,,13.3,,89.6,Feedipedia,"Pearl millet, grain",https://www.feedipedia.org/node/724,for pearl millet crops
+Finger millet grain,Eleusine coracana,11.8,,89.0,Feedipedia,"Finger millet (Eleusine coracana), grain",https://www.feedipedia.org/node/721,
+Wheat grain,Wheat; Triticum; Triticum IP; Triticum OF,13.1,0.7,87.0,Feedipedia,Wheat grain,https://www.feedipedia.org/node/223,
+Barley grain,Barley; Hordeum vulgare; Hordeum vulgare-grain IP; Hordeum vulgare-grain OFC; Hordeum vulgare (forage); Hordeum vulgare-forage,12.4,0.4,87.1,Feedipedia,Barley grain,https://www.feedipedia.org/node/227,
+Oat grain,Oats; Avena sativa,12.2,0.6,87.9,Feedipedia,Oats from regular genotypes (see naked and dehulled oats below),https://www.feedipedia.org/node/231,regular (hulled) genotypes
+Paddy rice,Rice; Oryza sativa,10.1,,88.0,Feedipedia,"Rough rice, paddy rice",https://www.feedipedia.org/node/226,harvested as paddy; brown rice 13.3
+Buckwheat grain,Fagopyrum esculentum,9.6,,84.9,Feedipedia,Buckwheat (Fagopyrum esculentum) grain,https://www.feedipedia.org/node/25140,
+Common bean seeds,Beans; Phaseolus vulgaris,13.6,,89.1,Feedipedia,Common bean seeds,https://www.feedipedia.org/node/266,
+Cowpea seeds,Cowpea; Vigna unguiculata; Vigna mungo,13.6,,89.9,Feedipedia,Cowpea seeds,https://www.feedipedia.org/node/232,Vigna mungo uses cowpea as proxy
+Faba bean seeds,Vicia faba-grain; faba bean (vicia faba),13.3,0.6,86.6,Feedipedia,"Faba bean (Vicia faba), all cultivars",https://www.feedipedia.org/node/4926,
+Lentil seeds,Lens culinaris; Lentils (Lens esculenta),13.5,,88.3,Feedipedia,Lentil seeds,https://www.feedipedia.org/node/284,
+Chickpea seeds,Cicer arietinum,13.85,,89.0,Feedipedia,"Chickpea seeds, desi type + Chickpea seeds, kabuli type",https://www.feedipedia.org/node/319,mean of desi and kabuli
+Pigeon pea seeds,,13.5,,89.2,Feedipedia,"Pigeon pea (Cajanus cajan), seeds",https://www.feedipedia.org/node/329,for pigeon pea crops
+Lablab seeds,,11.7,,90.0,Feedipedia,"Lablab (Lablab purpureus), seeds",https://www.feedipedia.org/node/297,only when lablab is grown for grain; forage lablab has AF = 1
+Groundnut pods (in shell),Groundnut,18.2,,92.9,Feedipedia,"Peanuts, with shells",https://www.feedipedia.org/node/55,as harvested; kernels without shells 23.0
+Soybean seeds,Glycine max IP,15.3,,88.7,Feedipedia,Include raw and processed whole soybeans,https://www.feedipedia.org/node/42,whole soybeans
+Cotton seeds (seed cotton),Cotton,12.0,,92.3,Feedipedia,"Cotton seeds, whole",https://www.feedipedia.org/node/742,ME of lint is not meaningful; whole seed used for the seed-cotton output
+Rapeseeds,Colza,20.3,,92.3,Feedipedia,"Rapeseeds, low erucic, low glucosinolates",https://www.feedipedia.org/node/15617,
+Sunflower seeds,,17.8,,92.8,Feedipedia,Sunflower seeds,https://www.feedipedia.org/node/40,for sunflower crops
+Cassava roots,Cassava ; cassava,12.4,,37.6,Feedipedia,"Cassava tubers, fresh",https://www.feedipedia.org/node/527,dehydrated tubers 12.2
+Sweet potato tubers,Sweet potato,12.0,,30.0,Feedipedia,"Sweet potato tubers, fresh",https://www.feedipedia.org/node/745,
+Taro corms,Taro; Cocoyam,11.8,,89.5,Feedipedia (proxy),"Taro (Colocasia esculenta), tuber, dried",https://www.feedipedia.org/node/537,cocoyam (Xanthosoma) uses taro as proxy
+Enset corm,Enset; Kocho,10.8,,21.5,Feedipedia,"Enset (Ensete ventricosum) corms, fresh",https://www.feedipedia.org/node/21251,
+Banana fruits,Banana; Musa spp.,11.3,,21.9,Feedipedia,"Banana fruits, mature, fresh",https://www.feedipedia.org/node/683,
+Sugarcane stalks,Sugarcane,9.5,,30.2,Feedipedia,"Sugarcane stalks, fresh",https://www.feedipedia.org/node/14462,
+Sugar beet roots,Beta vulgaris,12.5,,18.8,Feedipedia (proxy),"Beet root, sugar type, fresh",https://www.feedipedia.org/node/535,fodder beet uses sugar beet as proxy
+Carrot roots,Feed carrot,11.9,,10.7,Feedipedia,"Carrot roots, fresh",https://www.feedipedia.org/node/539,
+Tomato fruits,Tomato,,,7.3,missing,"Tomato fruits, fresh",https://www.feedipedia.org/node/7791,Feedipedia gives no ME for tomato fruits; expert value needed
+Sesame seeds,,,,96.6,missing,"Sesame seeds, whole",https://www.feedipedia.org/node/26,Feedipedia gives no ME for whole sesame seeds
