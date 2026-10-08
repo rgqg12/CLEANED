@@ -1,0 +1,132 @@
+icleaned_crop_name,mialyk_crop,mialyk_match,tier1_status,fao56_entry,note,Kc_ini,Kc_mid,Kc_end
+Aftermath,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,regrowth after harvest,0.3,0.75,0.75
+Amaranthus caudatus,vegetables,proxy,available,Spinach,leafy vegetable proxy,0.7,1.0,0.95
+Amaranthus – local ,vegetables,proxy,available,Spinach,leafy vegetable proxy,0.7,1.0,0.95
+Andropogon gayanus,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Arachis pintoi,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,forage legume (perennial peanut),0.4,0.95,0.85
+Avena sativa,barley,proxy,available,Oats,oats not among the 43 public crops; barley as small-grain proxy,0.3,1.15,0.25
+Avena sativa-forage,,,not available: Tier 2 (FAO-56),Oats,forage oats: Tier 2,0.3,1.15,0.25
+Avena sativa-fourrage,,,not available: Tier 2 (FAO-56),Oats,forage oats: Tier 2,0.3,1.15,0.25
+Axonopus scoparius,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Banana,bananas,direct,available,Banana - 2nd year,,1.0,1.2,1.1
+Barley,barley,direct,available,Barley,,0.3,1.15,0.25
+Bauhinia purpurea,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Beans,beans,direct,available,"Beans, dry and Pulses",,0.4,1.15,0.35
+Beta vulgaris,sugar_beet,proxy,available,Sugar Beet,fodder beet; sugar beet proxy,0.35,1.2,0.7
+Brachiaria brizantha ,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Brachiaria decumbens,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Brachiaria decumbens (hay),,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Brachiaria hybrid,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Brassica spp,cabbages,proxy,available,Cabbage,,0.7,1.05,0.95
+Cactus,,,not available: Tier 2 (FAO-56),no FAO-56 entry (CAM plant): expert Kc needed,Opuntia; very low ET,,,
+Calliandra,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder shrub,,,
+Canavalia brasiliensis,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,forage legume,0.4,0.95,0.85
+Cassava ,cassava,direct,available,Cassava - year 1,,0.3,0.8,0.3
+Cenchrus clandestinus,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,kikuyu grass,0.4,0.95,0.85
+Centrosema,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,forage legume,0.4,0.95,0.85
+Cicer arietinum,chick_peas,direct,available,Chick pea,,0.4,1.0,0.35
+Cocoyam,yams,proxy,available,,taro/cocoyam not among the 43 public crops; yams as root-crop proxy,,,
+Colza,rape_seed,direct,available,"Rapeseed, Canola",,0.35,1.075,0.35
+Cotton,seed_cotton,direct,available,Cotton,,0.35,1.1749999999999998,0.6
+Cowpea,beans,proxy,available,Green Gram and Cowpeas,cowpea not among the 43 public crops,0.4,1.05,0.475
+Cratylia,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder shrub,,,
+Cynodon nlemfuensis,,,not available: Tier 2 (FAO-56),Bermuda hay - averaged cutting effects,star grass,0.55,1.0,0.85
+Dactylis glomerata,,,not available: Tier 2 (FAO-56),Rye Grass hay - averaged cutting effects,cool-season grass,0.95,1.05,1.0
+Desmodium,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,forage legume,0.4,0.95,0.85
+Dichanthium aristatum,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Echinochloa polystachya,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,wetland forage grass,0.4,0.95,0.85
+Elephant grass,,,not available: Tier 2 (FAO-56),Sudan Grass hay (annual) - averaged cutting effects,Pennisetum purpureum; cut forage,0.5,0.9,0.85
+Eleusine coracana,millet,direct,available,Millet,finger millet,0.3,1.0,0.3
+Enset,bananas,proxy,available,Banana - 2nd year,Ensete ventricosum; banana proxy,1.0,1.2,1.1
+Fagopyrum esculentum,wheat,proxy,available,Spring Wheat,buckwheat; small-grain proxy,0.3,1.15,0.325
+Feed carrot,vegetables,proxy,available,Carrots,,0.7,1.05,0.95
+Ficus semicordata,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Fodder maize,maize,direct,available,"Maize, Field (grain) (field corn)",whole-plant forage: same field ET,0.3,1.2,0.475
+Fustuca arundinacea,,,not available: Tier 2 (FAO-56),Rye Grass hay - averaged cutting effects,tall fescue,0.95,1.05,1.0
+Garuga pinnata,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Gliricidia,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Glycine max IP,soya_beans,direct,available,Soybeans,purchased,0.4,1.15,0.5
+Green leaf desmodium,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,forage legume,0.4,0.95,0.85
+Groundnut,groundnuts,direct,available,Groundnut (Peanut),,0.4,1.15,0.6
+Guatemala,,,not available: Tier 2 (FAO-56),Sudan Grass hay (annual) - averaged cutting effects,Tripsacum laxum; cut forage,0.5,0.9,0.85
+Guazuma ulmifolia,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Hedysarum coronarium,,,not available: Tier 2 (FAO-56),"Clover hay, Berseem - averaged cutting effects",sulla; forage legume,0.4,0.9,0.85
+Hordeum vulgare,barley,direct,available,Barley,,0.3,1.15,0.25
+Hordeum vulgare (forage),barley,direct,available,Barley,whole-plant forage: same field ET,0.3,1.15,0.25
+Hordeum vulgare-forage,barley,direct,available,Barley,whole-plant forage: same field ET,0.3,1.15,0.25
+Hordeum vulgare-grain IP,barley,direct,available,Barley,purchased,0.3,1.15,0.25
+Hordeum vulgare-grain OFC,barley,direct,available,Barley,purchased,0.3,1.15,0.25
+Hyparrhenia rufa,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,natural grassland grass,0.3,0.75,0.75
+Improved pasture,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,,0.4,0.95,0.85
+Ischaemum ciliare,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Kocho,bananas,proxy,available,Banana - 2nd year,enset product; banana proxy,1.0,1.2,1.1
+Lablab,,,not available: Tier 2 (FAO-56),Green Gram and Cowpeas,forage legume,0.4,1.05,0.475
+Lens culinaris,chick_peas,proxy,available,Lentil,lentil not among the 43 public crops; pulse proxy,0.4,1.1,0.3
+Lentils (Lens esculenta),chick_peas,proxy,available,Lentil,lentil not among the 43 public crops; pulse proxy,0.4,1.1,0.3
+Leucaena,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Leucena leucocephala,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Local mixed grasses,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Lolium multiflorum,,,not available: Tier 2 (FAO-56),Rye Grass hay - averaged cutting effects,Italian ryegrass,0.95,1.05,1.0
+Maize,maize,direct,available,"Maize, Field (grain) (field corn)",,0.3,1.2,0.475
+Maize-silage,maize,direct,available,"Maize, Field (grain) (field corn)",whole-plant forage: same field ET,0.3,1.2,0.475
+Medicago sativa,,,not available: Tier 2 (FAO-56),Alfalfa Hay - averaged cutting effects,alfalfa not among the 43 public crops,0.4,0.95,0.9
+Melia azedarach,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Moringa oleifera,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Morus alba,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,mulberry,,,
+Mulberry,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,mulberry,,,
+Musa spp.,bananas,direct,available,Banana - 2nd year,,1.0,1.2,1.1
+Natural occurring pasture - Kilimanjaro region,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture - Desert & Desert Steppe,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture - Forest & Forest Steppe,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture - High Mountain,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+"Natural pasture - Mpigi, Mukono, and Masaka areas",,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture - Nakasongola area,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture - Tanga region,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Natural pasture hay,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Oats,barley,proxy,available,Oats,oats not among the 43 public crops; barley as small-grain proxy,0.3,1.15,0.25
+Olive,olives,direct,available,,FAO-56 olive entry flagged in Table 12 parse,,,
+Oryza sativa,rice,direct,available,Rice,,1.05,1.2,0.75
+Panicum maximum,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Paspalum notatum,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,tropical forage grass,0.4,0.95,0.85
+Pennisetum purpureum,,,not available: Tier 2 (FAO-56),Sudan Grass hay (annual) - averaged cutting effects,Napier grass; cut forage,0.5,0.9,0.85
+Pennisetum purpureum-silage,,,not available: Tier 2 (FAO-56),Sudan Grass hay (annual) - averaged cutting effects,Napier grass; cut forage,0.5,0.9,0.85
+Phaseolus vulgaris,beans,direct,available,"Beans, dry and Pulses",,0.4,1.15,0.35
+Plantago spp,,,not available: Tier 2 (FAO-56),Grazing Pasture - Rotated Grazing,forage herb,0.4,0.95,0.85
+Purchased,,,not available: Tier 2 (FAO-56),,generic purchased feed: Tier 1 by ingredient or declared exclusion,,,
+Pâturage naturel,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,,0.3,0.75,0.75
+Pâturage naturel OF,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,off-farm,0.3,0.75,0.75
+Red clover,,,not available: Tier 2 (FAO-56),"Clover hay, Berseem - averaged cutting effects",,0.4,0.9,0.85
+Rhodes,,,not available: Tier 2 (FAO-56),Bermuda hay - averaged cutting effects,Chloris gayana,0.55,1.0,0.85
+Rice,rice,direct,available,Rice,,1.05,1.2,0.75
+Rice (bran),rice,direct,available,Rice,by-product: allocate with Allocation 1,1.05,1.2,0.75
+Samanea saman,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Sambucus peruviana,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Sesbania,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder shrub,,,
+Sorghum,sorghum,direct,available,Sorghum - grain,,0.3,1.05,0.55
+Sorghum bicolor (forage/silage),sorghum,direct,available,Sorghum - grain,whole-plant forage: same field ET,0.3,1.05,0.55
+Sorghum bicolor-forage/silage,sorghum,direct,available,Sorghum - grain,whole-plant forage: same field ET,0.3,1.05,0.55
+Sorghum bicolor-grain,sorghum,direct,available,Sorghum - grain,,0.3,1.05,0.55
+Stipa tenacissima,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,"esparto grass, rangeland",0.3,0.75,0.75
+Sugarcane,sugar_cane,direct,available,,FAO-56 sugar cane in Table 12 group k,,,
+Sweet potato,sweet_potatoes,direct,available,Sweet Potato,,0.5,1.15,0.65
+Taro,yams,proxy,available,,taro not among the 43 public crops; yams as root-crop proxy,,,
+Tithonia diversifolia,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder shrub,,,
+Tomato,tomatoes,direct,available,Tomato,,0.6,1.15,0.8
+Trichantera gigantea,,,not available: Tier 2 (FAO-56),no FAO-56 entry (fodder tree/shrub): expert Kc needed,fodder tree,,,
+Trifolium alexandrinum,,,not available: Tier 2 (FAO-56),"Clover hay, Berseem - averaged cutting effects",berseem,0.4,0.9,0.85
+Trifolium repens,,,not available: Tier 2 (FAO-56),"Clover hay, Berseem - averaged cutting effects",white clover,0.4,0.9,0.85
+Triticum,wheat,direct,available,Spring Wheat,,0.3,1.15,0.325
+Triticum IP,wheat,direct,available,Spring Wheat,purchased,0.3,1.15,0.325
+Triticum OF,wheat,direct,available,Spring Wheat,off-farm,0.3,1.15,0.325
+Vicia faba-grain,beans,proxy,available,Fababean (broad bean) - Dry/Seed,broad bean not among the 43 public crops,0.5,1.15,0.3
+Vigna mungo,beans,proxy,available,Green Gram and Cowpeas,,0.4,1.05,0.475
+Vigna unguiculata,beans,proxy,available,Green Gram and Cowpeas,cowpea not among the 43 public crops,0.4,1.05,0.475
+Wheat,wheat,direct,available,Spring Wheat,,0.3,1.15,0.325
+Wild desmodium,,,not available: Tier 2 (FAO-56),Grazing Pasture - Extensive Grazing,"forage legume, wild",0.3,0.75,0.75
+Zea mays,maize,direct,available,"Maize, Field (grain) (field corn)",,0.3,1.2,0.475
+Zea mays IP,maize,direct,available,"Maize, Field (grain) (field corn)",purchased,0.3,1.2,0.475
+Zea mays-forage,maize,direct,available,"Maize, Field (grain) (field corn)",whole-plant forage: same field ET,0.3,1.2,0.475
+Zea mays-silage,maize,direct,available,"Maize, Field (grain) (field corn)",whole-plant forage: same field ET,0.3,1.2,0.475
+cassava,cassava,direct,available,Cassava - year 1,,0.3,0.8,0.3
+faba bean (vicia faba),beans,proxy,available,Fababean (broad bean) - Dry/Seed,broad bean not among the 43 public crops,0.5,1.15,0.3
