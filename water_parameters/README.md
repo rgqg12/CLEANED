@@ -26,7 +26,7 @@ These are the parameter tables i-CLEANED hosts so users don't have to enter them
 
 | Parameter | Used in | Proposed default in the methodology |
 |---|---|---|
-| Residue price ratio π per crop and country (only if economic allocation is kept) | Eq. 8 | 0.10 (illustrative) |
+| ME of main products that are not listed feeds (e.g. groundnut kernels), for ME-based residue allocation | Eqs. 7–8 | Feedipedia defaults, flagged "assumed" |
 | Pasture utilization u by grazing type | Section 4.1 | 0.35 / 0.60 / 0.85 (to be verified) |
 | Production system per livestock type (grazing, mixed or industrial), to pick the drinking and service water column | Eq. 16 | mixed |
 
