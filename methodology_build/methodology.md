@@ -28,11 +28,13 @@ Conventions used throughout: all water volumes are in m³; 1 mm of water over 1 
 
 | Product | Reference unit | Definition |
 | --- | --- | --- |
-| Milk | 1 kg fat- and protein-corrected milk (FPCM) | Milk standardized to 4.0% fat and 3.3% true protein (IDF 2022), Eq. 22 |
-| Meat | 1 kg live weight output | Live weight of animals sold or slaughtered plus net herd growth over the year |
-| Wool | 1 kg greasy wool | Wool as shorn |
-| Edible protein | 1 kg protein in milk and meat | Used for comparison across products |
-| Draught power | – | Receives its share of water (Section 8) but no per-unit figure is reported |
+| Milk | 1 kg fat- and protein-corrected milk (FPCM) | FAO/GLEAM formula used by all i-CLEANED indicators (Eq. 22); the IDF (2022) FPCM is reported as a secondary figure (Eq. 22b) |
+| Meat | 1 kg meat (carcass weight) | Annual live-weight gain × carcass fraction, as for all i-CLEANED indicators; per kg live weight reported as a secondary figure |
+| Edible protein | 1 kg protein in milk and meat | As computed by i-CLEANED for the other indicators |
+| Wool | – | Receives its share of water (Section 8) so that milk and meat are not charged for it, but no water footprint per kg wool is reported, because i-CLEANED does not report wool as an output |
+| Draught power | – | Receives its share of water (Section 8); no per-unit figure |
+
+These are the same units in which i-CLEANED already reports greenhouse gas emissions, land requirement, nitrogen balance and soil erosion, so that water results can be read side by side with them.
 
 **Two allocation steps.** A field of maize produces grain and stover; a herd produces milk, meat and sometimes wool or draught power. Water must therefore be divided twice, and each division is made exactly once:
 
@@ -412,16 +414,22 @@ Growth of replacement animals counts towards meat: in a steady-state herd, net l
 
 | Product | Q\_j | How it is calculated |
 | --- | --- | --- |
-| Milk | kg FPCM/yr | Eq. 22 below, from milk yield, fat % and true protein % |
-| Meat | kg live weight/yr | Σ\_k N\_k × annual weight gain of class k (steady state); carcass weight reported as a derived figure |
-| Wool | kg greasy wool/yr | Σ\_k N\_k × annual wool of class k |
-| Edible protein | kg protein/yr | Protein in milk plus protein in meat; its water is (AF\_milk + AF\_meat) × G\_herd, so wool and draught water are not charged to food |
+| Milk | kg FPCM/yr | Eq. 22, from milk yield, fat % and protein % (same formula as the other i-CLEANED indicators) |
+| Meat | kg carcass weight/yr | Σ\_k N\_k × annual weight gain of class k × carcass fraction of class k (steady state) |
+| Edible protein | kg protein/yr | Milk FPCM × milk protein % plus carcass weight × meat protein %, as in i-CLEANED; its water is (AF\_milk + AF\_meat) × G\_herd, so wool and draught water are not charged to food |
+| Wool, draught | – | No quantity reported; they only receive their share AF\_j |
+
+Secondary figures, reported for comparison with dairy and beef studies: water per kg IDF FPCM (Eq. 22b) and per kg live weight (Σ\_k N\_k × annual weight gain).
 
 ```latex
-FPCM = Milk\times(0.1226\,F + 0.0776\,P_{true} + 0.2534)\qquad\text{(Eq. 22; IDF 2022)}
+FPCM = Milk\times(0.337 + 0.116\,F + 0.06\,P)\qquad\text{(Eq. 22; FAO 2016b)}
 ```
 
-with Milk in kg, F the fat content (%) and P\_true the true protein content (%). If only crude protein is recorded, it must be converted to true protein before use.
+with Milk in kg, F the fat content (%) and P the protein content (%). This is the formula i-CLEANED uses for all its per-kg-milk indicators. The IDF (2022) formula, reported as a secondary figure, is shown below; it needs true protein (P\_true), so crude protein must be converted first:
+
+```latex
+FPCM_{IDF} = Milk\times(0.1226\,F + 0.0776\,P_{true} + 0.2534)\qquad\text{(Eq. 22b; IDF 2022)}
+```
 
 ### 8.5 Rules
 
@@ -429,7 +437,7 @@ with Milk in kg, F the fat content (%) and P\_true the true protein content (%).
 2. **Manure** receives no share. It is an internal flow to the farm's crops; giving it water would count that water twice.
 3. **Product not produced:** if Q\_j = 0 then E\_j = 0 and AF\_j = 0, and the result says "not produced" instead of 0 or infinity.
 4. **Dairy comparison:** for herds selling milk and meat, AF\_milk from Eq. 19 is reported beside the IDF (2022) net-energy value (Eq. 23, coefficients to be checked against IDF Bulletin 520 †). A difference above 0.10 is flagged for review.
-5. **No double counting:** Σ\_j AF\_j × G\_herd = G\_herd. The same cubic metre is never charged to two products.
+5. **No double counting:** Σ\_j AF\_j × G\_herd = G\_herd. The same cubic metre is never charged to two products. The other i-CLEANED indicators (greenhouse gas emissions, land, nitrogen balance, erosion) currently divide the farm total by each product without allocation; extending Eq. 19 to them is proposed to the team (Section 14) so that all indicators use the same rule.
 
 ```latex
 AF_{milk}^{IDF}=\frac{NE_L\,M_{milk}}{NE_L\,M_{milk}+NE_G\,M_{meat}}\qquad\text{(Eq. 23)}
@@ -440,9 +448,11 @@ AF_{milk}^{IDF}=\frac{NE_L\,M_{milk}}{NE_L\,M_{milk}+NE_G\,M_{meat}}\qquad\text{
 A herd of one improved cow and two growing steers (the Study\_1 farm, Section 16): E\_milk = 6,811 MJ/yr and E\_meat = 4,506 MJ/yr; no wool or draught.
 
 - AF\_milk = 6,811 / (6,811 + 4,506) = **0.60**; AF\_meat = **0.40** (Eq. 19).
-- G\_herd = 3,092 m³ (Eq. 20); FPCM = 2,280 kg/yr; live weight output = 250 kg/yr.
-- WF\_milk = 0.60 × 3,092 / 2,280 = **0.82 m³/kg FPCM**; WF\_meat = 0.40 × 3,092 / 250 = **4.92 m³/kg live weight** (Eq. 21).
-- Check: 0.816 × 2,280 + 4.92 × 250 = 1,861 + 1,231 = 3,092 m³, the herd total, so no water is counted twice.
+- G\_herd = 3,092 m³ (Eq. 20). Milk: 2,135 kg with 4.3% fat and 3.7% protein, so FPCM = 2,135 × (0.337 + 0.116 × 4.3 + 0.06 × 3.7) = 2,258 kg/yr (Eq. 22). Meat: 2 steers × 125 kg gain × 0.49 carcass fraction = 122.5 kg carcass/yr.
+- WF\_milk = 0.602 × 3,092 / 2,258 = **0.82 m³/kg FPCM**; WF\_meat = 0.398 × 3,092 / 122.5 = **10.05 m³/kg carcass weight** (Eq. 21).
+- Check: 0.824 × 2,258 + 10.05 × 122.5 = 1,861 + 1,231 = 3,092 m³, the herd total, so no water is counted twice.
+- Edible protein: 2,258 × 3.7% + 122.5 × 26% = 115.4 kg/yr, so 3,092 / 115.4 = 26.8 m³ per kg protein.
+- Secondary figures: 0.82 m³/kg IDF FPCM (2,280 kg) and 4.92 m³/kg live weight (250 kg).
 
 ## 9. Step 6 – Blue water (phase 2)
 
@@ -511,7 +521,7 @@ SW\_k is service water (cleaning, cooling) per head per day from Chapagain and H
 B_{herd}=\sum_i B_i+B_{drink}+B_{service},\qquad WF_{b,j}=\frac{AF_j\times B_{herd}}{Q_j}\qquad\text{(Eq. 29)}
 ```
 
-Reported: total blue water split into irrigation, drinking and service; the monthly irrigation profile; and blue water per kg FPCM, per kg live weight and per kg wool.
+Reported: total blue water split into irrigation, drinking and service; the monthly irrigation profile; and blue water per kg FPCM, per kg carcass weight and per kg protein.
 
 **Capillary rise.** Mialyk et al. (2024) count water rising from shallow groundwater into the root zone as blue water, even in rainfed crops. Because nobody abstracts it, it will be reported as a separate line and not added to B\_herd, pending a team decision (Section 14). Rainwater harvested in ponds or pans is runoff, so it counts as blue water when used.
 
@@ -573,13 +583,16 @@ i-CLEANED will report the indicators below. Blue-water indicators appear in phas
 | Total green water of the enterprise | m³/yr | G\_herd (Eq. 20) |
 | Green water per hectare of feed land | m³/ha/yr | G\_herd / Σ A\_i |
 | Green water per feed item | m³/yr and % of total | G\_i (Eq. 10) |
-| Green water footprint of milk | m³/kg FPCM | WF\_milk (Eq. 21) |
-| Green water footprint of meat | m³/kg live weight | WF\_meat (Eq. 21) |
-| Green water footprint of wool; of edible protein | m³/kg | Eq. 21; Section 8.4 |
-| Green water productivity | kg FPCM/m³; kg live weight/m³ | Q\_j / (AF\_j × G\_herd), the form required by FAO (2019) |
+| Green water footprint of milk | m³/kg FPCM | WF\_milk (Eq. 21), FPCM by Eq. 22 |
+| Green water footprint of meat | m³/kg carcass weight | WF\_meat (Eq. 21) |
+| Green water footprint of edible protein | m³/kg protein | (AF\_milk + AF\_meat) × G\_herd / protein (Section 8.4) |
+| Secondary: per kg IDF FPCM; per kg live weight | m³/kg | Eqs. 21, 22b |
+| Green water productivity | kg FPCM/m³; kg carcass/m³ | Q\_j / (AF\_j × G\_herd), the form required by FAO (2019) |
 | Share of effective rainfall used for feed | % | Σ ETg over the feed land / Σ Peff over the same land and months; never above 100% |
 | Excluded share of intake | % | S\_excl (Eq. 11) |
 | Water stress class; RWD | class; ratio | Section 10 (phase 2) |
+
+No water footprint per kg wool or per unit of draught power is reported; those functions only receive their share AF\_j.
 
 **Metadata reported with every result:**
 
@@ -634,8 +647,8 @@ The table compares the current i-CLEANED water calculation (as described in the 
 | Main crop vs residue | Mass share, applied twice in per-feed results; a residue with no main yield takes 100% | One ME-based split per crop, closing to 100% (Section 7) | ISO 14044 physical basis; consistent with Allocation 2; avoids double counting | P: ME of main products |
 | Grazed pasture | Removal fraction 0.9 treated as utilization | Utilization u with realistic defaults and two attribution conventions (Section 6.2) | Grazing animals eat 30–50% of rangeland biomass; the result scales with 1/u | U (optional): grazing type, local u |
 | Purchased feed | Farm climate applied; concentrates count as zero | Tier 1 for the region of origin, or a declared, quantified exclusion (Section 6.3) | Water belongs to where the feed grew (ISO 2014) | U (optional): region of origin |
-| Milk, meat, wool | Total water divided by each product separately, so the same water is counted two or three times | Feed-energy allocation that sums to 100% (Section 8) | Causal, physical (ISO 14044); matches IDF (2022); recommended by Damerau (2024) | None (energy terms already computed) |
-| Reference units | FAO/GLEAM FPCM; carcass weight | IDF 2022 FPCM; live weight output; wool (Section 8.4) | Comparability with the dairy standard | – |
+| Milk, meat, wool | Total water divided by each product separately, so the same water is counted two or three times | Feed-energy allocation that sums to 100% (Section 8); proposed for all i-CLEANED indicators (Section 14) | Causal, physical (ISO 14044); matches IDF (2022); recommended by Damerau (2024) | None (energy terms already computed) |
+| Reference units | FAO/GLEAM FPCM; carcass weight | Same units as all other i-CLEANED indicators (FAO/GLEAM FPCM, carcass weight, protein); IDF 2022 FPCM and live weight as secondary figures; wool and draught receive a share but no per-unit figure (Section 8.4) | Water results must be comparable with the other i-CLEANED indicators in the same report; the secondary units give comparability with the dairy standard (IDF 2022) | – |
 | Blue water: irrigation | Not calculated, except rice | Tier 1 or monthly deficit, optional volume cap (Section 9.1) | Hoekstra et al. 2011; Damerau 2024; needed for irrigation scenarios | U: irrigated yes/no; P: efficiencies |
 | Blue water: drinking | A fixed undocumented value per animal type (e.g. 140 L/day per cow), not used | Published values by class and production system (Section 9.2) | Drinking is most blue water in rainfed systems (Mekonnen and Hoekstra 2010); the old values are 2–3 times published drinking water | P: Chapagain and Hoekstra table; U (optional): system |
 | Blue water: service | None | Per head per day plus feed mixing (Section 9.3) | Mekonnen and Hoekstra 2010 | P |
@@ -649,6 +662,8 @@ None of these items stops the calculation: each has a default that is flagged in
 
 | Decision | Default until decided | Why it matters |
 | --- | --- | --- |
+| Extend energy-based allocation (Eq. 19) to greenhouse gas emissions, land, nitrogen balance and erosion | Water allocated; other indicators unchanged (farm total divided by each product) | Today those indicators count the same emissions or land once for milk and again for meat; water would be the only allocated indicator |
+| Report wool as an i-CLEANED output | Not reported; wool receives its water share but no per-kg figure | A per-kg-wool footprint needs wool production in the outputs of all indicators |
 | Pasture utilization defaults | 0.35 / 0.60 / 0.85 (Section 6.2) | The most sensitive default: moving from 0.9 to 0.35 multiplies pasture water per kg by about 2.6 |
 | Crop coefficients for 19 fodder trees and shrubs, and cactus | Coefficients in the i-CLEANED crop table, flagged unverified | No FAO-56 values exist; the stored values differ between databases, and the cactus value (Kc,mid 1.15) is implausible for a plant that saves water |
 | ME for tomato fruits and whole sesame seeds | Mass allocation for those crops | No published value |
@@ -659,7 +674,7 @@ None of these items stops the calculation: each has a default that is flagged in
 | Climate normals | WorldClim 2.1, 1970–2000 | A 1991–2020 normal (TerraClimate or CHIRPS) would match the other datasets better |
 | Second validation case | Not chosen | Irrigated systems are untested |
 | Livestock and crop proxies (buffalo, lambs, kids, growers; oats, lentils, cowpea, taro and others) | Current mappings, flagged assumed | Expert review needed |
-| True or crude protein in the milk records | Treated as true protein | FPCM (Eq. 22) needs true protein |
+| True or crude protein in the milk records | Treated as recorded | Only the secondary IDF FPCM (Eq. 22b) needs true protein |
 
 ## 15. Limitations
 
@@ -693,9 +708,12 @@ Groundnut residue AF (Eq. 13): pods 0.56 t × 18.2 MJ and haulms 1.86 t × 8.4 M
 | --- | --- | --- |
 | Total water | 733 labelled m³ (really mm × ha, about 7,300 m³) | 3,092 m³ green; 57 m³ blue (drinking 46, service 10) |
 | Milk | 0.32 per kg FPCM, all water to milk | 0.82 m³ green per kg FPCM (AF 0.60) |
-| Meat | 5.98 per kg carcass, all water again to meat | 4.92 m³ green per kg live weight (AF 0.40) |
+| Meat | 5.98 per kg carcass weight, all water again to meat | 10.05 m³ green per kg carcass weight (AF 0.40) |
+| Edible protein | 6.35 per kg protein | 26.8 m³ green per kg protein |
 | Concentrate | Silently zero | 9.7% of intake reported as excluded |
 | Local context | – | Aqueduct low–medium; RWD 0.04 |
+
+Both columns use the same units (FAO/GLEAM FPCM, carcass weight, protein), so the comparison is direct. Secondary figures: 0.82 m³ per kg IDF FPCM and 4.92 m³ per kg live weight.
 
 The results move in opposite directions: the unit correction multiplies the current value by 10, while the rainfall cap, the growing-season limit and the end of double counting reduce it. The test also revealed defaults that had to be applied: the groundnut main yield was missing (crop-table default 0.56 t DM/ha used), and the steers' adult weight was 0 (600 kg used, Section 4.3). Using the default utilization of 0.35 instead of the farm's 0.9 would raise pasture water about 2.6 times.
 
