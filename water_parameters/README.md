@@ -86,6 +86,6 @@ python scripts/10_main_product_me.py   # Feedipedia datasheets saved as RAW/feed
 
 Every default or repair it applies is returned as a flag.
 
-- Unit tests: `R/tests/test_water_footprint.R` (13 checks, including the maize worked example of Section 5.4).
+- Unit tests: `R/tests/test_water_footprint.R` (16 checks, including the maize worked example of Section 5.4).
 - Study_1 comparison: `R/example_study1.R`, results in `R/STUDY1_RESULTS.md`.
 - New finding from the test: `cleaned::energy_requirement()` returns zero growth energy when `adult_weight` is 0, as for the Study_1 steers.

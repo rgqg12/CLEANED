@@ -23,7 +23,8 @@ wf_load_tables <- function(tables_dir) {
     main_me      = rd("main_product_me.csv"),
     livestock    = rd("livestock_water_icleaned.csv"),
     availability = rd("water_availability_admin1_annual.csv"),
-    stress       = rd("water_stress_admin1_annual.csv")
+    stress       = rd("water_stress_admin1_annual.csv"),
+    table11      = rd("fao56_table11_stage_lengths.csv")
   )
 }
 
@@ -46,6 +47,15 @@ wf_onset_month <- function(clim) {
   prev <- c(wet[12], wet[1:11])
   m <- which(wet & !prev)
   if (length(m)) m[1] else which.max(clim$P_mm)
+}
+
+# Season length of an annual crop: median FAO-56 Table 11 total for the crop, else the default (Section 3.3)
+wf_season_days <- function(fao_entry, table11, default_days) {
+  key <- tolower(sub("^([A-Za-z]+).*", "\\1", fao_entry))
+  if (!nzchar(key)) return(default_days)
+  hit <- table11$L_total_days[tolower(substr(table11$crop, 1, nchar(key))) == key]
+  hit <- hit[!is.na(hit)]
+  if (length(hit)) stats::median(hit) else default_days
 }
 
 # Monthly balance for an annual crop (Eqs. 2, 4, 14): returns ETc, ETg, ETb per month (mm)
@@ -113,7 +123,7 @@ water_footprint <- function(para, land_required, energy_required, gid1, tables_d
                             irrigation_applied_mm = list(),   # optional: named by feed item, mm per season
                             application_efficiency = 0.60,    # surface irrigation default (Eq. 15)
                             production_system = "mixed",      # drinking/service water column
-                            annual_gp_days = 120,             # Tier 2 default growing period
+                            annual_gp_days = 120,             # Tier 2 season length when FAO-56 Table 11 has none
                             main_yield_defaults = NULL) {     # data.frame(crop_name, dry_yield) from lkp_crops
   tb <- wf_load_tables(tables_dir)
   flags <- character()
@@ -151,9 +161,10 @@ water_footprint <- function(para, land_required, energy_required, gid1, tables_d
       kc <- c(num(it$kc_initial), num(it$kc_midseason), num(it$kc_late))
       fao <- if (nrow(map)) map$fao56_entry[1] else ""
       perennial <- grepl("Pasture|Bermuda|Rye Grass|Sudan Grass|Alfalfa|Clover", fao)
+      gp <- wf_season_days(fao, tb$table11, annual_gp_days)
       bal <- if (perennial) wf_balance_perennial(kc[1], kc[2], clim) else
-        wf_balance_annual(kc[1], kc[2], kc[3], annual_gp_days, onset, clim)
-      r$tier <- paste0("Tier 2 (FAO-56, ", if (perennial) "perennial" else paste0("annual, ", annual_gp_days, " d from month ", onset), ")")
+        wf_balance_annual(kc[1], kc[2], kc[3], gp, onset, clim)
+      r$tier <- paste0("Tier 2 (FAO-56, ", if (perennial) "perennial" else paste0("annual, ", gp, " d from month ", onset), ")")
       r$GWU_m3_ha <- 10 * sum(bal$ETg)
       if (r$irrigated) {
         bwu <- 10 * sum(bal$ETb)
@@ -173,9 +184,13 @@ water_footprint <- function(para, land_required, energy_required, gid1, tables_d
       if (is.na(r_M) || r_M == 0) { r_M <- 1; flags <- c(flags, paste0(it$feed, ": main_product_removal is 0, set to 1 (grain harvested)")) }
       me_row <- tb$main_me[grepl(paste0("(^|; )", it$crop_name, "($|;)"), tb$main_me$icleaned_crop_names, fixed = FALSE), ]
       me_M <- if (nrow(me_row)) me_row$me_MJ_kgDM[1] else NA
-      if (is.na(me_M) || is.na(Y_M) || Y_M == 0) {
-        r$AF <- 1; r$note <- "AF_R = 1: main-product yield or ME missing (flagged)"
-        flags <- c(flags, paste0(it$feed, ": residue allocation not possible, AF_R = 1"))
+      if (is.na(Y_M) || Y_M == 0) {
+        r$AF <- 1; r$note <- "AF_R = 1: main-product yield missing (flagged)"
+        flags <- c(flags, paste0(it$feed, ": residue allocation not possible, main-product yield missing, AF_R = 1"))
+      } else if (is.na(me_M)) {                                    # no published ME: mass allocation (Section 5.3)
+        r$AF <- wf_af_residue(Y_M * r_M, Y_R * r_R, 1, 1)
+        r$note <- sprintf("mass allocation (main-product ME missing): M=%.2f R=%.2f t DM/ha", Y_M * r_M, Y_R * r_R)
+        flags <- c(flags, paste0(it$feed, ": main-product ME missing, mass allocation used"))
       } else {
         r$AF <- wf_af_residue(Y_M * r_M, Y_R * r_R, me_M, num(it$me_content))
         r$note <- sprintf("ME allocation: M=%.2f R=%.2f t DM/ha, ME_M=%.1f ME_R=%.1f", Y_M * r_M, Y_R * r_R, me_M, num(it$me_content))

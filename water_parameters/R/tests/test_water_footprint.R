@@ -39,3 +39,11 @@ test_that("herd allocation closes to 1 and maps energy to co-products (Eq. 11)",
   expect_equal(sum(a$AF), 1)
   expect_equal(a$AF[a$coproduct == "milk"], 18 / (18 + 3 + 12))
 })
+
+test_that("season length comes from FAO-56 Table 11, else the default (Section 3.3)", {
+  t11 <- utils::read.csv(testthat::test_path("..", "..", "tables", "fao56_table11_stage_lengths.csv"), stringsAsFactors = FALSE)
+  maize <- wf_season_days("Maize - grain", t11, 120)
+  expect_true(maize > 100 && maize < 200)
+  expect_equal(wf_season_days("Unknownplant", t11, 120), 120)
+  expect_equal(wf_season_days("", t11, 120), 120)
+})

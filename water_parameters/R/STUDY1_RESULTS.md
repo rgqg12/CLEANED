@@ -2,16 +2,16 @@
 
 Study_1 is the i-CLEANED example farm "Rungwe" (Southern Highland Tanzania Dairy database), mapped to GADM region Mbeya, `TZA.13_1`. The herd is 1 improved cow (2,135 kg milk/yr) and 2 improved steers/heifers (125 kg gain each). They eat commercial concentrate, natural pasture, Napier grass, lablab forage and groundnut residue.
 
-Reproduce with `Rscript water_parameters/R/example_study1.R` (see the header of that file). Unit tests: `Rscript -e 'testthat::test_file("water_parameters/R/tests/test_water_footprint.R")'` (13 checks pass).
+Reproduce with `Rscript water_parameters/R/example_study1.R` (see the header of that file). Unit tests: `Rscript -e 'testthat::test_file("water_parameters/R/tests/test_water_footprint.R")'` (16 checks pass).
 
 ## Headline indicators
 
 | Indicator | `cleaned::water_requirement()` today | Revised methodology |
 |---|---|---|
-| Total water | 733 labelled "m³" (really mm × ha; 7,326 m³ if converted) | Green 3,183 m³; blue 57 m³ (drinking 46, service 10, irrigation 0) |
-| Water per kg milk | 0.32 (all water charged to milk; FAO/GLEAM FPCM; unit error) | 0.84 m³ green per kg FPCM (IDF 2022 FPCM; milk share 0.60) |
-| Water per kg meat | 5.98 (all water charged to meat, per kg carcass) | 5.07 m³ green per kg live weight (meat share 0.40) |
-| Feed area | – | 0.71 ha; 4,513 m³/ha green |
+| Total water | 733 labelled "m³" (really mm × ha; 7,326 m³ if converted) | Green 3,092 m³; blue 57 m³ (drinking 46, service 10, irrigation 0) |
+| Water per kg milk | 0.32 (all water charged to milk; FAO/GLEAM FPCM; unit error) | 0.82 m³ green per kg FPCM (IDF 2022 FPCM; milk share 0.60) |
+| Water per kg meat | 5.98 (all water charged to meat, per kg carcass) | 4.92 m³ green per kg live weight (meat share 0.40) |
+| Feed area | – | 0.71 ha; 4,384 m³/ha green |
 | Local context | – | Aqueduct: Low–Medium stress; blue use is 4.1% of sustainable availability (1,945 m³/ha/yr) |
 
 ## Per feed item
@@ -20,7 +20,7 @@ Reproduce with `Rscript water_parameters/R/example_study1.R` (see the header of 
 |---|---|---|---|---|---|---|
 | Concentrate (commercial) | excluded (purchased, no supplier data) | 0.68 | – | – | – | 0 (9.7% of intake declared excluded) |
 | Groundnut residue | Tier 1, Mialyk groundnuts, Mbeya | 0.28 | 5,834 | 0.60 (ME: pods 0.56 t × 18.2 MJ vs residue 1.86 t × 8.4 MJ) | 1.86 | 536 |
-| Lablab forage | Tier 2, annual, 120 days from December onset | 3.01 | 3,554 | 1 | 10.8 | 990 |
+| Lablab forage | Tier 2, annual, 110 days (FAO-56 Table 11, green gram/cowpea) from December onset | 3.01 | 3,225 | 1 | 10.8 | 898 |
 | Natural pasture | Tier 2, perennial (extensive grazing Kc) | 1.03 | 4,895 | 1 (u = 0.9) | 11.3 | 443 |
 | Napier grass | Tier 2, perennial | 2.03 | 6,591 | 1 | 11.0 | 1,214 |
 
@@ -42,5 +42,5 @@ Reproduce with `Rscript water_parameters/R/example_study1.R` (see the header of 
 ## Assumptions used in this test (defaults, not Study_1 data)
 
 - Region Mbeya (Rungwe district). All feed rainfed (no irrigation flag in the study). Production system "mixed" for drinking and service water.
-- Lablab treated as an annual forage, 120 days from the rainfall onset month. Pasture and Napier treated as perennials, at Kc_mid in wet months and Kc_ini in dry months.
+- Lablab treated as an annual forage (FAO-56 proxy: green gram and cowpeas), 110 days from the rainfall onset month (median FAO-56 Table 11 length). Pasture and Napier treated as perennials, at Kc_mid in wet months and Kc_ini in dry months.
 - Utilization of natural pasture taken from the study's `main_product_removal` (0.9). The proposed default for communal grazing (0.35) would raise pasture green water per kg about 2.6 times.
