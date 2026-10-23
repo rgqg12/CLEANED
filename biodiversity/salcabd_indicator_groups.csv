@@ -1,0 +1,12 @@
+Indicator group,HÖA,"Nopt,min",Weight
+Flora of crops,False,False,10.0
+Flora of grasslands,False,False,8.5
+Birds,False,False,5.1
+Small mammals,False,False,4.1
+Amphibia,True,True,3.1
+Molluscs,True,True,5.3
+Spiders,True,True,6.8
+Carabids,True,True,6.8
+Butterflies,True,False,6.0
+Wild bees,False,False,6.4
+Grasshoppers,True,False,5.0
